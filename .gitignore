@@ -1,0 +1,7 @@
+.env
+node_modules/
+logs/*.log
+data/curated-preferences.js
+data/generated-data.tmp.js
+dist/
+.DS_Store

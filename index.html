@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>热门情报站</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="频道导航">
+        <div class="brand">
+          <div class="brand-mark">
+            <img src="assets/earth-logo.jpeg" alt="地球" />
+          </div>
+          <div>
+            <p class="eyebrow">Hot Intelligence</p>
+            <h1>热门情报站</h1>
+          </div>
+        </div>
+
+        <nav class="channel-nav" id="channelNav"></nav>
+
+        <section class="source-policy">
+          <p class="eyebrow">来源策略</p>
+          <strong>权威和合规优先</strong>
+          <span>重大事件分国内/国外来源池：国内补充微博、小红书、抖音、B站、百度热搜、央视、新华社、中新网等；国外补充 AP、AFP、Guardian、Channel 4、CNN-News18、FOX 9、X、Instagram。</span>
+        </section>
+      </aside>
+
+      <main class="main">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">北京时间 · 每天早上生成</p>
+            <h2>今日全球事件与流行趋势</h2>
+          </div>
+          <div class="date-card">
+            <span id="todayLabel">2026-05-19</span>
+            <strong>过去 24 小时</strong>
+          </div>
+        </header>
+
+        <section class="brief-band" aria-label="今日摘要">
+          <div class="brief-copy">
+            <p class="eyebrow">今日摘要</p>
+            <h3>严肃事件、文化热点和平台趋势分频道呈现，避免热榜挤掉真正重要的事件。</h3>
+            <p>
+              每条消息保留来源、报道材料、图片视频和相关线索，便于快速判断事件背景与可信度。
+            </p>
+            <p class="update-stamp" id="updateStamp">最后更新：尚未运行每日更新</p>
+          </div>
+          <div class="brief-metrics">
+            <div>
+              <strong id="totalItems">0</strong>
+              <span>已收录条目</span>
+            </div>
+            <div>
+              <strong id="channelMetric">0</strong>
+              <span>频道</span>
+            </div>
+            <div>
+              <strong id="confirmedItems">0</strong>
+              <span>已确认</span>
+            </div>
+          </div>
+        </section>
+
+        <section class="controls" aria-label="筛选与搜索">
+          <label class="date-field">
+            <span>查看日期</span>
+            <input id="dateInput" type="date" />
+          </label>
+          <label class="search-box">
+            <span aria-hidden="true">⌕</span>
+            <input id="searchInput" type="search" placeholder="搜索事件、人物、平台或来源" />
+          </label>
+          <div class="segmented" role="group" aria-label="可信度筛选">
+            <button class="segment active" data-confidence="all" type="button">全部</button>
+            <button class="segment" data-confidence="confirmed" type="button">已确认</button>
+            <button class="segment" data-confidence="developing" type="button">发展中</button>
+            <button class="segment" data-confidence="single_source" type="button">待确认</button>
+          </div>
+        </section>
+
+        <section class="range-controls" aria-label="搜索时间范围">
+          <div class="range-title">
+            <p class="eyebrow">搜索时间范围</p>
+            <strong id="dateModeLabel">单日查看</strong>
+          </div>
+          <label class="date-field">
+            <span>开始</span>
+            <input id="startDateInput" type="date" />
+          </label>
+          <label class="date-field">
+            <span>结束</span>
+            <input id="endDateInput" type="date" />
+          </label>
+          <button class="text-button" id="applyRange" type="button">按范围搜索</button>
+          <button class="text-button secondary" id="resetDate" type="button">回到今日</button>
+        </section>
+
+        <section class="channel-strip" id="channelStrip" aria-label="频道概览"></section>
+
+        <section class="content-grid">
+          <div class="feed">
+            <div class="section-heading">
+              <div>
+                <p class="eyebrow" id="activeChannelMeta">全部频道</p>
+                <h3 id="activeChannelTitle">今日条目</h3>
+              </div>
+              <span id="resultCount" class="result-count"></span>
+            </div>
+            <div id="itemList" class="item-list"></div>
+          </div>
+
+          <aside class="insight-panel" aria-label="今日重点">
+            <div class="panel-block">
+              <p class="eyebrow">今日重点地区</p>
+              <div id="regionList" class="tag-cloud"></div>
+            </div>
+            <div class="panel-block">
+              <p class="eyebrow">国内新闻来源池</p>
+              <div id="domesticSourceList" class="source-mini-grid"></div>
+            </div>
+            <div class="panel-block">
+              <p class="eyebrow">人物名单策略</p>
+              <p class="panel-text">维护名单优先，自动发现补充当天突然出圈的人物，并在详情中标记来源类型。</p>
+            </div>
+          </aside>
+        </section>
+
+        <footer class="site-footer">
+          <span>热门情报站 · 正式预览版</span>
+          <span>北京时间每日更新，支持按日期与时间范围回看。</span>
+        </footer>
+      </main>
+    </div>
+
+    <div class="drawer-backdrop" id="drawerBackdrop" hidden></div>
+    <aside class="detail-drawer" id="detailDrawer" aria-label="事件详情" aria-hidden="true">
+      <button class="icon-button close-drawer" id="closeDrawer" type="button" aria-label="关闭详情">×</button>
+      <div id="drawerContent"></div>
+    </aside>
+
+    <script src="data/generated-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

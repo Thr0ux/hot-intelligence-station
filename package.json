@@ -1,0 +1,10 @@
+{
+  "name": "hot-intelligence-station",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare:site": "node tools/prepare-static-site.mjs",
+    "update:daily": "node tools/update-daily-data.mjs"
+  }
+}

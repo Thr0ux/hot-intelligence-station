@@ -1,12 +1,12 @@
-window.HOT_INTELLIGENCE_GENERATED_AT = "2026年9月15日 09:23";
+window.HOT_INTELLIGENCE_GENERATED_AT = "2026年9月16日 09:22";
 window.HOT_INTELLIGENCE_ITEMS = [
   {
-    "id": "2026-09-15-hot-百度热搜-1-E5A78BE7BB88E68A8AE4BABAE6B091E7949F",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-1-100E7A792E79C8BE4B9A0E8BF91E5B9B3E58",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "始终把人民生命安全放在首位",
-    "summaryZh": "2026-09-15 百度热搜第 1 名，热度 790.4万。2026年汛期，我国多地遭遇持续性极端强降水过程，多处河流、水库遭遇险情，人民群众生命财产安全面临严峻考验。习近平总书记高度关注雨情、汛情、灾情，始终牵挂灾区群众安危，亲自部署、亲自指挥防汛抗洪救灾工作，多次主持召开重要会议、作出重要指示，要求“扎实做好防灾救灾各项工作，确保人民群众生命财产安全”。",
+    "titleZh": "100秒看习近平南亚之行三大成果",
+    "summaryZh": "2026-09-16 百度热搜第 1 名，热度 790.5万。今年9月，习近平主席应邀赴印度出席金砖国家领导人第十八次会晤。在新德里不到24小时的时间里，习近平主席密集出席近10场活动。风聚千帆劲！100秒看习近平南亚之行三大成果。",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -27,47 +27,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
-      "排名：百度热搜第 1 名，热度 790.4万。",
-      "具体信息：始终把人民生命安全放在首位。2026年汛期，我国多地遭遇持续性极端强降水过程，多处河流、水库遭遇险情，人民群众生命财产安全面临严峻考验。习近平总书记高度关注雨情、汛情、灾情，始终牵挂灾区群众安危，亲自部署、亲自指挥防汛抗洪救灾工作，多次主持召开重要会议、作出重要指示，要求“扎实做好防灾救灾各项工作，确保人民群众生命财产安全”。",
+      "排名：百度热搜第 1 名，热度 790.5万。",
+      "具体信息：100秒看习近平南亚之行三大成果。今年9月，习近平主席应邀赴印度出席金砖国家领导人第十八次会晤。在新德里不到24小时的时间里，习近平主席密集出席近10场活动。风聚千帆劲！100秒看习近平南亚之行三大成果。",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "始终把人民生命安全放在首位",
-        "url": "https://www.baidu.com/s?wd=%E5%A7%8B%E7%BB%88%E6%8A%8A%E4%BA%BA%E6%B0%91%E7%94%9F%E5%91%BD%E5%AE%89%E5%85%A8%E6%94%BE%E5%9C%A8%E9%A6%96%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "2026年汛期，我国多地遭遇持续性极端强降水过程，多处河流、水库遭遇险情，人民群众生命财产安全面临严峻考验。习近平总书记高度关注雨情、汛情、灾情，始终牵挂灾区群众安危，亲自部署、亲自指挥防汛抗洪救灾工作，多次主持召开重要会议、作出重要指示，要求“扎实做好防灾救灾各项工作，确保人民群众生命财产安全”。",
+        "title": "100秒看习近平南亚之行三大成果",
+        "url": "https://www.baidu.com/s?wd=100%E7%A7%92%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%97%E4%BA%9A%E4%B9%8B%E8%A1%8C%E4%B8%89%E5%A4%A7%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "今年9月，习近平主席应邀赴印度出席金砖国家领导人第十八次会晤。在新德里不到24小时的时间里，习近平主席密集出席近10场活动。风聚千帆劲！100秒看习近平南亚之行三大成果。",
         "paragraphs": [
-          "2026年汛期，我国多地遭遇持续性极端强降水过程，多处河流、水库遭遇险情，人民群众生命财产安全面临严峻考验。习近平总书记高度关注雨情、汛情、灾情，始终牵挂灾区群众安危，亲自部署、亲自指挥防汛抗洪救灾工作，多次主持召开重要会议、作出重要指示，要求“扎实做好防灾救灾各项工作，确保人民群众生命财产安全”。"
+          "今年9月，习近平主席应邀赴印度出席金砖国家领导人第十八次会晤。在新德里不到24小时的时间里，习近平主席密集出席近10场活动。风聚千帆劲！100秒看习近平南亚之行三大成果。"
         ],
         "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/23498e790ec72673a3e3ee478372308e",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "始终把人民生命安全放在首位",
-        "url": "https://www.baidu.com/s?wd=%E5%A7%8B%E7%BB%88%E6%8A%8A%E4%BA%BA%E6%B0%91%E7%94%9F%E5%91%BD%E5%AE%89%E5%85%A8%E6%94%BE%E5%9C%A8%E9%A6%96%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "100秒看习近平南亚之行三大成果",
+        "url": "https://www.baidu.com/s?wd=100%E7%A7%92%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%97%E4%BA%9A%E4%B9%8B%E8%A1%8C%E4%B8%89%E5%A4%A7%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-百度热搜-2-E7899BE88289E4BBB7E6A0BCE68C81E7BBAD",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-2-E5B494E5A4A9E587AFEFBC9AE4B880E58AB3",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "牛肉价格持续上涨",
-    "summaryZh": "2026-09-15 百度热搜第 2 名，热度 780.9万。中秋、国庆临近，牛肉消费逐渐进入旺季，市场呈现量价齐升的态势。数据显示，9月11日，北京新发地市场牛前腱价格为每公斤75元，环比上涨4%，同比上涨17%。商户介绍，牛肉价格近期涨幅明显，一方面是需求拉动，另外就是肉牛存栏下降、供应减少。",
+    "titleZh": "崔天凯：一劳永逸解决台湾问题",
+    "summaryZh": "2026-09-16 百度热搜第 2 名，热度 780.8万。近日，中国前驻美大使崔天凯就台湾问题表明严正立场，强调台湾问题是红线中的红线，中方态度一贯如此。他表示，祖国统一将一劳永逸解决台湾问题，为台湾海峡带来持久稳定。",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -82,53 +82,53 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "heatScore": 97,
     "importanceScore": 97,
     "confidence": "confirmed",
-    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/ffba139ca831cab5e98f32ab7508ddc5",
+    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/8ac4b1fbfef1783b7abd203086898a26",
     "preferenceTags": [
       "百度热搜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
-      "排名：百度热搜第 2 名，热度 780.9万。",
-      "具体信息：牛肉价格持续上涨。中秋、国庆临近，牛肉消费逐渐进入旺季，市场呈现量价齐升的态势。数据显示，9月11日，北京新发地市场牛前腱价格为每公斤75元，环比上涨4%，同比上涨17%。商户介绍，牛肉价格近期涨幅明显，一方面是需求拉动，另外就是肉牛存栏下降、供应减少。",
+      "排名：百度热搜第 2 名，热度 780.8万。",
+      "具体信息：崔天凯：一劳永逸解决台湾问题。近日，中国前驻美大使崔天凯就台湾问题表明严正立场，强调台湾问题是红线中的红线，中方态度一贯如此。他表示，祖国统一将一劳永逸解决台湾问题，为台湾海峡带来持久稳定。",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "牛肉价格持续上涨",
-        "url": "https://www.baidu.com/s?wd=%E7%89%9B%E8%82%89%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "中秋、国庆临近，牛肉消费逐渐进入旺季，市场呈现量价齐升的态势。数据显示，9月11日，北京新发地市场牛前腱价格为每公斤75元，环比上涨4%，同比上涨17%。商户介绍，牛肉价格近期涨幅明显，一方面是需求拉动，另外就是肉牛存栏下降、供应减少。",
+        "title": "崔天凯：一劳永逸解决台湾问题",
+        "url": "https://www.baidu.com/s?wd=%E5%B4%94%E5%A4%A9%E5%87%AF%EF%BC%9A%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "近日，中国前驻美大使崔天凯就台湾问题表明严正立场，强调台湾问题是红线中的红线，中方态度一贯如此。他表示，祖国统一将一劳永逸解决台湾问题，为台湾海峡带来持久稳定。",
         "paragraphs": [
-          "中秋、国庆临近，牛肉消费逐渐进入旺季，市场呈现量价齐升的态势。数据显示，9月11日，北京新发地市场牛前腱价格为每公斤75元，环比上涨4%，同比上涨17%。商户介绍，牛肉价格近期涨幅明显，一方面是需求拉动，另外就是肉牛存栏下降、供应减少。"
+          "近日，中国前驻美大使崔天凯就台湾问题表明严正立场，强调台湾问题是红线中的红线，中方态度一贯如此。他表示，祖国统一将一劳永逸解决台湾问题，为台湾海峡带来持久稳定。"
         ],
-        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/ffba139ca831cab5e98f32ab7508ddc5",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/8ac4b1fbfef1783b7abd203086898a26",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "牛肉价格持续上涨",
-        "url": "https://www.baidu.com/s?wd=%E7%89%9B%E8%82%89%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "崔天凯：一劳永逸解决台湾问题",
+        "url": "https://www.baidu.com/s?wd=%E5%B4%94%E5%A4%A9%E5%87%AF%EF%BC%9A%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-百度热搜-3-E6BC94E594B1E4BC9AE6B182E5A99AE5BD93",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-3-E8A5BFE983A8E5A49AE4BA86E4B880E4B8AA",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "演唱会求婚当事人称已报警",
-    "summaryZh": "2026-09-15 百度热搜第 3 名，热度 771.5万。9月12日，北京鸟巢赵雷演唱会现场，一对情侣因求婚时女方激动站起，遭后排观众齐声高喊“坐下”。拍摄该视频的观众表示，自己花大几千元购票只想安静听歌。目前，当事人已私信拍摄者称报警并启动司法程序，要求下架相关视频。",
+    "titleZh": "西部多了一个“沿海城市”",
+    "summaryZh": "2026-09-16 百度热搜第 3 名，热度 771.4万。9月16日，平陆运河将建成通航。这是新中国成立以来第一条国家层面统筹建设的通江达海运河工程。由此，作为西部地区唯一的沿海省份，广西内河直达海港的关键短板得以补齐，南宁突破“离海不远，却够不着海”的桎梏，成为“真正意义上的沿海城市”。",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -143,53 +143,53 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "heatScore": 94,
     "importanceScore": 94,
     "confidence": "confirmed",
-    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/1c20e6f3a785d726fc84ebf7f398facc",
+    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/0550b68905ed95f22a6082524decd9d3",
     "preferenceTags": [
       "百度热搜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
-      "排名：百度热搜第 3 名，热度 771.5万。",
-      "具体信息：演唱会求婚当事人称已报警。9月12日，北京鸟巢赵雷演唱会现场，一对情侣因求婚时女方激动站起，遭后排观众齐声高喊“坐下”。拍摄该视频的观众表示，自己花大几千元购票只想安静听歌。目前，当事人已私信拍摄者称报警并启动司法程序，要求下架相关视频。",
+      "排名：百度热搜第 3 名，热度 771.4万。",
+      "具体信息：西部多了一个“沿海城市”。9月16日，平陆运河将建成通航。这是新中国成立以来第一条国家层面统筹建设的通江达海运河工程。由此，作为西部地区唯一的沿海省份，广西内河直达海港的关键短板得以补齐，南宁突破“离海不远，却够不着海”的桎梏，成为“真正意义上的沿海城市”。",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "演唱会求婚当事人称已报警",
-        "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B7%B2%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "9月12日，北京鸟巢赵雷演唱会现场，一对情侣因求婚时女方激动站起，遭后排观众齐声高喊“坐下”。拍摄该视频的观众表示，自己花大几千元购票只想安静听歌。目前，当事人已私信拍摄者称报警并启动司法程序，要求下架相关视频。",
+        "title": "西部多了一个“沿海城市”",
+        "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E9%83%A8%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E2%80%9C%E6%B2%BF%E6%B5%B7%E5%9F%8E%E5%B8%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "9月16日，平陆运河将建成通航。这是新中国成立以来第一条国家层面统筹建设的通江达海运河工程。由此，作为西部地区唯一的沿海省份，广西内河直达海港的关键短板得以补齐，南宁突破“离海不远，却够不着海”的桎梏，成为“真正意义上的沿海城市”。",
         "paragraphs": [
-          "9月12日，北京鸟巢赵雷演唱会现场，一对情侣因求婚时女方激动站起，遭后排观众齐声高喊“坐下”。拍摄该视频的观众表示，自己花大几千元购票只想安静听歌。目前，当事人已私信拍摄者称报警并启动司法程序，要求下架相关视频。"
+          "9月16日，平陆运河将建成通航。这是新中国成立以来第一条国家层面统筹建设的通江达海运河工程。由此，作为西部地区唯一的沿海省份，广西内河直达海港的关键短板得以补齐，南宁突破“离海不远，却够不着海”的桎梏，成为“真正意义上的沿海城市”。"
         ],
-        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/1c20e6f3a785d726fc84ebf7f398facc",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/0550b68905ed95f22a6082524decd9d3",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "演唱会求婚当事人称已报警",
-        "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B7%B2%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "西部多了一个“沿海城市”",
+        "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E9%83%A8%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E2%80%9C%E6%B2%BF%E6%B5%B7%E5%9F%8E%E5%B8%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-百度热搜-4-E69CAAE69DA5E4BA94E5B9B4E6B091E7949F",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-4-E5B9B3E99986E8BF90E6B2B3E5B086E5B8A6",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "未来五年民生健康重磅规划",
-    "summaryZh": "2026-09-15 百度热搜第 4 名，热度 761.6万。9月14日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，国家卫生健康委、国家中医药局、国家疾控局等部门负责人介绍推动健康中国建设取得决定性进展有关情况。未来5年，要从“有”向“优”转变，我国将加快完善优质高效整合型医疗卫生服务体系，让更多群众在家门口看得上病、看得好病。",
+    "titleZh": "平陆运河将带来哪些新变化",
+    "summaryZh": "2026-09-16 百度热搜第 4 名，热度 761.7万。9月16日，全长134.2公里的西部陆海新通道骨干工程平陆运河正式建成通航。这条新中国成立以来首条国家层面统筹建设的通江达海运河，通航后将为西南地区缩短内河出海航程560公里以上，进一步畅通中国与东盟及全球的经贸往来。",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -204,53 +204,53 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "heatScore": 91,
     "importanceScore": 91,
     "confidence": "confirmed",
-    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/b6b9209ffb8acbccaef38390b65fe2df",
+    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/73716cccff1335fc016e1911b604d809",
     "preferenceTags": [
       "百度热搜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
-      "排名：百度热搜第 4 名，热度 761.6万。",
-      "具体信息：未来五年民生健康重磅规划。9月14日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，国家卫生健康委、国家中医药局、国家疾控局等部门负责人介绍推动健康中国建设取得决定性进展有关情况。未来5年，要从“有”向“优”转变，我国将加快完善优质高效整合型医疗卫生服务体系，让更多群众在家门口看得上病、看得好病。",
+      "排名：百度热搜第 4 名，热度 761.7万。",
+      "具体信息：平陆运河将带来哪些新变化。9月16日，全长134.2公里的西部陆海新通道骨干工程平陆运河正式建成通航。这条新中国成立以来首条国家层面统筹建设的通江达海运河，通航后将为西南地区缩短内河出海航程560公里以上，进一步畅通中国与东盟及全球的经贸往来。",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "未来五年民生健康重磅规划",
-        "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E6%B0%91%E7%94%9F%E5%81%A5%E5%BA%B7%E9%87%8D%E7%A3%85%E8%A7%84%E5%88%92&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "9月14日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，国家卫生健康委、国家中医药局、国家疾控局等部门负责人介绍推动健康中国建设取得决定性进展有关情况。未来5年，要从“有”向“优”转变，我国将加快完善优质高效整合型医疗卫生服务体系，让更多群众在家门口看得上病、看得好病。",
+        "title": "平陆运河将带来哪些新变化",
+        "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "9月16日，全长134.2公里的西部陆海新通道骨干工程平陆运河正式建成通航。这条新中国成立以来首条国家层面统筹建设的通江达海运河，通航后将为西南地区缩短内河出海航程560公里以上，进一步畅通中国与东盟及全球的经贸往来。",
         "paragraphs": [
-          "9月14日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，国家卫生健康委、国家中医药局、国家疾控局等部门负责人介绍推动健康中国建设取得决定性进展有关情况。未来5年，要从“有”向“优”转变，我国将加快完善优质高效整合型医疗卫生服务体系，让更多群众在家门口看得上病、看得好病。"
+          "9月16日，全长134.2公里的西部陆海新通道骨干工程平陆运河正式建成通航。这条新中国成立以来首条国家层面统筹建设的通江达海运河，通航后将为西南地区缩短内河出海航程560公里以上，进一步畅通中国与东盟及全球的经贸往来。"
         ],
-        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/b6b9209ffb8acbccaef38390b65fe2df",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/73716cccff1335fc016e1911b604d809",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "未来五年民生健康重磅规划",
-        "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E6%B0%91%E7%94%9F%E5%81%A5%E5%BA%B7%E9%87%8D%E7%A3%85%E8%A7%84%E5%88%92&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "平陆运河将带来哪些新变化",
+        "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-百度热搜-5-iPhoneE7BB88E4BA8EE694AFE68C81E8B083",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-5-00E5908EE882A1E6B091E59CA8E4B88AE5B8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "iPhone终于支持调休闹钟了",
-    "summaryZh": "2026-09-15 百度热搜第 5 名，热度 752.3万。目前iOS27正式版已推送，国行版iPhone终于支持设置调休工作日闹钟。用户在闹钟设置中选择“工作日含调休”后，闹钟会在常规工作日及调休上班日自动响起。此外，稍后提醒时长最长可设为15分钟。",
+    "titleZh": "00后股民在上市公司“薅羊毛”",
+    "summaryZh": "2026-09-16 百度热搜第 5 名，热度 752.4万。今年6月，奈雪的茶年度股东大会在深圳举行。这场原本普通的上市公司会议，因为一名“00后”股东的到场引发了广泛关注。谢海诚用约4港元买了4股奈雪碎股走进会场，全程记录见闻，将股东大会上的犀利提问发到社交平台，迅速引发热议。",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -265,53 +265,53 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "heatScore": 88,
     "importanceScore": 88,
     "confidence": "confirmed",
-    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/6ba6e98977aa5d85b532983b9887a569",
+    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/2588e1983c5538398bfcdb4c0f48879f",
     "preferenceTags": [
       "百度热搜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
-      "排名：百度热搜第 5 名，热度 752.3万。",
-      "具体信息：iPhone终于支持调休闹钟了。目前iOS27正式版已推送，国行版iPhone终于支持设置调休工作日闹钟。用户在闹钟设置中选择“工作日含调休”后，闹钟会在常规工作日及调休上班日自动响起。此外，稍后提醒时长最长可设为15分钟。",
+      "排名：百度热搜第 5 名，热度 752.4万。",
+      "具体信息：00后股民在上市公司“薅羊毛”。今年6月，奈雪的茶年度股东大会在深圳举行。这场原本普通的上市公司会议，因为一名“00后”股东的到场引发了广泛关注。谢海诚用约4港元买了4股奈雪碎股走进会场，全程记录见闻，将股东大会上的犀利提问发到社交平台，迅速引发热议。",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "iPhone终于支持调休闹钟了",
-        "url": "https://www.baidu.com/s?wd=iPhone%E7%BB%88%E4%BA%8E%E6%94%AF%E6%8C%81%E8%B0%83%E4%BC%91%E9%97%B9%E9%92%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "目前iOS27正式版已推送，国行版iPhone终于支持设置调休工作日闹钟。用户在闹钟设置中选择“工作日含调休”后，闹钟会在常规工作日及调休上班日自动响起。此外，稍后提醒时长最长可设为15分钟。",
+        "title": "00后股民在上市公司“薅羊毛”",
+        "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E8%82%A1%E6%B0%91%E5%9C%A8%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E2%80%9C%E8%96%85%E7%BE%8A%E6%AF%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "今年6月，奈雪的茶年度股东大会在深圳举行。这场原本普通的上市公司会议，因为一名“00后”股东的到场引发了广泛关注。谢海诚用约4港元买了4股奈雪碎股走进会场，全程记录见闻，将股东大会上的犀利提问发到社交平台，迅速引发热议。",
         "paragraphs": [
-          "目前iOS27正式版已推送，国行版iPhone终于支持设置调休工作日闹钟。用户在闹钟设置中选择“工作日含调休”后，闹钟会在常规工作日及调休上班日自动响起。此外，稍后提醒时长最长可设为15分钟。"
+          "今年6月，奈雪的茶年度股东大会在深圳举行。这场原本普通的上市公司会议，因为一名“00后”股东的到场引发了广泛关注。谢海诚用约4港元买了4股奈雪碎股走进会场，全程记录见闻，将股东大会上的犀利提问发到社交平台，迅速引发热议。"
         ],
-        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/6ba6e98977aa5d85b532983b9887a569",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/2588e1983c5538398bfcdb4c0f48879f",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "iPhone终于支持调休闹钟了",
-        "url": "https://www.baidu.com/s?wd=iPhone%E7%BB%88%E4%BA%8E%E6%94%AF%E6%8C%81%E8%B0%83%E4%BC%91%E9%97%B9%E9%92%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "00后股民在上市公司“薅羊毛”",
+        "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E8%82%A1%E6%B0%91%E5%9C%A8%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E2%80%9C%E8%96%85%E7%BE%8A%E6%AF%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-百度热搜-6-E6ADA6E5A591E5A587EFBC9AE5B086E8BE9E",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-6-E4B8A4E6ACA1E4BAB2E5AD90E989B4E5AE9A",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "武契奇：将辞去塞尔维亚总统职务",
-    "summaryZh": "2026-09-15 百度热搜第 6 名，热度 742.6万。当地时间9月14日晚，塞尔维亚总统武契奇宣布，他将于9月27日辞去总统职务，此后将以普通公民身份参加竞选活动并与民众交流。",
+    "titleZh": "两次亲子鉴定确认孙子非亡父亲生",
+    "summaryZh": "2026-09-16 百度热搜第 6 名，热度 742.5万。广西一对老夫妻在儿子车祸意外离世之后，得知两份基因鉴定直指孙子“非亲生”真相，年迈祖父母愤怒地将儿媳告上法庭，却两次败诉。老人不服终审裁判申请再审，9月16日，法院召开再审听证会。",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -326,53 +326,53 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "heatScore": 85,
     "importanceScore": 85,
     "confidence": "confirmed",
-    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/0d1bf44b084b161e22006d2f325b79fb",
+    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/561b7bcc1a5938f5c8c42b0b9171eb8f",
     "preferenceTags": [
       "百度热搜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
-      "排名：百度热搜第 6 名，热度 742.6万。",
-      "具体信息：武契奇：将辞去塞尔维亚总统职务。当地时间9月14日晚，塞尔维亚总统武契奇宣布，他将于9月27日辞去总统职务，此后将以普通公民身份参加竞选活动并与民众交流。",
+      "排名：百度热搜第 6 名，热度 742.5万。",
+      "具体信息：两次亲子鉴定确认孙子非亡父亲生。广西一对老夫妻在儿子车祸意外离世之后，得知两份基因鉴定直指孙子“非亲生”真相，年迈祖父母愤怒地将儿媳告上法庭，却两次败诉。老人不服终审裁判申请再审，9月16日，法院召开再审听证会。",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "武契奇：将辞去塞尔维亚总统职务",
-        "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%EF%BC%9A%E5%B0%86%E8%BE%9E%E5%8E%BB%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "当地时间9月14日晚，塞尔维亚总统武契奇宣布，他将于9月27日辞去总统职务，此后将以普通公民身份参加竞选活动并与民众交流。",
+        "title": "两次亲子鉴定确认孙子非亡父亲生",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E6%AC%A1%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E7%A1%AE%E8%AE%A4%E5%AD%99%E5%AD%90%E9%9D%9E%E4%BA%A1%E7%88%B6%E4%BA%B2%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "广西一对老夫妻在儿子车祸意外离世之后，得知两份基因鉴定直指孙子“非亲生”真相，年迈祖父母愤怒地将儿媳告上法庭，却两次败诉。老人不服终审裁判申请再审，9月16日，法院召开再审听证会。",
         "paragraphs": [
-          "当地时间9月14日晚，塞尔维亚总统武契奇宣布，他将于9月27日辞去总统职务，此后将以普通公民身份参加竞选活动并与民众交流。"
+          "广西一对老夫妻在儿子车祸意外离世之后，得知两份基因鉴定直指孙子“非亲生”真相，年迈祖父母愤怒地将儿媳告上法庭，却两次败诉。老人不服终审裁判申请再审，9月16日，法院召开再审听证会。"
         ],
-        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/0d1bf44b084b161e22006d2f325b79fb",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/561b7bcc1a5938f5c8c42b0b9171eb8f",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "武契奇：将辞去塞尔维亚总统职务",
-        "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%EF%BC%9A%E5%B0%86%E8%BE%9E%E5%8E%BB%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "两次亲子鉴定确认孙子非亡父亲生",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E6%AC%A1%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E7%A1%AE%E8%AE%A4%E5%AD%99%E5%AD%90%E9%9D%9E%E4%BA%A1%E7%88%B6%E4%BA%B2%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-百度热搜-7-E2809CE5968AE59D90E4B88BE983BDE7AE97",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-7-E5BC9FE5BC9FE7A6BBE4B896E695B0E591A8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "“喊坐下都算礼貌 要我就喊离婚”",
-    "summaryZh": "2026-09-15 百度热搜第 7 名，热度 733.0万。9月12日，赵雷北京鸟巢演唱会上，前排一名男观众突然向女友求婚，女方激动站起，导致后排齐声高喊“坐下”。这段现场视频被发到社交媒体后，此事冲上热搜。更有人表态：“喊坐下都算礼貌，要我就喊离婚。”",
+    "titleZh": "弟弟离世数周后社恐哥哥无法自理死亡",
+    "summaryZh": "2026-09-16 百度热搜第 7 名，热度 733.2万。9月14日，香港一住宅内发生双尸命案，引发关注。据香港警方介绍，系一对兄弟陈尸家中，1人遗体腐烂，现场没发现遗书。警方表示：“弟弟离世数周后，社恐哥哥无法自理随后也死亡。”",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -387,53 +387,53 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "heatScore": 82,
     "importanceScore": 82,
     "confidence": "confirmed",
-    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/1b54c00df40217351cbd810d888a0e22",
+    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/cc564c099dc7fb4a59ff911b0f665842",
     "preferenceTags": [
       "百度热搜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
-      "排名：百度热搜第 7 名，热度 733.0万。",
-      "具体信息：“喊坐下都算礼貌 要我就喊离婚”。9月12日，赵雷北京鸟巢演唱会上，前排一名男观众突然向女友求婚，女方激动站起，导致后排齐声高喊“坐下”。这段现场视频被发到社交媒体后，此事冲上热搜。更有人表态：“喊坐下都算礼貌，要我就喊离婚。”",
+      "排名：百度热搜第 7 名，热度 733.2万。",
+      "具体信息：弟弟离世数周后社恐哥哥无法自理死亡。9月14日，香港一住宅内发生双尸命案，引发关注。据香港警方介绍，系一对兄弟陈尸家中，1人遗体腐烂，现场没发现遗书。警方表示：“弟弟离世数周后，社恐哥哥无法自理随后也死亡。”",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "“喊坐下都算礼貌 要我就喊离婚”",
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%96%8A%E5%9D%90%E4%B8%8B%E9%83%BD%E7%AE%97%E7%A4%BC%E8%B2%8C+%E8%A6%81%E6%88%91%E5%B0%B1%E5%96%8A%E7%A6%BB%E5%A9%9A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "9月12日，赵雷北京鸟巢演唱会上，前排一名男观众突然向女友求婚，女方激动站起，导致后排齐声高喊“坐下”。这段现场视频被发到社交媒体后，此事冲上热搜。更有人表态：“喊坐下都算礼貌，要我就喊离婚。”",
+        "title": "弟弟离世数周后社恐哥哥无法自理死亡",
+        "url": "https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%A6%BB%E4%B8%96%E6%95%B0%E5%91%A8%E5%90%8E%E7%A4%BE%E6%81%90%E5%93%A5%E5%93%A5%E6%97%A0%E6%B3%95%E8%87%AA%E7%90%86%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "9月14日，香港一住宅内发生双尸命案，引发关注。据香港警方介绍，系一对兄弟陈尸家中，1人遗体腐烂，现场没发现遗书。警方表示：“弟弟离世数周后，社恐哥哥无法自理随后也死亡。”",
         "paragraphs": [
-          "9月12日，赵雷北京鸟巢演唱会上，前排一名男观众突然向女友求婚，女方激动站起，导致后排齐声高喊“坐下”。这段现场视频被发到社交媒体后，此事冲上热搜。更有人表态：“喊坐下都算礼貌，要我就喊离婚。”"
+          "9月14日，香港一住宅内发生双尸命案，引发关注。据香港警方介绍，系一对兄弟陈尸家中，1人遗体腐烂，现场没发现遗书。警方表示：“弟弟离世数周后，社恐哥哥无法自理随后也死亡。”"
         ],
-        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/1b54c00df40217351cbd810d888a0e22",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/cc564c099dc7fb4a59ff911b0f665842",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "“喊坐下都算礼貌 要我就喊离婚”",
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%96%8A%E5%9D%90%E4%B8%8B%E9%83%BD%E7%AE%97%E7%A4%BC%E8%B2%8C+%E8%A6%81%E6%88%91%E5%B0%B1%E5%96%8A%E7%A6%BB%E5%A9%9A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "弟弟离世数周后社恐哥哥无法自理死亡",
+        "url": "https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%A6%BB%E4%B8%96%E6%95%B0%E5%91%A8%E5%90%8E%E7%A4%BE%E6%81%90%E5%93%A5%E5%93%A5%E6%97%A0%E6%B3%95%E8%87%AA%E7%90%86%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-百度热搜-8-E788B6E4BAB2E6929EE6ADBBE4BABAE8AEA9",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-8-E4B880E7BABFE59F8EE5B882E4BA8CE6898B",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "父亲撞死人让儿子顶包 全家串供",
-    "summaryZh": "2026-09-15 百度热搜第 8 名，热度 723.4万。该内容正在平台热榜中获得集中讨论。",
+    "titleZh": "一线城市二手房价连涨6个月",
+    "summaryZh": "2026-09-16 百度热搜第 8 名，热度 723.5万。一线城市二手房价格连续上涨的态势，得以延续。国家统计局数据显示，8月份70个大中城市中，二手住宅价格环比上涨城市3个，较上月减少2个。专家表示，一线城市二手房已连续六个月保持环比上涨，信号意义较为积极。",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -448,53 +448,53 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "heatScore": 79,
     "importanceScore": 79,
     "confidence": "confirmed",
-    "thumbnailUrl": "https://fyb-1.cdn.bcebos.com/fyb/de6163834f53ca92c1273fff98ac9078.jpeg",
+    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/5de34731a0cb3fec6ecfe5d55b1e07a3",
     "preferenceTags": [
       "百度热搜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
-      "排名：百度热搜第 8 名，热度 723.4万。",
-      "具体信息：父亲撞死人让儿子顶包 全家串供。该条目来自平台公开热榜，适合作为当天网络热度观察入口。",
+      "排名：百度热搜第 8 名，热度 723.5万。",
+      "具体信息：一线城市二手房价连涨6个月。一线城市二手房价格连续上涨的态势，得以延续。国家统计局数据显示，8月份70个大中城市中，二手住宅价格环比上涨城市3个，较上月减少2个。专家表示，一线城市二手房已连续六个月保持环比上涨，信号意义较为积极。",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "父亲撞死人让儿子顶包 全家串供",
-        "url": "https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E6%92%9E%E6%AD%BB%E4%BA%BA%E8%AE%A9%E5%84%BF%E5%AD%90%E9%A1%B6%E5%8C%85+%E5%85%A8%E5%AE%B6%E4%B8%B2%E4%BE%9B&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "百度热搜第 8 名",
+        "title": "一线城市二手房价连涨6个月",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BB%B7%E8%BF%9E%E6%B6%A86%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "一线城市二手房价格连续上涨的态势，得以延续。国家统计局数据显示，8月份70个大中城市中，二手住宅价格环比上涨城市3个，较上月减少2个。专家表示，一线城市二手房已连续六个月保持环比上涨，信号意义较为积极。",
         "paragraphs": [
-          "父亲撞死人让儿子顶包 全家串供进入百度热搜第 8 名。"
+          "一线城市二手房价格连续上涨的态势，得以延续。国家统计局数据显示，8月份70个大中城市中，二手住宅价格环比上涨城市3个，较上月减少2个。专家表示，一线城市二手房已连续六个月保持环比上涨，信号意义较为积极。"
         ],
-        "imageUrl": "https://fyb-1.cdn.bcebos.com/fyb/de6163834f53ca92c1273fff98ac9078.jpeg",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/5de34731a0cb3fec6ecfe5d55b1e07a3",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "父亲撞死人让儿子顶包 全家串供",
-        "url": "https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E6%92%9E%E6%AD%BB%E4%BA%BA%E8%AE%A9%E5%84%BF%E5%AD%90%E9%A1%B6%E5%8C%85+%E5%85%A8%E5%AE%B6%E4%B8%B2%E4%BE%9B&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "一线城市二手房价连涨6个月",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BB%B7%E8%BF%9E%E6%B6%A86%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-百度热搜-9-E9A5AEE794A8E6B0B4E68AA5E5918AEFBC9A",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-9-E99A90E7BF85E899ABE698AFE79B8AE899AB",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "饮用水报告：72%成年人未达适宜摄入量",
-    "summaryZh": "2026-09-15 百度热搜第 9 名，热度 714.4万。由农业农村部食物与营养发展研究所、中粮营养健康研究院共同主办的《饮用水健康与感官品质研究报告》发布会近日召开。报告指出，我国居民对饮水重视不足，72%的成年人未达适宜摄入量，应把喝水放到与吃饭同等重要位置。",
+    "titleZh": "隐翅虫是益虫",
+    "summaryZh": "2026-09-16 百度热搜第 9 名，热度 714.2万。近期，多位北京市民在社交媒体上晒出家里的隐翅虫。这种小昆虫，在网络上有“飞行的硫酸”之称，因此引发了不少市民担心。专家表示，绝大部分隐翅虫无毒无害，危害也并没有人们想象中的那么大。隐翅虫是一种捕食性昆虫，蚜虫就是它重要的食物来源。从这个角度上讲，隐翅虫是一种益虫。",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -509,53 +509,53 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "heatScore": 76,
     "importanceScore": 76,
     "confidence": "confirmed",
-    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/84c7c471d60f82979310e970f72c6f7a",
+    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/7671bfb94765b78aae635925594e9d8a",
     "preferenceTags": [
       "百度热搜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
-      "排名：百度热搜第 9 名，热度 714.4万。",
-      "具体信息：饮用水报告：72%成年人未达适宜摄入量。由农业农村部食物与营养发展研究所、中粮营养健康研究院共同主办的《饮用水健康与感官品质研究报告》发布会近日召开。报告指出，我国居民对饮水重视不足，72%的成年人未达适宜摄入量，应把喝水放到与吃饭同等重要位置。",
+      "排名：百度热搜第 9 名，热度 714.2万。",
+      "具体信息：隐翅虫是益虫。近期，多位北京市民在社交媒体上晒出家里的隐翅虫。这种小昆虫，在网络上有“飞行的硫酸”之称，因此引发了不少市民担心。专家表示，绝大部分隐翅虫无毒无害，危害也并没有人们想象中的那么大。隐翅虫是一种捕食性昆虫，蚜虫就是它重要的食物来源。从这个角度上讲，隐翅虫是一种益虫。",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "饮用水报告：72%成年人未达适宜摄入量",
-        "url": "https://www.baidu.com/s?wd=%E9%A5%AE%E7%94%A8%E6%B0%B4%E6%8A%A5%E5%91%8A%EF%BC%9A72%25%E6%88%90%E5%B9%B4%E4%BA%BA%E6%9C%AA%E8%BE%BE%E9%80%82%E5%AE%9C%E6%91%84%E5%85%A5%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "由农业农村部食物与营养发展研究所、中粮营养健康研究院共同主办的《饮用水健康与感官品质研究报告》发布会近日召开。报告指出，我国居民对饮水重视不足，72%的成年人未达适宜摄入量，应把喝水放到与吃饭同等重要位置。",
+        "title": "隐翅虫是益虫",
+        "url": "https://www.baidu.com/s?wd=%E9%9A%90%E7%BF%85%E8%99%AB%E6%98%AF%E7%9B%8A%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "近期，多位北京市民在社交媒体上晒出家里的隐翅虫。这种小昆虫，在网络上有“飞行的硫酸”之称，因此引发了不少市民担心。专家表示，绝大部分隐翅虫无毒无害，危害也并没有人们想象中的那么大。隐翅虫是一种捕食性昆虫，蚜虫就是它重要的食物来源。从这个角度上讲，隐翅虫是一种益虫。",
         "paragraphs": [
-          "由农业农村部食物与营养发展研究所、中粮营养健康研究院共同主办的《饮用水健康与感官品质研究报告》发布会近日召开。报告指出，我国居民对饮水重视不足，72%的成年人未达适宜摄入量，应把喝水放到与吃饭同等重要位置。"
+          "近期，多位北京市民在社交媒体上晒出家里的隐翅虫。这种小昆虫，在网络上有“飞行的硫酸”之称，因此引发了不少市民担心。专家表示，绝大部分隐翅虫无毒无害，危害也并没有人们想象中的那么大。隐翅虫是一种捕食性昆虫，蚜虫就是它重要的食物来源。从这个角度上讲，隐翅虫是一种益虫。"
         ],
-        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/84c7c471d60f82979310e970f72c6f7a",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/7671bfb94765b78aae635925594e9d8a",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "饮用水报告：72%成年人未达适宜摄入量",
-        "url": "https://www.baidu.com/s?wd=%E9%A5%AE%E7%94%A8%E6%B0%B4%E6%8A%A5%E5%91%8A%EF%BC%9A72%25%E6%88%90%E5%B9%B4%E4%BA%BA%E6%9C%AA%E8%BE%BE%E9%80%82%E5%AE%9C%E6%91%84%E5%85%A5%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "隐翅虫是益虫",
+        "url": "https://www.baidu.com/s?wd=%E9%9A%90%E7%BF%85%E8%99%AB%E6%98%AF%E7%9B%8A%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-百度热搜-10-E79FA5E5908DE6B8B8E6888FE88081E69DBF",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-10-E4B883E697ACE88081E5A4AAE585A5E586B0",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "知名游戏老板百亿元天价离婚创纪录",
-    "summaryZh": "2026-09-15 百度热搜第 10 名，热度 704.4万。近日，韩国首尔家庭法院对《穿越火线》开发商Smilegate创始人权赫彬与妻子李某离婚案作出一审判决。法院裁定权赫彬向李某转让35%股份，并支付约3.24亿元人民币现金，分割总额约127.25亿元人民币，创下韩国公开离婚案新高。",
+    "titleZh": "七旬老太入冰棺后又睁眼“复活”",
+    "summaryZh": "2026-09-16 百度热搜第 10 名，热度 704.4万。9月14日，河北沧州河间市一村干部证实该村一七旬老太入冰棺后“复活”一事。此前9月8日，老人被放入冰棺，其儿媳听到棺内哼哼声发现老人睁眼。9月11日下午老人尚能睁眼但无法吃喝，当晚去世。",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -570,53 +570,53 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "heatScore": 73,
     "importanceScore": 73,
     "confidence": "confirmed",
-    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/d798836f59b0590683723d1c1f5207ac",
+    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/3bdd924d8cce14226ca5a10301f00812",
     "preferenceTags": [
       "百度热搜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：百度热搜第 10 名，热度 704.4万。",
-      "具体信息：知名游戏老板百亿元天价离婚创纪录。近日，韩国首尔家庭法院对《穿越火线》开发商Smilegate创始人权赫彬与妻子李某离婚案作出一审判决。法院裁定权赫彬向李某转让35%股份，并支付约3.24亿元人民币现金，分割总额约127.25亿元人民币，创下韩国公开离婚案新高。",
+      "具体信息：七旬老太入冰棺后又睁眼“复活”。9月14日，河北沧州河间市一村干部证实该村一七旬老太入冰棺后“复活”一事。此前9月8日，老人被放入冰棺，其儿媳听到棺内哼哼声发现老人睁眼。9月11日下午老人尚能睁眼但无法吃喝，当晚去世。",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "知名游戏老板百亿元天价离婚创纪录",
-        "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%B8%B8%E6%88%8F%E8%80%81%E6%9D%BF%E7%99%BE%E4%BA%BF%E5%85%83%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E5%88%9B%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "近日，韩国首尔家庭法院对《穿越火线》开发商Smilegate创始人权赫彬与妻子李某离婚案作出一审判决。法院裁定权赫彬向李某转让35%股份，并支付约3.24亿元人民币现金，分割总额约127.25亿元人民币，创下韩国公开离婚案新高。",
+        "title": "七旬老太入冰棺后又睁眼“复活”",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%83%E6%97%AC%E8%80%81%E5%A4%AA%E5%85%A5%E5%86%B0%E6%A3%BA%E5%90%8E%E5%8F%88%E7%9D%81%E7%9C%BC%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "9月14日，河北沧州河间市一村干部证实该村一七旬老太入冰棺后“复活”一事。此前9月8日，老人被放入冰棺，其儿媳听到棺内哼哼声发现老人睁眼。9月11日下午老人尚能睁眼但无法吃喝，当晚去世。",
         "paragraphs": [
-          "近日，韩国首尔家庭法院对《穿越火线》开发商Smilegate创始人权赫彬与妻子李某离婚案作出一审判决。法院裁定权赫彬向李某转让35%股份，并支付约3.24亿元人民币现金，分割总额约127.25亿元人民币，创下韩国公开离婚案新高。"
+          "9月14日，河北沧州河间市一村干部证实该村一七旬老太入冰棺后“复活”一事。此前9月8日，老人被放入冰棺，其儿媳听到棺内哼哼声发现老人睁眼。9月11日下午老人尚能睁眼但无法吃喝，当晚去世。"
         ],
-        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/d798836f59b0590683723d1c1f5207ac",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/3bdd924d8cce14226ca5a10301f00812",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "知名游戏老板百亿元天价离婚创纪录",
-        "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%B8%B8%E6%88%8F%E8%80%81%E6%9D%BF%E7%99%BE%E4%BA%BF%E5%85%83%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E5%88%9B%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "七旬老太入冰棺后又睁眼“复活”",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%83%E6%97%AC%E8%80%81%E5%A4%AA%E5%85%A5%E5%86%B0%E6%A3%BA%E5%90%8E%E5%8F%88%E7%9D%81%E7%9C%BC%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-百度热搜-11-E585A8E79083E69C80E5A4A7E6AF8FE591A8",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-11-E4BA9AE8BF90E4BC9A20E78E8BE6A59AE992",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "全球最大每周车展创始人车祸身亡",
-    "summaryZh": "2026-09-15 百度热搜第 11 名，热度 695.2万。当地时间9月13日凌晨，全球规模最大的每周汽车展创始人詹姆斯·韦尔在美国加利福尼亚州发生车祸，其汽车撞树后断成两截并起火燃烧，最终不幸身亡。另一名司机也在事故中遇难，身份尚未公布。",
+    "titleZh": "亚运会 王楚钦“一老带四新”",
+    "summaryZh": "2026-09-16 百度热搜第 11 名，热度 695.4万。9月16日，中国乒乓球队出征名古屋亚运会。本届男队派出由王楚钦领衔的“一老带四新”阵容，林诗栋、温瑞博、向鹏和黄友政，都将是第一次征战亚运赛场。",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -631,53 +631,53 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "heatScore": 70,
     "importanceScore": 70,
     "confidence": "confirmed",
-    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/6454a05905b9a0e81908150fc286a189",
+    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/c1fe9331ff00fff495760d7b66ce8760",
     "preferenceTags": [
       "百度热搜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
-      "排名：百度热搜第 11 名，热度 695.2万。",
-      "具体信息：全球最大每周车展创始人车祸身亡。当地时间9月13日凌晨，全球规模最大的每周汽车展创始人詹姆斯·韦尔在美国加利福尼亚州发生车祸，其汽车撞树后断成两截并起火燃烧，最终不幸身亡。另一名司机也在事故中遇难，身份尚未公布。",
+      "排名：百度热搜第 11 名，热度 695.4万。",
+      "具体信息：亚运会 王楚钦“一老带四新”。9月16日，中国乒乓球队出征名古屋亚运会。本届男队派出由王楚钦领衔的“一老带四新”阵容，林诗栋、温瑞博、向鹏和黄友政，都将是第一次征战亚运赛场。",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "全球最大每周车展创始人车祸身亡",
-        "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E6%AF%8F%E5%91%A8%E8%BD%A6%E5%B1%95%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "当地时间9月13日凌晨，全球规模最大的每周汽车展创始人詹姆斯·韦尔在美国加利福尼亚州发生车祸，其汽车撞树后断成两截并起火燃烧，最终不幸身亡。另一名司机也在事故中遇难，身份尚未公布。",
+        "title": "亚运会 王楚钦“一老带四新”",
+        "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A+%E7%8E%8B%E6%A5%9A%E9%92%A6%E2%80%9C%E4%B8%80%E8%80%81%E5%B8%A6%E5%9B%9B%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "9月16日，中国乒乓球队出征名古屋亚运会。本届男队派出由王楚钦领衔的“一老带四新”阵容，林诗栋、温瑞博、向鹏和黄友政，都将是第一次征战亚运赛场。",
         "paragraphs": [
-          "当地时间9月13日凌晨，全球规模最大的每周汽车展创始人詹姆斯·韦尔在美国加利福尼亚州发生车祸，其汽车撞树后断成两截并起火燃烧，最终不幸身亡。另一名司机也在事故中遇难，身份尚未公布。"
+          "9月16日，中国乒乓球队出征名古屋亚运会。本届男队派出由王楚钦领衔的“一老带四新”阵容，林诗栋、温瑞博、向鹏和黄友政，都将是第一次征战亚运赛场。"
         ],
-        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/6454a05905b9a0e81908150fc286a189",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/c1fe9331ff00fff495760d7b66ce8760",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "全球最大每周车展创始人车祸身亡",
-        "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E6%AF%8F%E5%91%A8%E8%BD%A6%E5%B1%95%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "亚运会 王楚钦“一老带四新”",
+        "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A+%E7%8E%8B%E6%A5%9A%E9%92%A6%E2%80%9C%E4%B8%80%E8%80%81%E5%B8%A6%E5%9B%9B%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-百度热搜-12-E5819CE6ADA2E8B584E58AA9E5ADA6E7949F",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-12-E4B88DE889AFE4BFA1E681AFE4B880E994AE",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "停止资助学生后反遭威胁系造谣",
-    "summaryZh": "2026-09-15 百度热搜第 12 名，热度 684.7万。近日，网传男子终止资助女学生遭对方威胁一事引发热议，嘉峪关公安通报，该内容系网民姚某某编造博流量，案件正在侦办中。",
+    "titleZh": "不良信息一键举报 共建清朗空间",
+    "summaryZh": "2026-09-16 百度热搜第 12 名，热度 685.6万。为营造良好的网络氛围，共建网上美好精神家园，有关方面呼吁广大网民积极举报互联网违法和不良信息，并梳理了北京属地重点网站一键举报方式。如发现危害国家安全、荣誉和利益或传播暴力、淫秽色情等违法和不良信息，均可通过一键举报提交线索。",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -692,53 +692,53 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "heatScore": 70,
     "importanceScore": 70,
     "confidence": "confirmed",
-    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/0590601230bd2fba9a9ce5e9e1b802e1",
+    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/e153801598ffe6255bd6a49b563a2b29",
     "preferenceTags": [
       "百度热搜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
-      "排名：百度热搜第 12 名，热度 684.7万。",
-      "具体信息：停止资助学生后反遭威胁系造谣。近日，网传男子终止资助女学生遭对方威胁一事引发热议，嘉峪关公安通报，该内容系网民姚某某编造博流量，案件正在侦办中。",
+      "排名：百度热搜第 12 名，热度 685.6万。",
+      "具体信息：不良信息一键举报 共建清朗空间。为营造良好的网络氛围，共建网上美好精神家园，有关方面呼吁广大网民积极举报互联网违法和不良信息，并梳理了北京属地重点网站一键举报方式。如发现危害国家安全、荣誉和利益或传播暴力、淫秽色情等违法和不良信息，均可通过一键举报提交线索。",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "停止资助学生后反遭威胁系造谣",
-        "url": "https://www.baidu.com/s?wd=%E5%81%9C%E6%AD%A2%E8%B5%84%E5%8A%A9%E5%AD%A6%E7%94%9F%E5%90%8E%E5%8F%8D%E9%81%AD%E5%A8%81%E8%83%81%E7%B3%BB%E9%80%A0%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "近日，网传男子终止资助女学生遭对方威胁一事引发热议，嘉峪关公安通报，该内容系网民姚某某编造博流量，案件正在侦办中。",
+        "title": "不良信息一键举报 共建清朗空间",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E8%89%AF%E4%BF%A1%E6%81%AF%E4%B8%80%E9%94%AE%E4%B8%BE%E6%8A%A5+%E5%85%B1%E5%BB%BA%E6%B8%85%E6%9C%97%E7%A9%BA%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "为营造良好的网络氛围，共建网上美好精神家园，有关方面呼吁广大网民积极举报互联网违法和不良信息，并梳理了北京属地重点网站一键举报方式。如发现危害国家安全、荣誉和利益或传播暴力、淫秽色情等违法和不良信息，均可通过一键举报提交线索。",
         "paragraphs": [
-          "近日，网传男子终止资助女学生遭对方威胁一事引发热议，嘉峪关公安通报，该内容系网民姚某某编造博流量，案件正在侦办中。"
+          "为营造良好的网络氛围，共建网上美好精神家园，有关方面呼吁广大网民积极举报互联网违法和不良信息，并梳理了北京属地重点网站一键举报方式。如发现危害国家安全、荣誉和利益或传播暴力、淫秽色情等违法和不良信息，均可通过一键举报提交线索。"
         ],
-        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/0590601230bd2fba9a9ce5e9e1b802e1",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/e153801598ffe6255bd6a49b563a2b29",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "停止资助学生后反遭威胁系造谣",
-        "url": "https://www.baidu.com/s?wd=%E5%81%9C%E6%AD%A2%E8%B5%84%E5%8A%A9%E5%AD%A6%E7%94%9F%E5%90%8E%E5%8F%8D%E9%81%AD%E5%A8%81%E8%83%81%E7%B3%BB%E9%80%A0%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "不良信息一键举报 共建清朗空间",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E8%89%AF%E4%BF%A1%E6%81%AF%E4%B8%80%E9%94%AE%E4%B8%BE%E6%8A%A5+%E5%85%B1%E5%BB%BA%E6%B8%85%E6%9C%97%E7%A9%BA%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-百度热搜-13-E6BC94E594B1E4BC9AE6B182E5A99A20E588",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-13-E69B9DE99988E5BBBAE5B79EE7AA81E58F91",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "演唱会求婚 别把没素质当仪式感",
-    "summaryZh": "2026-09-15 百度热搜第 13 名，热度 676.0万。9月12日，赵雷北京鸟巢演唱会上，前排一名男观众突然向女友求婚，女方激动站起，导致后排齐声高喊“坐下”。此前两人还向周围观众撒喜糖，保安介入制止。演唱会求婚，别把没素质当仪式感。",
+    "titleZh": "曝陈建州突发心肌梗塞紧急手术",
+    "summaryZh": "2026-09-16 百度热搜第 13 名，热度 675.8万。9月15日，艺人陈建州傍晚惊传心肌梗塞，紧急送往医院开刀，目前已动完手术，转进加护病房疗养。据悉，他下午时感到身体不适，幸好及早发现送往医院手术，妻子范玮琪也在第一时间赶往医院陪在他身旁。",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -753,53 +753,53 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "heatScore": 70,
     "importanceScore": 70,
     "confidence": "confirmed",
-    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/8e5c428286064ce4b9215d6ae164fca3",
+    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/95eb18152878da5bb4c1e621b6be65a8",
     "preferenceTags": [
       "百度热搜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
-      "排名：百度热搜第 13 名，热度 676.0万。",
-      "具体信息：演唱会求婚 别把没素质当仪式感。9月12日，赵雷北京鸟巢演唱会上，前排一名男观众突然向女友求婚，女方激动站起，导致后排齐声高喊“坐下”。此前两人还向周围观众撒喜糖，保安介入制止。演唱会求婚，别把没素质当仪式感。",
+      "排名：百度热搜第 13 名，热度 675.8万。",
+      "具体信息：曝陈建州突发心肌梗塞紧急手术。9月15日，艺人陈建州傍晚惊传心肌梗塞，紧急送往医院开刀，目前已动完手术，转进加护病房疗养。据悉，他下午时感到身体不适，幸好及早发现送往医院手术，妻子范玮琪也在第一时间赶往医院陪在他身旁。",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "演唱会求婚 别把没素质当仪式感",
-        "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A+%E5%88%AB%E6%8A%8A%E6%B2%A1%E7%B4%A0%E8%B4%A8%E5%BD%93%E4%BB%AA%E5%BC%8F%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "9月12日，赵雷北京鸟巢演唱会上，前排一名男观众突然向女友求婚，女方激动站起，导致后排齐声高喊“坐下”。此前两人还向周围观众撒喜糖，保安介入制止。演唱会求婚，别把没素质当仪式感。",
+        "title": "曝陈建州突发心肌梗塞紧急手术",
+        "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E7%AA%81%E5%8F%91%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E7%B4%A7%E6%80%A5%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "9月15日，艺人陈建州傍晚惊传心肌梗塞，紧急送往医院开刀，目前已动完手术，转进加护病房疗养。据悉，他下午时感到身体不适，幸好及早发现送往医院手术，妻子范玮琪也在第一时间赶往医院陪在他身旁。",
         "paragraphs": [
-          "9月12日，赵雷北京鸟巢演唱会上，前排一名男观众突然向女友求婚，女方激动站起，导致后排齐声高喊“坐下”。此前两人还向周围观众撒喜糖，保安介入制止。演唱会求婚，别把没素质当仪式感。"
+          "9月15日，艺人陈建州傍晚惊传心肌梗塞，紧急送往医院开刀，目前已动完手术，转进加护病房疗养。据悉，他下午时感到身体不适，幸好及早发现送往医院手术，妻子范玮琪也在第一时间赶往医院陪在他身旁。"
         ],
-        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/8e5c428286064ce4b9215d6ae164fca3",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/95eb18152878da5bb4c1e621b6be65a8",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "演唱会求婚 别把没素质当仪式感",
-        "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A+%E5%88%AB%E6%8A%8A%E6%B2%A1%E7%B4%A0%E8%B4%A8%E5%BD%93%E4%BB%AA%E5%BC%8F%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "曝陈建州突发心肌梗塞紧急手术",
+        "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E7%AA%81%E5%8F%91%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E7%B4%A7%E6%80%A5%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-百度热搜-14-E59B9BE79B92E6B2A1E4BABAE58F96E79A84",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-14-E5A5B3E5AD90E8A2ABE9AB98E7A9BAE68A9B",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "四盒没人取的牛奶救人一命",
-    "summaryZh": "2026-09-15 百度热搜第 14 名，热度 666.6万。近日，江苏无锡一小区保安卢强发现独居老人家中灯亮、四盒牛奶两天未取，且老人久未露面，报警后发现老人突发脑梗倒地。后老人获及时救治转危为安，9月10日卢强获颁证书和奖金。",
+    "titleZh": "女子被高空抛物致死抛砖男被执行死刑",
+    "summaryZh": "2026-09-16 百度热搜第 14 名，热度 665.9万。近日，长春28岁女子被高空抛物致死案民事部分宣判，抛砖男子周某已被执行死刑。万达、国信物业及夜市管理方因未及时制止其多次抛物，共担40%责任。此前，娄女士在长春红旗街夜市被周某抛下的砖头砸中致死。周某因厌世仇视社会，多次高空抛物酿成1死1伤。",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -814,53 +814,53 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "heatScore": 70,
     "importanceScore": 70,
     "confidence": "confirmed",
-    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/8ba6c0a350d73f4e2ef38d895e97e1d4",
+    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/8d5f35e05169a7d88f5e8e30280e26d3",
     "preferenceTags": [
       "百度热搜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
-      "排名：百度热搜第 14 名，热度 666.6万。",
-      "具体信息：四盒没人取的牛奶救人一命。近日，江苏无锡一小区保安卢强发现独居老人家中灯亮、四盒牛奶两天未取，且老人久未露面，报警后发现老人突发脑梗倒地。后老人获及时救治转危为安，9月10日卢强获颁证书和奖金。",
+      "排名：百度热搜第 14 名，热度 665.9万。",
+      "具体信息：女子被高空抛物致死抛砖男被执行死刑。近日，长春28岁女子被高空抛物致死案民事部分宣判，抛砖男子周某已被执行死刑。万达、国信物业及夜市管理方因未及时制止其多次抛物，共担40%责任。此前，娄女士在长春红旗街夜市被周某抛下的砖头砸中致死。周某因厌世仇视社会，多次高空抛物酿成1死1伤。",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "四盒没人取的牛奶救人一命",
-        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E7%9B%92%E6%B2%A1%E4%BA%BA%E5%8F%96%E7%9A%84%E7%89%9B%E5%A5%B6%E6%95%91%E4%BA%BA%E4%B8%80%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "近日，江苏无锡一小区保安卢强发现独居老人家中灯亮、四盒牛奶两天未取，且老人久未露面，报警后发现老人突发脑梗倒地。后老人获及时救治转危为安，9月10日卢强获颁证书和奖金。",
+        "title": "女子被高空抛物致死抛砖男被执行死刑",
+        "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%8A%9B%E7%A0%96%E7%94%B7%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "近日，长春28岁女子被高空抛物致死案民事部分宣判，抛砖男子周某已被执行死刑。万达、国信物业及夜市管理方因未及时制止其多次抛物，共担40%责任。此前，娄女士在长春红旗街夜市被周某抛下的砖头砸中致死。周某因厌世仇视社会，多次高空抛物酿成1死1伤。",
         "paragraphs": [
-          "近日，江苏无锡一小区保安卢强发现独居老人家中灯亮、四盒牛奶两天未取，且老人久未露面，报警后发现老人突发脑梗倒地。后老人获及时救治转危为安，9月10日卢强获颁证书和奖金。"
+          "近日，长春28岁女子被高空抛物致死案民事部分宣判，抛砖男子周某已被执行死刑。万达、国信物业及夜市管理方因未及时制止其多次抛物，共担40%责任。此前，娄女士在长春红旗街夜市被周某抛下的砖头砸中致死。周某因厌世仇视社会，多次高空抛物酿成1死1伤。"
         ],
-        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/8ba6c0a350d73f4e2ef38d895e97e1d4",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/8d5f35e05169a7d88f5e8e30280e26d3",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "四盒没人取的牛奶救人一命",
-        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E7%9B%92%E6%B2%A1%E4%BA%BA%E5%8F%96%E7%9A%84%E7%89%9B%E5%A5%B6%E6%95%91%E4%BA%BA%E4%B8%80%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "女子被高空抛物致死抛砖男被执行死刑",
+        "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%8A%9B%E7%A0%96%E7%94%B7%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-百度热搜-15-95E5908EE6B885E58D8EE6A0B8E7A791E68A",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-百度热搜-15-E88C83E78EAEE790AAE59B9EE5BA94E99988",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "百度热搜",
-    "titleZh": "95后清华核科技女博士当村支书",
-    "summaryZh": "2026-09-15 百度热搜第 15 名，热度 657.3万。95后清华核科技博士王帅于今年1月主动报名担任恩施州利川市凉雾乡诸天村第一书记。驻村8个月来，她利用设备拍摄乡村风貌，吸引近百游客避暑并对接农产品采购；还协调接通二组自来水、为盘龙片区安装66盏新路灯。",
+    "titleZh": "范玮琪回应陈建州病情：血管堵到90%",
+    "summaryZh": "2026-09-16 百度热搜第 15 名，热度 656.0万。近日，艺人陈建州突发急性心肌梗塞，紧急送医手术并植入心脏支架。范玮琪透露，其血管已堵塞90%，所幸手术顺利并转入加护病房，预计最快后天出院。此前陈建州胸闷服药后加重，经诊断后立即安排急救，范玮琪惊呼若再晚5分钟后果不堪设想。",
     "whyItMatters": "收录原因：进入百度热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -875,53 +875,53 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "heatScore": 70,
     "importanceScore": 70,
     "confidence": "confirmed",
-    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/1924345dd972c737b42b7b24ad21b2b5",
+    "thumbnailUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/d26757cf1b4a27ee9125a2881c7b3b1c",
     "preferenceTags": [
       "百度热搜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
-      "排名：百度热搜第 15 名，热度 657.3万。",
-      "具体信息：95后清华核科技女博士当村支书。95后清华核科技博士王帅于今年1月主动报名担任恩施州利川市凉雾乡诸天村第一书记。驻村8个月来，她利用设备拍摄乡村风貌，吸引近百游客避暑并对接农产品采购；还协调接通二组自来水、为盘龙片区安装66盏新路灯。",
+      "排名：百度热搜第 15 名，热度 656.0万。",
+      "具体信息：范玮琪回应陈建州病情：血管堵到90%。近日，艺人陈建州突发急性心肌梗塞，紧急送医手术并植入心脏支架。范玮琪透露，其血管已堵塞90%，所幸手术顺利并转入加护病房，预计最快后天出院。此前陈建州胸闷服药后加重，经诊断后立即安排急救，范玮琪惊呼若再晚5分钟后果不堪设想。",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "百度热搜",
-        "title": "95后清华核科技女博士当村支书",
-        "url": "https://www.baidu.com/s?wd=95%E5%90%8E%E6%B8%85%E5%8D%8E%E6%A0%B8%E7%A7%91%E6%8A%80%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%BD%93%E6%9D%91%E6%94%AF%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news",
-        "description": "95后清华核科技博士王帅于今年1月主动报名担任恩施州利川市凉雾乡诸天村第一书记。驻村8个月来，她利用设备拍摄乡村风貌，吸引近百游客避暑并对接农产品采购；还协调接通二组自来水、为盘龙片区安装66盏新路灯。",
+        "title": "范玮琪回应陈建州病情：血管堵到90%",
+        "url": "https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E5%9B%9E%E5%BA%94%E9%99%88%E5%BB%BA%E5%B7%9E%E7%97%85%E6%83%85%EF%BC%9A%E8%A1%80%E7%AE%A1%E5%A0%B5%E5%88%B090%25&sa=fyb_news&rsv_dl=fyb_news",
+        "description": "近日，艺人陈建州突发急性心肌梗塞，紧急送医手术并植入心脏支架。范玮琪透露，其血管已堵塞90%，所幸手术顺利并转入加护病房，预计最快后天出院。此前陈建州胸闷服药后加重，经诊断后立即安排急救，范玮琪惊呼若再晚5分钟后果不堪设想。",
         "paragraphs": [
-          "95后清华核科技博士王帅于今年1月主动报名担任恩施州利川市凉雾乡诸天村第一书记。驻村8个月来，她利用设备拍摄乡村风貌，吸引近百游客避暑并对接农产品采购；还协调接通二组自来水、为盘龙片区安装66盏新路灯。"
+          "近日，艺人陈建州突发急性心肌梗塞，紧急送医手术并植入心脏支架。范玮琪透露，其血管已堵塞90%，所幸手术顺利并转入加护病房，预计最快后天出院。此前陈建州胸闷服药后加重，经诊断后立即安排急救，范玮琪惊呼若再晚5分钟后果不堪设想。"
         ],
-        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/1924345dd972c737b42b7b24ad21b2b5",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/d26757cf1b4a27ee9125a2881c7b3b1c",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "百度热搜",
-        "title": "95后清华核科技女博士当村支书",
-        "url": "https://www.baidu.com/s?wd=95%E5%90%8E%E6%B8%85%E5%8D%8E%E6%A0%B8%E7%A7%91%E6%8A%80%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%BD%93%E6%9D%91%E6%94%AF%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "范玮琪回应陈建州病情：血管堵到90%",
+        "url": "https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E5%9B%9E%E5%BA%94%E9%99%88%E5%BB%BA%E5%B7%9E%E7%97%85%E6%83%85%EF%BC%9A%E8%A1%80%E7%AE%A1%E5%A0%B5%E5%88%B090%25&sa=fyb_news&rsv_dl=fyb_news",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "百度热搜",
         "url": "https://top.baidu.com/board?tab=realtime",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电影榜-1-E58A9FE5A4ABE5A5B3E8B6B320E794B5E5BD",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电影榜-1-E58A9FE5A4ABE5A5B3E8B6B320E794B5E5BD",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电影榜",
     "titleZh": "功夫女足 电影",
-    "summaryZh": "2026-09-15 百度热搜第 1 名，热度 10.6万。周星驰！新作！来了！神级功夫碰撞足球，还是熟悉的喜剧配方，够飞，够癫，含笑量绕足球场好多圈。",
+    "summaryZh": "2026-09-16 百度热搜第 1 名，热度 10.6万。周星驰！新作！来了！神级功夫碰撞足球，还是熟悉的喜剧配方，够飞，够癫，含笑量绕足球场好多圈。",
     "whyItMatters": "收录原因：进入电影榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -942,7 +942,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电影榜第 1 名，热度 10.6万。",
       "具体信息：功夫女足 电影。周星驰！新作！来了！神级功夫碰撞足球，还是熟悉的喜剧配方，够飞，够癫，含笑量绕足球场好多圈。",
@@ -958,7 +958,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "周星驰！新作！来了！神级功夫碰撞足球，还是熟悉的喜剧配方，够飞，够癫，含笑量绕足球场好多圈。"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1785999451437964.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -966,23 +966,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "功夫女足 电影",
         "url": "https://baike.baidu.com/item/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3/68014512?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电影榜",
         "url": "https://top.baidu.com/board?tab=movie",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电影榜-2-E6ACA2E8BF8EE69DA5E9BE99E9A490E9A686",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电影榜-2-E6ACA2E8BF8EE69DA5E9BE99E9A490E9A686",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电影榜",
     "titleZh": "欢迎来龙餐馆 电影",
-    "summaryZh": "2026-09-15 百度热搜第 2 名，热度 10.0万。徐福（沈腾 饰）为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生（蒋奇明 饰）。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。",
+    "summaryZh": "2026-09-16 百度热搜第 2 名，热度 10.0万。徐福（沈腾 饰）为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生（蒋奇明 饰）。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。",
     "whyItMatters": "收录原因：进入电影榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1003,7 +1003,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电影榜第 2 名，热度 10.0万。",
       "具体信息：欢迎来龙餐馆 电影。徐福（沈腾 饰）为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生（蒋奇明 饰）。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。",
@@ -1019,7 +1019,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "徐福（沈腾 饰）为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生（蒋奇明 饰）。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1785999565569436.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1027,23 +1027,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "欢迎来龙餐馆 电影",
         "url": "https://baike.baidu.com/item/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86/60346034?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电影榜",
         "url": "https://top.baidu.com/board?tab=movie",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电影榜-3-E89C98E89B9BE4BEA0EFBC9AE5B4ADE696B0",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电影榜-3-E89C98E89B9BE4BEA0EFBC9AE5B4ADE696B0",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电影榜",
     "titleZh": "蜘蛛侠：崭新之日 电影",
-    "summaryZh": "2026-09-15 百度热搜第 3 名，热度 9.7万。彼得•帕克自愿让全世界遗忘自己，转眼已是四年。",
+    "summaryZh": "2026-09-16 百度热搜第 3 名，热度 9.7万。彼得•帕克自愿让全世界遗忘自己，转眼已是四年。",
     "whyItMatters": "收录原因：进入电影榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1064,7 +1064,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电影榜第 3 名，热度 9.7万。",
       "具体信息：蜘蛛侠：崭新之日 电影。彼得•帕克自愿让全世界遗忘自己，转眼已是四年。",
@@ -1080,7 +1080,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "彼得•帕克自愿让全世界遗忘自己，转眼已是四年。"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1785999835459727.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1088,23 +1088,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "蜘蛛侠：崭新之日 电影",
         "url": "https://baike.baidu.com/item/%E8%9C%98%E8%9B%9B%E4%BE%A0%EF%BC%9A%E5%B4%AD%E6%96%B0%E4%B9%8B%E6%97%A5/65546058?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电影榜",
         "url": "https://top.baidu.com/board?tab=movie",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电影榜-4-E5A5A5E5BEB7E8B59B20E794B5E5BDB1",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电影榜-4-E5A5A5E5BEB7E8B59B20E794B5E5BDB1",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电影榜",
     "titleZh": "奥德赛 电影",
-    "summaryZh": "2026-09-15 百度热搜第 4 名，热度 8.6万。《奥德赛》讲述特洛伊战争后，伊萨卡国王奥德修斯率部归家，途中历经风暴、怪物与神祇考验，漂泊十年。",
+    "summaryZh": "2026-09-16 百度热搜第 4 名，热度 8.6万。《奥德赛》讲述特洛伊战争后，伊萨卡国王奥德修斯率部归家，途中历经风暴、怪物与神祇考验，漂泊十年。",
     "whyItMatters": "收录原因：进入电影榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1125,7 +1125,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电影榜第 4 名，热度 8.6万。",
       "具体信息：奥德赛 电影。《奥德赛》讲述特洛伊战争后，伊萨卡国王奥德修斯率部归家，途中历经风暴、怪物与神祇考验，漂泊十年。",
@@ -1141,7 +1141,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "《奥德赛》讲述特洛伊战争后，伊萨卡国王奥德修斯率部归家，途中历经风暴、怪物与神祇考验，漂泊十年。"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786000569810329.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1149,23 +1149,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "奥德赛 电影",
         "url": "https://baike.baidu.com/item/%E5%A5%A5%E5%BE%B7%E8%B5%9B/65243968?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电影榜",
         "url": "https://top.baidu.com/board?tab=movie",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电影榜-5-E585ABE4BB99EFBC8120E794B5E5BDB1",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电影榜-5-E585ABE4BB99EFBC8120E794B5E5BDB1",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电影榜",
     "titleZh": "八仙！ 电影",
-    "summaryZh": "2026-09-15 百度热搜第 5 名，热度 6.2万。2026年暑期档必看动画奇幻巨制，国民喜剧大片！",
+    "summaryZh": "2026-09-16 百度热搜第 5 名，热度 6.2万。2026年暑期档必看动画奇幻巨制，国民喜剧大片！",
     "whyItMatters": "收录原因：进入电影榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1186,7 +1186,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电影榜第 5 名，热度 6.2万。",
       "具体信息：八仙！ 电影。2026年暑期档必看动画奇幻巨制，国民喜剧大片！",
@@ -1202,7 +1202,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "2026年暑期档必看动画奇幻巨制，国民喜剧大片！"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786000670507720.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1210,23 +1210,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "八仙！ 电影",
         "url": "https://baike.baidu.com/item/%E5%85%AB%E4%BB%99%EF%BC%81/67368926?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电影榜",
         "url": "https://top.baidu.com/board?tab=movie",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电影榜-6-E5B9B4E4BC9AE4B88DE883BDE5819C2EFBC8",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电影榜-6-E5B9B4E4BC9AE4B88DE883BDE5819C2EFBC8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电影榜",
     "titleZh": "年会不能停2！ 电影",
-    "summaryZh": "2026-09-15 百度热搜第 6 名，热度 5.1万。两个倒霉蛋“刘马组合”在命运的安排下于“包子铺”相遇，命运扔来一张“无限流体验卡”：只要不成，时间倒带，重回原点。",
+    "summaryZh": "2026-09-16 百度热搜第 6 名，热度 5.1万。两个倒霉蛋“刘马组合”在命运的安排下于“包子铺”相遇，命运扔来一张“无限流体验卡”：只要不成，时间倒带，重回原点。",
     "whyItMatters": "收录原因：进入电影榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1247,7 +1247,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电影榜第 6 名，热度 5.1万。",
       "具体信息：年会不能停2！ 电影。两个倒霉蛋“刘马组合”在命运的安排下于“包子铺”相遇，命运扔来一张“无限流体验卡”：只要不成，时间倒带，重回原点。",
@@ -1263,7 +1263,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "两个倒霉蛋“刘马组合”在命运的安排下于“包子铺”相遇，命运扔来一张“无限流体验卡”：只要不成，时间倒带，重回原点。"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786000764967754.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1271,23 +1271,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "年会不能停2！ 电影",
         "url": "https://baike.baidu.com/item/%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C2%EF%BC%81/67856694?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电影榜",
         "url": "https://top.baidu.com/board?tab=movie",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电影榜-7-E98083E587BAE7BB9DE591BDE8A19720E794",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电影榜-7-E98083E587BAE7BB9DE591BDE8A19720E794",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电影榜",
     "titleZh": "逃出绝命街 电影",
-    "summaryZh": "2026-09-15 百度热搜第 7 名，热度 4.6万。一场神秘事件，让橡树街从平静郊区穿越回史前时代，导致恐龙突然惊现人类小区，并开始大肆吃人！",
+    "summaryZh": "2026-09-16 百度热搜第 7 名，热度 4.6万。一场神秘事件，让橡树街从平静郊区穿越回史前时代，导致恐龙突然惊现人类小区，并开始大肆吃人！",
     "whyItMatters": "收录原因：进入电影榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1308,7 +1308,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电影榜第 7 名，热度 4.6万。",
       "具体信息：逃出绝命街 电影。一场神秘事件，让橡树街从平静郊区穿越回史前时代，导致恐龙突然惊现人类小区，并开始大肆吃人！",
@@ -1324,7 +1324,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "一场神秘事件，让橡树街从平静郊区穿越回史前时代，导致恐龙突然惊现人类小区，并开始大肆吃人！"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786000873799372.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1332,23 +1332,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "逃出绝命街 电影",
         "url": "https://baike.baidu.com/item/%E9%80%83%E5%87%BA%E7%BB%9D%E5%91%BD%E8%A1%97/67540180?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电影榜",
         "url": "https://top.baidu.com/board?tab=movie",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电影榜-8-E5A4A7E59490E5A696E68EA220E794B5E5BD",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电影榜-8-E5A4A7E59490E5A696E68EA220E794B5E5BD",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电影榜",
     "titleZh": "大唐妖探 电影",
-    "summaryZh": "2026-09-15 百度热搜第 8 名，热度 3.9万。喜剧探案合家欢，悬疑奇案欢乐多。2026年原创国产动画巨制！",
+    "summaryZh": "2026-09-16 百度热搜第 8 名，热度 3.9万。喜剧探案合家欢，悬疑奇案欢乐多。2026年原创国产动画巨制！",
     "whyItMatters": "收录原因：进入电影榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1369,7 +1369,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电影榜第 8 名，热度 3.9万。",
       "具体信息：大唐妖探 电影。喜剧探案合家欢，悬疑奇案欢乐多。2026年原创国产动画巨制！",
@@ -1385,7 +1385,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "喜剧探案合家欢，悬疑奇案欢乐多。2026年原创国产动画巨制！"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786000988850896.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1393,23 +1393,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "大唐妖探 电影",
         "url": "https://baike.baidu.com/item/%E5%A4%A7%E5%94%90%E5%A6%96%E6%8E%A2/65710506?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电影榜",
         "url": "https://top.baidu.com/board?tab=movie",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电影榜-9-E58EBBE4BDA0E79A84E5B29B20E794B5E5BD",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电影榜-9-E58EBBE4BDA0E79A84E5B29B20E794B5E5BD",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电影榜",
     "titleZh": "去你的岛 电影",
-    "summaryZh": "2026-09-15 百度热搜第 9 名，热度 3.0万。都市女孩王结香被一只干纸鹤带入奇幻小岛，为逃离此地，她与化身为软萌兔子的失忆前男友殷显结伴踏上闯关冒险的旅途。",
+    "summaryZh": "2026-09-16 百度热搜第 9 名，热度 3.0万。都市女孩王结香被一只干纸鹤带入奇幻小岛，为逃离此地，她与化身为软萌兔子的失忆前男友殷显结伴踏上闯关冒险的旅途。",
     "whyItMatters": "收录原因：进入电影榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1430,7 +1430,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电影榜第 9 名，热度 3.0万。",
       "具体信息：去你的岛 电影。都市女孩王结香被一只干纸鹤带入奇幻小岛，为逃离此地，她与化身为软萌兔子的失忆前男友殷显结伴踏上闯关冒险的旅途。",
@@ -1446,7 +1446,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "都市女孩王结香被一只干纸鹤带入奇幻小岛，为逃离此地，她与化身为软萌兔子的失忆前男友殷显结伴踏上闯关冒险的旅途。"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786001045630669.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1454,23 +1454,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "去你的岛 电影",
         "url": "https://baike.baidu.com/item/%E5%8E%BB%E4%BD%A0%E7%9A%84%E5%B2%9B/62800745?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电影榜",
         "url": "https://top.baidu.com/board?tab=movie",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电影榜-10-E683B3E4BDA0E4BA8620E794B5E5BDB1",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电影榜-10-E683B3E4BDA0E4BA8620E794B5E5BDB1",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电影榜",
     "titleZh": "想你了 电影",
-    "summaryZh": "2026-09-15 百度热搜第 10 名，热度 2.6万。你见过最好的友情是什么样呢？高凡（章若楠饰）和汪美丽（金靖饰）她俩一定有发言权！",
+    "summaryZh": "2026-09-16 百度热搜第 10 名，热度 2.6万。你见过最好的友情是什么样呢？高凡（章若楠饰）和汪美丽（金靖饰）她俩一定有发言权！",
     "whyItMatters": "收录原因：进入电影榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1491,7 +1491,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电影榜第 10 名，热度 2.6万。",
       "具体信息：想你了 电影。你见过最好的友情是什么样呢？高凡（章若楠饰）和汪美丽（金靖饰）她俩一定有发言权！",
@@ -1507,7 +1507,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "你见过最好的友情是什么样呢？高凡（章若楠饰）和汪美丽（金靖饰）她俩一定有发言权！"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786001115265769.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1515,23 +1515,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "想你了 电影",
         "url": "https://baike.baidu.com/item/%E6%83%B3%E4%BD%A0%E4%BA%86/67968609?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电影榜",
         "url": "https://top.baidu.com/board?tab=movie",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电视剧榜-1-E4B99DE997A820E794B5E8A786E589A7",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电视剧榜-1-E4B99DE997A820E794B5E8A786E589A7",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电视剧榜",
     "titleZh": "九门 电视剧",
-    "summaryZh": "2026-09-15 百度热搜第 1 名，热度 9.5万。讲述了民国长沙，张启山携手吴老狗、霍仙姑追查部队集体失踪谜案，众人深入机关密布的隔世楼古墓，一边破解地下秘境重重危机，一边周旋各方势力，揭开埋藏多年的家族秘辛与家国阴谋的冒险故事",
+    "summaryZh": "2026-09-16 百度热搜第 1 名，热度 9.5万。讲述了民国长沙，张启山携手吴老狗、霍仙姑追查部队集体失踪谜案，众人深入机关密布的隔世楼古墓，一边破解地下秘境重重危机，一边周旋各方势力，揭开埋藏多年的家族秘辛与家国阴谋的冒险故事",
     "whyItMatters": "收录原因：进入电视剧榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1552,7 +1552,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电视剧榜第 1 名，热度 9.5万。",
       "具体信息：九门 电视剧。讲述了民国长沙，张启山携手吴老狗、霍仙姑追查部队集体失踪谜案，众人深入机关密布的隔世楼古墓，一边破解地下秘境重重危机，一边周旋各方势力，揭开埋藏多年的家族秘辛与家国阴谋的冒险故事",
@@ -1568,7 +1568,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "讲述了民国长沙，张启山携手吴老狗、霍仙姑追查部队集体失踪谜案，众人深入机关密布的隔世楼古墓，一边破解地下秘境重重危机，一边周旋各方势力，揭开埋藏多年的家族秘辛与家国阴谋的冒险故事"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786001211803186.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1576,23 +1576,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "九门 电视剧",
         "url": "https://baike.baidu.com/item/%E4%B9%9D%E9%97%A8/64883150?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电视剧榜",
         "url": "https://top.baidu.com/board?tab=teleplay",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电视剧榜-2-E99D9EE4BBBDE4B98BE7BDAA20E794B5E8A7",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电视剧榜-2-E99D9EE4BBBDE4B98BE7BDAA20E794B5E8A7",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电视剧榜",
     "titleZh": "非份之罪 电视剧",
-    "summaryZh": "2026-09-15 百度热搜第 2 名，热度 9.3万。讲述重案组探员孟保接连侦破六桩离奇罪案，每起案件皆源于人心失控的贪欲，在一桩桩人性迷局之中拨开层层迷雾，挖掘欲望裹挟之下，普通人一步步走向犯罪深渊的真相故事。",
+    "summaryZh": "2026-09-16 百度热搜第 2 名，热度 9.3万。讲述重案组探员孟保接连侦破六桩离奇罪案，每起案件皆源于人心失控的贪欲，在一桩桩人性迷局之中拨开层层迷雾，挖掘欲望裹挟之下，普通人一步步走向犯罪深渊的真相故事。",
     "whyItMatters": "收录原因：进入电视剧榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1613,7 +1613,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电视剧榜第 2 名，热度 9.3万。",
       "具体信息：非份之罪 电视剧。讲述重案组探员孟保接连侦破六桩离奇罪案，每起案件皆源于人心失控的贪欲，在一桩桩人性迷局之中拨开层层迷雾，挖掘欲望裹挟之下，普通人一步步走向犯罪深渊的真相故事。",
@@ -1629,7 +1629,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "讲述重案组探员孟保接连侦破六桩离奇罪案，每起案件皆源于人心失控的贪欲，在一桩桩人性迷局之中拨开层层迷雾，挖掘欲望裹挟之下，普通人一步步走向犯罪深渊的真相故事。"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786001351723838.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1637,23 +1637,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "非份之罪 电视剧",
         "url": "https://baike.baidu.com/item/%E9%9D%9E%E4%BB%BD%E4%B9%8B%E7%BD%AA/63762065?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电视剧榜",
         "url": "https://top.baidu.com/board?tab=teleplay",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电视剧榜-3-E8BF99E4B880E7A792E8BF87E781AB20E794",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电视剧榜-3-E8BF99E4B880E7A792E8BF87E781AB20E794",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电视剧榜",
     "titleZh": "这一秒过火 电视剧",
-    "summaryZh": "2026-09-15 百度热搜第 3 名，热度 9.0万。讲述了民国乱世中，慕容清峄与任素素因一场相救结下命运牵绊，经历身世错位、家族恩怨和痛心离别；三年后任素素以“方牧兰”之名回归，成为慕容清峄的准大嫂，两人在爱恨纠葛中并肩踏入危局，共赴复仇的故事。",
+    "summaryZh": "2026-09-16 百度热搜第 3 名，热度 9.0万。讲述了民国乱世中，慕容清峄与任素素因一场相救结下命运牵绊，经历身世错位、家族恩怨和痛心离别；三年后任素素以“方牧兰”之名回归，成为慕容清峄的准大嫂，两人在爱恨纠葛中并肩踏入危局，共赴复仇的故事。",
     "whyItMatters": "收录原因：进入电视剧榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1674,7 +1674,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电视剧榜第 3 名，热度 9.0万。",
       "具体信息：这一秒过火 电视剧。讲述了民国乱世中，慕容清峄与任素素因一场相救结下命运牵绊，经历身世错位、家族恩怨和痛心离别；三年后任素素以“方牧兰”之名回归，成为慕容清峄的准大嫂，两人在爱恨纠葛中并肩踏入危局，共赴复仇的故事。",
@@ -1690,7 +1690,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "讲述了民国乱世中，慕容清峄与任素素因一场相救结下命运牵绊，经历身世错位、家族恩怨和痛心离别；三年后任素素以“方牧兰”之名回归，成为慕容清峄的准大嫂，两人在爱恨纠葛中并肩踏入危局，共赴复仇的故事。"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786001445696503.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1698,23 +1698,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "这一秒过火 电视剧",
         "url": "https://baike.baidu.com/item/%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB/65762063?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电视剧榜",
         "url": "https://top.baidu.com/board?tab=teleplay",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电视剧榜-4-E799BEE88AB1E69D8020E794B5E8A786E589",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电视剧榜-4-E799BEE88AB1E69D8020E794B5E8A786E589",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电视剧榜",
     "titleZh": "百花杀 电视剧",
-    "summaryZh": "2026-09-15 百度热搜第 4 名，热度 8.1万。讲述了身负家族灭门血海深仇的沈汐和，凭借一身调香绝技步步谋划，与隐忍蛰伏的太子萧华雍从互相算计的利益盟友，蜕变为生死与共的知己，二人携手拨开朝堂重重阴谋，清算陈年冤案，在权力纷争中并肩守护家国天下的故事。",
+    "summaryZh": "2026-09-16 百度热搜第 4 名，热度 8.1万。讲述了身负家族灭门血海深仇的沈汐和，凭借一身调香绝技步步谋划，与隐忍蛰伏的太子萧华雍从互相算计的利益盟友，蜕变为生死与共的知己，二人携手拨开朝堂重重阴谋，清算陈年冤案，在权力纷争中并肩守护家国天下的故事。",
     "whyItMatters": "收录原因：进入电视剧榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1735,7 +1735,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电视剧榜第 4 名，热度 8.1万。",
       "具体信息：百花杀 电视剧。讲述了身负家族灭门血海深仇的沈汐和，凭借一身调香绝技步步谋划，与隐忍蛰伏的太子萧华雍从互相算计的利益盟友，蜕变为生死与共的知己，二人携手拨开朝堂重重阴谋，清算陈年冤案，在权力纷争中并肩守护家国天下的故事。",
@@ -1751,7 +1751,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "讲述了身负家族灭门血海深仇的沈汐和，凭借一身调香绝技步步谋划，与隐忍蛰伏的太子萧华雍从互相算计的利益盟友，蜕变为生死与共的知己，二人携手拨开朝堂重重阴谋，清算陈年冤案，在权力纷争中并肩守护家国天下的故事。"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786001769695180.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1759,23 +1759,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "百花杀 电视剧",
         "url": "https://baike.baidu.com/item/%E7%99%BE%E8%8A%B1%E6%9D%80/65495865?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电视剧榜",
         "url": "https://top.baidu.com/board?tab=teleplay",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电视剧榜-5-E5A4A9E6898DEFBC8CE5A5B3E58F8B20E794",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电视剧榜-5-E5A4A9E6898DEFBC8CE5A5B3E58F8B20E794",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电视剧榜",
     "titleZh": "天才，女友 电视剧",
-    "summaryZh": "2026-09-15 百度热搜第 5 名，热度 7.5万。讲述了天才少女林知夏携手学霸竹马江逾白从校园到婚纱的披荆斩棘之路。林知夏被保送复旦后，江逾白准备在毕业之旅对她告白，却因母亲卷入诈骗案而遗憾离开。",
+    "summaryZh": "2026-09-16 百度热搜第 5 名，热度 7.5万。讲述了天才少女林知夏携手学霸竹马江逾白从校园到婚纱的披荆斩棘之路。林知夏被保送复旦后，江逾白准备在毕业之旅对她告白，却因母亲卷入诈骗案而遗憾离开。",
     "whyItMatters": "收录原因：进入电视剧榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1796,7 +1796,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电视剧榜第 5 名，热度 7.5万。",
       "具体信息：天才，女友 电视剧。讲述了天才少女林知夏携手学霸竹马江逾白从校园到婚纱的披荆斩棘之路。林知夏被保送复旦后，江逾白准备在毕业之旅对她告白，却因母亲卷入诈骗案而遗憾离开。",
@@ -1812,7 +1812,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "讲述了天才少女林知夏携手学霸竹马江逾白从校园到婚纱的披荆斩棘之路。林知夏被保送复旦后，江逾白准备在毕业之旅对她告白，却因母亲卷入诈骗案而遗憾离开。"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786001875789073.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1820,23 +1820,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "天才，女友 电视剧",
         "url": "https://baike.baidu.com/item/%E5%A4%A9%E6%89%8D%EF%BC%8C%E5%A5%B3%E5%8F%8B/67903610?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电视剧榜",
         "url": "https://top.baidu.com/board?tab=teleplay",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电视剧榜-6-E5BEA1E5BBB7E8B0A320E794B5E8A786E589",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电视剧榜-6-E5BEA1E5BBB7E8B0A320E794B5E8A786E589",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电视剧榜",
     "titleZh": "御廷谣 电视剧",
-    "summaryZh": "2026-09-15 百度热搜第 6 名，热度 7.3万。讲述孤女孟廷辉幼年蒙难，以女子之身三元及第踏入朝堂，她与少年帝王英寡彼此相知，二人联手对抗朝堂权臣、粉碎谋反阴谋，在权力博弈与爱恨拉扯之中，冲破身份桎梏，携手整肃朝纲守护万民安宁的故事",
+    "summaryZh": "2026-09-16 百度热搜第 6 名，热度 7.3万。讲述孤女孟廷辉幼年蒙难，以女子之身三元及第踏入朝堂，她与少年帝王英寡彼此相知，二人联手对抗朝堂权臣、粉碎谋反阴谋，在权力博弈与爱恨拉扯之中，冲破身份桎梏，携手整肃朝纲守护万民安宁的故事",
     "whyItMatters": "收录原因：进入电视剧榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1857,7 +1857,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电视剧榜第 6 名，热度 7.3万。",
       "具体信息：御廷谣 电视剧。讲述孤女孟廷辉幼年蒙难，以女子之身三元及第踏入朝堂，她与少年帝王英寡彼此相知，二人联手对抗朝堂权臣、粉碎谋反阴谋，在权力博弈与爱恨拉扯之中，冲破身份桎梏，携手整肃朝纲守护万民安宁的故事",
@@ -1873,7 +1873,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "讲述孤女孟廷辉幼年蒙难，以女子之身三元及第踏入朝堂，她与少年帝王英寡彼此相知，二人联手对抗朝堂权臣、粉碎谋反阴谋，在权力博弈与爱恨拉扯之中，冲破身份桎梏，携手整肃朝纲守护万民安宁的故事"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786002032153290.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1881,23 +1881,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "御廷谣 电视剧",
         "url": "https://baike.baidu.com/item/%E5%BE%A1%E5%BB%B7%E8%B0%A3/64971706?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电视剧榜",
         "url": "https://top.baidu.com/board?tab=teleplay",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电视剧榜-7-E5B08FE88AB320E794B5E8A786E589A7",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电视剧榜-7-E5B08FE88AB320E794B5E8A786E589A7",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电视剧榜",
     "titleZh": "小芳 电视剧",
-    "summaryZh": "2026-09-15 百度热搜第 7 名，热度 6.6万。讲述乡村女孩杨小芳与祁小伟相恋意外怀孕，两家人因旧怨彩礼矛盾婚事破裂，面对世俗流言与亲友劝和，小芳拒绝将就成婚，选择独自孕育孩子，扎根家乡创业，挣脱传统偏见活出独立自我的成长故事。",
+    "summaryZh": "2026-09-16 百度热搜第 7 名，热度 6.6万。讲述乡村女孩杨小芳与祁小伟相恋意外怀孕，两家人因旧怨彩礼矛盾婚事破裂，面对世俗流言与亲友劝和，小芳拒绝将就成婚，选择独自孕育孩子，扎根家乡创业，挣脱传统偏见活出独立自我的成长故事。",
     "whyItMatters": "收录原因：进入电视剧榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1918,7 +1918,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电视剧榜第 7 名，热度 6.6万。",
       "具体信息：小芳 电视剧。讲述乡村女孩杨小芳与祁小伟相恋意外怀孕，两家人因旧怨彩礼矛盾婚事破裂，面对世俗流言与亲友劝和，小芳拒绝将就成婚，选择独自孕育孩子，扎根家乡创业，挣脱传统偏见活出独立自我的成长故事。",
@@ -1934,7 +1934,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "讲述乡村女孩杨小芳与祁小伟相恋意外怀孕，两家人因旧怨彩礼矛盾婚事破裂，面对世俗流言与亲友劝和，小芳拒绝将就成婚，选择独自孕育孩子，扎根家乡创业，挣脱传统偏见活出独立自我的成长故事。"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786002114265165.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -1942,23 +1942,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "小芳 电视剧",
         "url": "https://baike.baidu.com/item/%E5%B0%8F%E8%8A%B3/68177670?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电视剧榜",
         "url": "https://top.baidu.com/board?tab=teleplay",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电视剧榜-8-E99B80E9AAA820E794B5E8A786E589A7",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电视剧榜-8-E99B80E9AAA820E794B5E8A786E589A7",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电视剧榜",
     "titleZh": "雀骨 电视剧",
-    "summaryZh": "2026-09-15 百度热搜第 8 名，热度 5.6万。讲述身负边关冤案的靖安王世子萧无衣，为复仇布局迎娶精通墨家机关术的太傅之女谢嘉鱼，二人始于契约婚姻，彼此戒备试探，在危机四伏的朝堂争斗里渐生情愫，携手揭开尘封旧案，洗清冤屈并肩守护家国的故事。",
+    "summaryZh": "2026-09-16 百度热搜第 8 名，热度 5.6万。讲述身负边关冤案的靖安王世子萧无衣，为复仇布局迎娶精通墨家机关术的太傅之女谢嘉鱼，二人始于契约婚姻，彼此戒备试探，在危机四伏的朝堂争斗里渐生情愫，携手揭开尘封旧案，洗清冤屈并肩守护家国的故事。",
     "whyItMatters": "收录原因：进入电视剧榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -1979,7 +1979,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电视剧榜第 8 名，热度 5.6万。",
       "具体信息：雀骨 电视剧。讲述身负边关冤案的靖安王世子萧无衣，为复仇布局迎娶精通墨家机关术的太傅之女谢嘉鱼，二人始于契约婚姻，彼此戒备试探，在危机四伏的朝堂争斗里渐生情愫，携手揭开尘封旧案，洗清冤屈并肩守护家国的故事。",
@@ -1995,7 +1995,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "讲述身负边关冤案的靖安王世子萧无衣，为复仇布局迎娶精通墨家机关术的太傅之女谢嘉鱼，二人始于契约婚姻，彼此戒备试探，在危机四伏的朝堂争斗里渐生情愫，携手揭开尘封旧案，洗清冤屈并肩守护家国的故事。"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786002212836252.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -2003,23 +2003,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "雀骨 电视剧",
         "url": "https://baike.baidu.com/item/%E9%9B%80%E9%AA%A8/65443922?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电视剧榜",
         "url": "https://top.baidu.com/board?tab=teleplay",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电视剧榜-9-E682ACE6A18820E794B5E8A786E589A7",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电视剧榜-9-E682ACE6A18820E794B5E8A786E589A7",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电视剧榜",
     "titleZh": "悬案 电视剧",
-    "summaryZh": "2026-09-15 百度热搜第 9 名，热度 4.5万。讲述九十年代刑侦技术落后的背景下，老刑警施占军与调查记者白朗，面对两起尘封多年的重大积案，靠着走访摸排、深挖卷宗，跨越二十二年坚持不懈追凶，冲破重重阻碍，最终让沉冤真相得以昭雪的故事。",
+    "summaryZh": "2026-09-16 百度热搜第 9 名，热度 4.5万。讲述九十年代刑侦技术落后的背景下，老刑警施占军与调查记者白朗，面对两起尘封多年的重大积案，靠着走访摸排、深挖卷宗，跨越二十二年坚持不懈追凶，冲破重重阻碍，最终让沉冤真相得以昭雪的故事。",
     "whyItMatters": "收录原因：进入电视剧榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -2040,7 +2040,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电视剧榜第 9 名，热度 4.5万。",
       "具体信息：悬案 电视剧。讲述九十年代刑侦技术落后的背景下，老刑警施占军与调查记者白朗，面对两起尘封多年的重大积案，靠着走访摸排、深挖卷宗，跨越二十二年坚持不懈追凶，冲破重重阻碍，最终让沉冤真相得以昭雪的故事。",
@@ -2056,7 +2056,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "讲述九十年代刑侦技术落后的背景下，老刑警施占军与调查记者白朗，面对两起尘封多年的重大积案，靠着走访摸排、深挖卷宗，跨越二十二年坚持不懈追凶，冲破重重阻碍，最终让沉冤真相得以昭雪的故事。"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786002339317627.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -2064,23 +2064,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "悬案 电视剧",
         "url": "https://baike.baidu.com/item/%E6%82%AC%E6%A1%88/63715018?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电视剧榜",
         "url": "https://top.baidu.com/board?tab=teleplay",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-电视剧榜-10-E4BABAE9B1BC20E794B5E8A786E589A7",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-电视剧榜-10-E4BABAE9B1BC20E794B5E8A786E589A7",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "电视剧榜",
     "titleZh": "人鱼 电视剧",
-    "summaryZh": "2026-09-15 百度热搜第 10 名，热度 4.3万。讲述九十年代小城少女苏琳长期遭受原生家庭忽视与校园霸凌，冲突意外坠入地下暗渠离奇失踪，她于绝境之中顽强求生，意外撞破地下河道连环女尸案的线索，历经磨难挣脱命运枷锁，凭借自身力量完成自我救赎的故事。",
+    "summaryZh": "2026-09-16 百度热搜第 10 名，热度 4.3万。讲述九十年代小城少女苏琳长期遭受原生家庭忽视与校园霸凌，冲突意外坠入地下暗渠离奇失踪，她于绝境之中顽强求生，意外撞破地下河道连环女尸案的线索，历经磨难挣脱命运枷锁，凭借自身力量完成自我救赎的故事。",
     "whyItMatters": "收录原因：进入电视剧榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -2101,7 +2101,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：百度热搜。",
       "排名：电视剧榜第 10 名，热度 4.3万。",
       "具体信息：人鱼 电视剧。讲述九十年代小城少女苏琳长期遭受原生家庭忽视与校园霸凌，冲突意外坠入地下暗渠离奇失踪，她于绝境之中顽强求生，意外撞破地下河道连环女尸案的线索，历经磨难挣脱命运枷锁，凭借自身力量完成自我救赎的故事。",
@@ -2117,7 +2117,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "讲述九十年代小城少女苏琳长期遭受原生家庭忽视与校园霸凌，冲突意外坠入地下暗渠离奇失踪，她于绝境之中顽强求生，意外撞破地下河道连环女尸案的线索，历经磨难挣脱命运枷锁，凭借自身力量完成自我救赎的故事。"
         ],
         "imageUrl": "https://b.bdstatic.com/searchbox/file/cmsuploader/20260806/1786002408174735.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -2125,23 +2125,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "百度热搜",
         "title": "人鱼 电视剧",
         "url": "https://baike.baidu.com/item/%E4%BA%BA%E9%B1%BC/59177126?fr=resou",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "百度热搜榜单页",
         "title": "电视剧榜",
         "url": "https://top.baidu.com/board?tab=teleplay",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站综合热门-1-985E69CACE7A195E6AF95E4B89AE5908EEFB",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站综合热门-1-E5BD93E4BDA0E5928CE4B880E799BEE4B887",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站综合热门",
-    "titleZh": "985本硕毕业后，30岁小伙重读本科，成功入住宿舍，跟大家介绍我的新家",
-    "summaryZh": "2026-09-15 B站综合热门第 1 名，热度 63.2万。亮子李 · 播放 63.2万",
+    "titleZh": "当你和一百万人一起吃火锅【AI全民制作人】",
+    "summaryZh": "2026-09-16 B站综合热门第 1 名，热度 142.1万。阿丸焖居 · 播放 142.1万",
     "whyItMatters": "收录原因：进入B站综合热门前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -2150,59 +2150,59 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "platforms": [
       "B站综合热门",
       "B站",
-      "亮子李"
+      "阿丸焖居"
     ],
     "rank": 1,
     "heatScore": 100,
     "importanceScore": 100,
     "confidence": "confirmed",
-    "thumbnailUrl": "http://i2.hdslb.com/bfs/archive/84f6fa78aef6a3bf4e5315589fb9c41b55a6ef13.jpg",
+    "thumbnailUrl": "http://i1.hdslb.com/bfs/archive/da9bf7e4fb66b23d2a22bbb1a32dc4aec542e4d7.jpg",
     "preferenceTags": [
       "B站综合热门",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：B站综合热门。",
-      "排名：B站综合热门第 1 名，热度 63.2万。",
-      "具体信息：985本硕毕业后，30岁小伙重读本科，成功入住宿舍，跟大家介绍我的新家。亮子李 · 播放 63.2万",
+      "排名：B站综合热门第 1 名，热度 142.1万。",
+      "具体信息：当你和一百万人一起吃火锅【AI全民制作人】。阿丸焖居 · 播放 142.1万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "B站综合热门",
-        "title": "985本硕毕业后，30岁小伙重读本科，成功入住宿舍，跟大家介绍我的新家",
-        "url": "https://www.bilibili.com/video/BV1dTYC6AEYQ/",
-        "description": "亮子李 · 播放 63.2万",
+        "title": "当你和一百万人一起吃火锅【AI全民制作人】",
+        "url": "https://www.bilibili.com/video/BV1CSej6kETr/",
+        "description": "阿丸焖居 · 播放 142.1万",
         "paragraphs": [
-          "亮子李 · 播放 63.2万"
+          "阿丸焖居 · 播放 142.1万"
         ],
-        "imageUrl": "http://i2.hdslb.com/bfs/archive/84f6fa78aef6a3bf4e5315589fb9c41b55a6ef13.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "http://i1.hdslb.com/bfs/archive/da9bf7e4fb66b23d2a22bbb1a32dc4aec542e4d7.jpg",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "B站综合热门",
-        "title": "985本硕毕业后，30岁小伙重读本科，成功入住宿舍，跟大家介绍我的新家",
-        "url": "https://www.bilibili.com/video/BV1dTYC6AEYQ/",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "当你和一百万人一起吃火锅【AI全民制作人】",
+        "url": "https://www.bilibili.com/video/BV1CSej6kETr/",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "B站综合热门榜单页",
         "title": "B站综合热门",
         "url": "https://www.bilibili.com/v/popular/all",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站综合热门-2-E4BAB2E8AF81",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站综合热门-2-E5908CE4BA8BE4B880E8B5B7E69785E6B8B8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站综合热门",
-    "titleZh": "亲证",
-    "summaryZh": "2026-09-15 B站综合热门第 2 名，热度 69.4万。安吉-AnJ · 播放 69.4万",
+    "titleZh": "同事一起旅游，但是互相都在算计",
+    "summaryZh": "2026-09-16 B站综合热门第 2 名，热度 58.0万。STN工作室 · 播放 58.0万",
     "whyItMatters": "收录原因：进入B站综合热门前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -2211,181 +2211,59 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "platforms": [
       "B站综合热门",
       "B站",
-      "安吉-AnJ"
+      "STN工作室"
     ],
     "rank": 2,
     "heatScore": 97,
     "importanceScore": 97,
     "confidence": "confirmed",
-    "thumbnailUrl": "http://i2.hdslb.com/bfs/archive/42c2c735c6865fb2ab0d0125d3abddf1f53554b4.jpg",
+    "thumbnailUrl": "http://i1.hdslb.com/bfs/archive/2fd350b4b270c6a50e85cf31ebf3d74fefec530f.jpg",
     "preferenceTags": [
       "B站综合热门",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：B站综合热门。",
-      "排名：B站综合热门第 2 名，热度 69.4万。",
-      "具体信息：亲证。安吉-AnJ · 播放 69.4万",
+      "排名：B站综合热门第 2 名，热度 58.0万。",
+      "具体信息：同事一起旅游，但是互相都在算计。STN工作室 · 播放 58.0万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "B站综合热门",
-        "title": "亲证",
-        "url": "https://www.bilibili.com/video/BV1zoY66wE6J/",
-        "description": "安吉-AnJ · 播放 69.4万",
+        "title": "同事一起旅游，但是互相都在算计",
+        "url": "https://www.bilibili.com/video/BV1Umen68ELj/",
+        "description": "STN工作室 · 播放 58.0万",
         "paragraphs": [
-          "安吉-AnJ · 播放 69.4万"
+          "STN工作室 · 播放 58.0万"
         ],
-        "imageUrl": "http://i2.hdslb.com/bfs/archive/42c2c735c6865fb2ab0d0125d3abddf1f53554b4.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "http://i1.hdslb.com/bfs/archive/2fd350b4b270c6a50e85cf31ebf3d74fefec530f.jpg",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "B站综合热门",
-        "title": "亲证",
-        "url": "https://www.bilibili.com/video/BV1zoY66wE6J/",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "同事一起旅游，但是互相都在算计",
+        "url": "https://www.bilibili.com/video/BV1Umen68ELj/",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "B站综合热门榜单页",
         "title": "B站综合热门",
         "url": "https://www.bilibili.com/v/popular/all",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站综合热门-4-E585A8E7BD91E9A696E58F91EFBC81E6849F",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "B站综合热门",
-    "titleZh": "全网首发！感谢大家参与！二周年彩蛋我们解出来啦！大战场篇完事！三角洲真的太阴了！",
-    "summaryZh": "2026-09-15 B站综合热门第 4 名，热度 50.5万。Key725 · 播放 50.5万",
-    "whyItMatters": "收录原因：进入B站综合热门前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "B站综合热门",
-      "B站",
-      "Key725"
-    ],
-    "rank": 4,
-    "heatScore": 91,
-    "importanceScore": 91,
-    "confidence": "confirmed",
-    "thumbnailUrl": "http://i2.hdslb.com/bfs/archive/856323f37380da738f5bd85537eee3b75195a0d2.jpg",
-    "preferenceTags": [
-      "B站综合热门",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：B站综合热门。",
-      "排名：B站综合热门第 4 名，热度 50.5万。",
-      "具体信息：全网首发！感谢大家参与！二周年彩蛋我们解出来啦！大战场篇完事！三角洲真的太阴了！。Key725 · 播放 50.5万",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "B站综合热门",
-        "title": "全网首发！感谢大家参与！二周年彩蛋我们解出来啦！大战场篇完事！三角洲真的太阴了！",
-        "url": "https://www.bilibili.com/video/BV1NuYy6DEtZ/",
-        "description": "Key725 · 播放 50.5万",
-        "paragraphs": [
-          "Key725 · 播放 50.5万"
-        ],
-        "imageUrl": "http://i2.hdslb.com/bfs/archive/856323f37380da738f5bd85537eee3b75195a0d2.jpg",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "B站综合热门",
-        "title": "全网首发！感谢大家参与！二周年彩蛋我们解出来啦！大战场篇完事！三角洲真的太阴了！",
-        "url": "https://www.bilibili.com/video/BV1NuYy6DEtZ/",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "B站综合热门榜单页",
-        "title": "B站综合热门",
-        "url": "https://www.bilibili.com/v/popular/all",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-B站综合热门-5-E4BDA0E8AFB4E4BDA0E8A681E4B880E99485",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "B站综合热门",
-    "titleZh": "你说你要一锅端？",
-    "summaryZh": "2026-09-15 B站综合热门第 5 名，热度 85.6万。新华社 · 播放 85.6万",
-    "whyItMatters": "收录原因：进入B站综合热门前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "B站综合热门",
-      "B站",
-      "新华社"
-    ],
-    "rank": 5,
-    "heatScore": 88,
-    "importanceScore": 88,
-    "confidence": "confirmed",
-    "thumbnailUrl": "http://i1.hdslb.com/bfs/archive/581adb30f0c1e69d47dfca44ce392fed37c9da84.jpg",
-    "preferenceTags": [
-      "B站综合热门",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：B站综合热门。",
-      "排名：B站综合热门第 5 名，热度 85.6万。",
-      "具体信息：你说你要一锅端？。新华社 · 播放 85.6万",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "B站综合热门",
-        "title": "你说你要一锅端？",
-        "url": "https://www.bilibili.com/video/BV1F9Y66NEVP/",
-        "description": "新华社 · 播放 85.6万",
-        "paragraphs": [
-          "新华社 · 播放 85.6万"
-        ],
-        "imageUrl": "http://i1.hdslb.com/bfs/archive/581adb30f0c1e69d47dfca44ce392fed37c9da84.jpg",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "B站综合热门",
-        "title": "你说你要一锅端？",
-        "url": "https://www.bilibili.com/video/BV1F9Y66NEVP/",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "B站综合热门榜单页",
-        "title": "B站综合热门",
-        "url": "https://www.bilibili.com/v/popular/all",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-B站综合热门-6-E9878DE8BF94E6B8B4E69C9BE78EB0E59CBA",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站综合热门-3-E9878DE8BF94E6B8B4E69C9BE78EB0E59CBA",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站综合热门",
     "titleZh": "重返渴望现场｜百事可乐音乐盛典完整回放正式上线！",
-    "summaryZh": "2026-09-15 B站综合热门第 6 名，热度 301.3万。百事可乐 · 播放 301.3万",
+    "summaryZh": "2026-09-16 B站综合热门第 3 名，热度 404.0万。百事可乐 · 播放 404.0万",
     "whyItMatters": "收录原因：进入B站综合热门前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -2396,9 +2274,9 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "B站",
       "百事可乐"
     ],
-    "rank": 6,
-    "heatScore": 85,
-    "importanceScore": 85,
+    "rank": 3,
+    "heatScore": 94,
+    "importanceScore": 94,
     "confidence": "confirmed",
     "thumbnailUrl": "http://i1.hdslb.com/bfs/archive/aad2e3b3b30c7e4ae4b26975083ebc2226ab494a.jpg",
     "preferenceTags": [
@@ -2406,10 +2284,10 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：B站综合热门。",
-      "排名：B站综合热门第 6 名，热度 301.3万。",
-      "具体信息：重返渴望现场｜百事可乐音乐盛典完整回放正式上线！。百事可乐 · 播放 301.3万",
+      "排名：B站综合热门第 3 名，热度 404.0万。",
+      "具体信息：重返渴望现场｜百事可乐音乐盛典完整回放正式上线！。百事可乐 · 播放 404.0万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
@@ -2417,12 +2295,12 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "B站综合热门",
         "title": "重返渴望现场｜百事可乐音乐盛典完整回放正式上线！",
         "url": "https://www.bilibili.com/video/BV1uKY26hETJ/",
-        "description": "百事可乐 · 播放 301.3万",
+        "description": "百事可乐 · 播放 404.0万",
         "paragraphs": [
-          "百事可乐 · 播放 301.3万"
+          "百事可乐 · 播放 404.0万"
         ],
         "imageUrl": "http://i1.hdslb.com/bfs/archive/aad2e3b3b30c7e4ae4b26975083ebc2226ab494a.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -2430,23 +2308,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "B站综合热门",
         "title": "重返渴望现场｜百事可乐音乐盛典完整回放正式上线！",
         "url": "https://www.bilibili.com/video/BV1uKY26hETJ/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "B站综合热门榜单页",
         "title": "B站综合热门",
         "url": "https://www.bilibili.com/v/popular/all",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站综合热门-7-E994B5E994B5E994B5",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站综合热门-4-E4B88EE58DB0E5BAA6E4BABAE8818AE8818A",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站综合热门",
-    "titleZh": "锵锵锵",
-    "summaryZh": "2026-09-15 B站综合热门第 7 名，热度 71.3万。脱缰凯Kk · 播放 71.3万",
+    "titleZh": "与印度人聊聊种姓制、恒河水、挂火车、仿制药、补习班、IT外包、彩礼嫁妆、干净又卫生……网络刻板印象是真是假？| 地球观察局EP01 【视频播客】",
+    "summaryZh": "2026-09-16 B站综合热门第 4 名，热度 54.6万。必沙记 · 播放 54.6万",
     "whyItMatters": "收录原因：进入B站综合热门前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -2455,59 +2333,242 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "platforms": [
       "B站综合热门",
       "B站",
-      "脱缰凯Kk"
+      "必沙记"
+    ],
+    "rank": 4,
+    "heatScore": 91,
+    "importanceScore": 91,
+    "confidence": "confirmed",
+    "thumbnailUrl": "http://i1.hdslb.com/bfs/archive/036fec09fd0f42dd3039a6ea49400cef1c970422.jpg",
+    "preferenceTags": [
+      "B站综合热门",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：B站综合热门。",
+      "排名：B站综合热门第 4 名，热度 54.6万。",
+      "具体信息：与印度人聊聊种姓制、恒河水、挂火车、仿制药、补习班、IT外包、彩礼嫁妆、干净又卫生……网络刻板印象是真是假？| 地球观察局EP01 【视频播客】。必沙记 · 播放 54.6万",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "B站综合热门",
+        "title": "与印度人聊聊种姓制、恒河水、挂火车、仿制药、补习班、IT外包、彩礼嫁妆、干净又卫生……网络刻板印象是真是假？| 地球观察局EP01 【视频播客】",
+        "url": "https://www.bilibili.com/video/BV1XMYE6xEkM/",
+        "description": "必沙记 · 播放 54.6万",
+        "paragraphs": [
+          "必沙记 · 播放 54.6万"
+        ],
+        "imageUrl": "http://i1.hdslb.com/bfs/archive/036fec09fd0f42dd3039a6ea49400cef1c970422.jpg",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "B站综合热门",
+        "title": "与印度人聊聊种姓制、恒河水、挂火车、仿制药、补习班、IT外包、彩礼嫁妆、干净又卫生……网络刻板印象是真是假？| 地球观察局EP01 【视频播客】",
+        "url": "https://www.bilibili.com/video/BV1XMYE6xEkM/",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "B站综合热门榜单页",
+        "title": "B站综合热门",
+        "url": "https://www.bilibili.com/v/popular/all",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-B站综合热门-5-E5BE97E69DA5E585A8E983A8E8B4B9E58A9F",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "B站综合热门",
+    "titleZh": "得来全部费功夫",
+    "summaryZh": "2026-09-16 B站综合热门第 5 名，热度 43.4万。-显眼宝- · 播放 43.4万",
+    "whyItMatters": "收录原因：进入B站综合热门前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "B站综合热门",
+      "B站",
+      "-显眼宝-"
+    ],
+    "rank": 5,
+    "heatScore": 88,
+    "importanceScore": 88,
+    "confidence": "confirmed",
+    "thumbnailUrl": "http://i0.hdslb.com/bfs/archive/b339ed257e1d79208f9a7a0f85ff2d035ac6feba.jpg",
+    "preferenceTags": [
+      "B站综合热门",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：B站综合热门。",
+      "排名：B站综合热门第 5 名，热度 43.4万。",
+      "具体信息：得来全部费功夫。-显眼宝- · 播放 43.4万",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "B站综合热门",
+        "title": "得来全部费功夫",
+        "url": "https://www.bilibili.com/video/BV1opej6cECD/",
+        "description": "-显眼宝- · 播放 43.4万",
+        "paragraphs": [
+          "-显眼宝- · 播放 43.4万"
+        ],
+        "imageUrl": "http://i0.hdslb.com/bfs/archive/b339ed257e1d79208f9a7a0f85ff2d035ac6feba.jpg",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "B站综合热门",
+        "title": "得来全部费功夫",
+        "url": "https://www.bilibili.com/video/BV1opej6cECD/",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "B站综合热门榜单页",
+        "title": "B站综合热门",
+        "url": "https://www.bilibili.com/v/popular/all",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-B站综合热门-6-E8BF8EE68EA5E5B4ADE696B0E79A84E89E8D",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "B站综合热门",
+    "titleZh": "迎接崭新的融合超级机枪豌豆！【bilibilionly同人扶持计划】",
+    "summaryZh": "2026-09-16 B站综合热门第 6 名，热度 43.9万。南Garden · 播放 43.9万",
+    "whyItMatters": "收录原因：进入B站综合热门前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "B站综合热门",
+      "B站",
+      "南Garden"
+    ],
+    "rank": 6,
+    "heatScore": 85,
+    "importanceScore": 85,
+    "confidence": "confirmed",
+    "thumbnailUrl": "http://i0.hdslb.com/bfs/archive/3665e92e41099da62a15be883273b84b66ecdd4f.jpg",
+    "preferenceTags": [
+      "B站综合热门",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：B站综合热门。",
+      "排名：B站综合热门第 6 名，热度 43.9万。",
+      "具体信息：迎接崭新的融合超级机枪豌豆！【bilibilionly同人扶持计划】。南Garden · 播放 43.9万",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "B站综合热门",
+        "title": "迎接崭新的融合超级机枪豌豆！【bilibilionly同人扶持计划】",
+        "url": "https://www.bilibili.com/video/BV1VXe768Emt/",
+        "description": "南Garden · 播放 43.9万",
+        "paragraphs": [
+          "南Garden · 播放 43.9万"
+        ],
+        "imageUrl": "http://i0.hdslb.com/bfs/archive/3665e92e41099da62a15be883273b84b66ecdd4f.jpg",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "B站综合热门",
+        "title": "迎接崭新的融合超级机枪豌豆！【bilibilionly同人扶持计划】",
+        "url": "https://www.bilibili.com/video/BV1VXe768Emt/",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "B站综合热门榜单页",
+        "title": "B站综合热门",
+        "url": "https://www.bilibili.com/v/popular/all",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-B站综合热门-7-E3808AE4B88AE5908AE6AF94E8B59BE3808B",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "B站综合热门",
+    "titleZh": "《上吊比赛》",
+    "summaryZh": "2026-09-16 B站综合热门第 7 名，热度 191.0万。伤心欲茄222 · 播放 191.0万",
+    "whyItMatters": "收录原因：进入B站综合热门前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "B站综合热门",
+      "B站",
+      "伤心欲茄222"
     ],
     "rank": 7,
     "heatScore": 82,
     "importanceScore": 82,
     "confidence": "confirmed",
-    "thumbnailUrl": "http://i0.hdslb.com/bfs/archive/52026bc81d5d457906545ff9195f1a7c475396b8.jpg",
+    "thumbnailUrl": "http://i2.hdslb.com/bfs/archive/160e1ba32e7f72fe3f847108ce9b230f1a574347.jpg",
     "preferenceTags": [
       "B站综合热门",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：B站综合热门。",
-      "排名：B站综合热门第 7 名，热度 71.3万。",
-      "具体信息：锵锵锵。脱缰凯Kk · 播放 71.3万",
+      "排名：B站综合热门第 7 名，热度 191.0万。",
+      "具体信息：《上吊比赛》。伤心欲茄222 · 播放 191.0万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "B站综合热门",
-        "title": "锵锵锵",
-        "url": "https://www.bilibili.com/video/BV1tsY16bEwp/",
-        "description": "脱缰凯Kk · 播放 71.3万",
+        "title": "《上吊比赛》",
+        "url": "https://www.bilibili.com/video/BV1Sae56jE15/",
+        "description": "伤心欲茄222 · 播放 191.0万",
         "paragraphs": [
-          "脱缰凯Kk · 播放 71.3万"
+          "伤心欲茄222 · 播放 191.0万"
         ],
-        "imageUrl": "http://i0.hdslb.com/bfs/archive/52026bc81d5d457906545ff9195f1a7c475396b8.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "http://i2.hdslb.com/bfs/archive/160e1ba32e7f72fe3f847108ce9b230f1a574347.jpg",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "B站综合热门",
-        "title": "锵锵锵",
-        "url": "https://www.bilibili.com/video/BV1tsY16bEwp/",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "《上吊比赛》",
+        "url": "https://www.bilibili.com/video/BV1Sae56jE15/",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "B站综合热门榜单页",
         "title": "B站综合热门",
         "url": "https://www.bilibili.com/v/popular/all",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站综合热门-8-E69C80E68890E58A9FE79A84E2809CE9AD94",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站综合热门-8-E3808AE5A48DE881945E3808BE589A7E6838",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站综合热门",
-    "titleZh": "最成功的“魔改”，恰恰背叛了原著？160年了，爱丽丝为什么总在被改写？【万字拉片】《爱丽丝梦游仙境》P1",
-    "summaryZh": "2026-09-15 B站综合热门第 8 名，热度 42.5万。呼呼炖汤 · 播放 42.5万",
+    "titleZh": "《复联5》剧情全泄露！太真了！谨慎观看！",
+    "summaryZh": "2026-09-16 B站综合热门第 8 名，热度 50.0万。BuriedAlien · 播放 50.0万",
     "whyItMatters": "收录原因：进入B站综合热门前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -2516,59 +2577,59 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "platforms": [
       "B站综合热门",
       "B站",
-      "呼呼炖汤"
+      "BuriedAlien"
     ],
     "rank": 8,
     "heatScore": 79,
     "importanceScore": 79,
     "confidence": "confirmed",
-    "thumbnailUrl": "http://i0.hdslb.com/bfs/archive/1a2c42e06fd304ddeef02cba2e475569f85fb1be.jpg",
+    "thumbnailUrl": "http://i1.hdslb.com/bfs/archive/8df9799a6679129559bc86ec0af5af7048c991dc.jpg",
     "preferenceTags": [
       "B站综合热门",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：B站综合热门。",
-      "排名：B站综合热门第 8 名，热度 42.5万。",
-      "具体信息：最成功的“魔改”，恰恰背叛了原著？160年了，爱丽丝为什么总在被改写？【万字拉片】《爱丽丝梦游仙境》P1。呼呼炖汤 · 播放 42.5万",
+      "排名：B站综合热门第 8 名，热度 50.0万。",
+      "具体信息：《复联5》剧情全泄露！太真了！谨慎观看！。BuriedAlien · 播放 50.0万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "B站综合热门",
-        "title": "最成功的“魔改”，恰恰背叛了原著？160年了，爱丽丝为什么总在被改写？【万字拉片】《爱丽丝梦游仙境》P1",
-        "url": "https://www.bilibili.com/video/BV1zmYi6QEZQ/",
-        "description": "呼呼炖汤 · 播放 42.5万",
+        "title": "《复联5》剧情全泄露！太真了！谨慎观看！",
+        "url": "https://www.bilibili.com/video/BV1uAeE6XEgH/",
+        "description": "BuriedAlien · 播放 50.0万",
         "paragraphs": [
-          "呼呼炖汤 · 播放 42.5万"
+          "BuriedAlien · 播放 50.0万"
         ],
-        "imageUrl": "http://i0.hdslb.com/bfs/archive/1a2c42e06fd304ddeef02cba2e475569f85fb1be.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "http://i1.hdslb.com/bfs/archive/8df9799a6679129559bc86ec0af5af7048c991dc.jpg",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "B站综合热门",
-        "title": "最成功的“魔改”，恰恰背叛了原著？160年了，爱丽丝为什么总在被改写？【万字拉片】《爱丽丝梦游仙境》P1",
-        "url": "https://www.bilibili.com/video/BV1zmYi6QEZQ/",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "《复联5》剧情全泄露！太真了！谨慎观看！",
+        "url": "https://www.bilibili.com/video/BV1uAeE6XEgH/",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "B站综合热门榜单页",
         "title": "B站综合热门",
         "url": "https://www.bilibili.com/v/popular/all",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站综合热门-9-E887AAE6B091E5859AE79089E79083E78B82",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站综合热门-9-E38090E8908CE9BB84E4B880E6A7BDE38091",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站综合热门",
-    "titleZh": "自民党琉球狂胜 民众对日美的反抗要落幕了吗？",
-    "summaryZh": "2026-09-15 B站综合热门第 9 名，热度 34.4万。波士顿圆脸 · 播放 34.4万",
+    "titleZh": "【萌黄一槽】冰镜之间灵活穿梭，白[中秋限定]全技能爆料！",
+    "summaryZh": "2026-09-16 B站综合热门第 9 名，热度 75.9万。火影忍者手游情报君 · 播放 75.9万",
     "whyItMatters": "收录原因：进入B站综合热门前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -2577,59 +2638,59 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "platforms": [
       "B站综合热门",
       "B站",
-      "波士顿圆脸"
+      "火影忍者手游情报君"
     ],
     "rank": 9,
     "heatScore": 76,
     "importanceScore": 76,
     "confidence": "confirmed",
-    "thumbnailUrl": "http://i1.hdslb.com/bfs/archive/d5e4310ac5b85e1430bb13e48934ed52bfef354f.jpg",
+    "thumbnailUrl": "http://i2.hdslb.com/bfs/archive/ef9578143e1d6752892e94b9754ddd8b397ab47e.jpg",
     "preferenceTags": [
       "B站综合热门",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：B站综合热门。",
-      "排名：B站综合热门第 9 名，热度 34.4万。",
-      "具体信息：自民党琉球狂胜 民众对日美的反抗要落幕了吗？。波士顿圆脸 · 播放 34.4万",
+      "排名：B站综合热门第 9 名，热度 75.9万。",
+      "具体信息：【萌黄一槽】冰镜之间灵活穿梭，白[中秋限定]全技能爆料！。火影忍者手游情报君 · 播放 75.9万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "B站综合热门",
-        "title": "自民党琉球狂胜 民众对日美的反抗要落幕了吗？",
-        "url": "https://www.bilibili.com/video/BV11mYy69Erq/",
-        "description": "波士顿圆脸 · 播放 34.4万",
+        "title": "【萌黄一槽】冰镜之间灵活穿梭，白[中秋限定]全技能爆料！",
+        "url": "https://www.bilibili.com/video/BV1wHen6EE2D/",
+        "description": "火影忍者手游情报君 · 播放 75.9万",
         "paragraphs": [
-          "波士顿圆脸 · 播放 34.4万"
+          "火影忍者手游情报君 · 播放 75.9万"
         ],
-        "imageUrl": "http://i1.hdslb.com/bfs/archive/d5e4310ac5b85e1430bb13e48934ed52bfef354f.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "http://i2.hdslb.com/bfs/archive/ef9578143e1d6752892e94b9754ddd8b397ab47e.jpg",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "B站综合热门",
-        "title": "自民党琉球狂胜 民众对日美的反抗要落幕了吗？",
-        "url": "https://www.bilibili.com/video/BV11mYy69Erq/",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "【萌黄一槽】冰镜之间灵活穿梭，白[中秋限定]全技能爆料！",
+        "url": "https://www.bilibili.com/video/BV1wHen6EE2D/",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "B站综合热门榜单页",
         "title": "B站综合热门",
         "url": "https://www.bilibili.com/v/popular/all",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站综合热门-10-E88AB1E4BA86204.6120E4BABF20tokenEFB",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站综合热门-10-E38090E78BACE5AEB62FE5AE8CE7BB93E380",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站综合热门",
-    "titleZh": "花了 4.61 亿 token，我把整个 N 网汉化了",
-    "summaryZh": "2026-09-15 B站综合热门第 10 名，热度 22.8万。丶易风雪 · 播放 22.8万",
+    "titleZh": "【独家/完结】《百日成王》第25集 现在我要夺回失去的一切！【7月国创】",
+    "summaryZh": "2026-09-16 B站综合热门第 10 名，热度 114.1万。哔哩哔哩国创 · 播放 114.1万",
     "whyItMatters": "收录原因：进入B站综合热门前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -2638,120 +2699,59 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "platforms": [
       "B站综合热门",
       "B站",
-      "丶易风雪"
+      "哔哩哔哩国创"
     ],
     "rank": 10,
     "heatScore": 73,
     "importanceScore": 73,
     "confidence": "confirmed",
-    "thumbnailUrl": "http://i0.hdslb.com/bfs/archive/592e83e275ab4a1a8ad73b22ea88086c295796de.jpg",
+    "thumbnailUrl": "http://i1.hdslb.com/bfs/archive/b11a78061ade792712ce7869c4387bd844779b4b.png",
     "preferenceTags": [
       "B站综合热门",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：B站综合热门。",
-      "排名：B站综合热门第 10 名，热度 22.8万。",
-      "具体信息：花了 4.61 亿 token，我把整个 N 网汉化了。丶易风雪 · 播放 22.8万",
+      "排名：B站综合热门第 10 名，热度 114.1万。",
+      "具体信息：【独家/完结】《百日成王》第25集 现在我要夺回失去的一切！【7月国创】。哔哩哔哩国创 · 播放 114.1万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "B站综合热门",
-        "title": "花了 4.61 亿 token，我把整个 N 网汉化了",
-        "url": "https://www.bilibili.com/video/BV1LcYr68EpR/",
-        "description": "丶易风雪 · 播放 22.8万",
+        "title": "【独家/完结】《百日成王》第25集 现在我要夺回失去的一切！【7月国创】",
+        "url": "https://www.bilibili.com/video/BV1iFth6QEyV/",
+        "description": "哔哩哔哩国创 · 播放 114.1万",
         "paragraphs": [
-          "丶易风雪 · 播放 22.8万"
+          "哔哩哔哩国创 · 播放 114.1万"
         ],
-        "imageUrl": "http://i0.hdslb.com/bfs/archive/592e83e275ab4a1a8ad73b22ea88086c295796de.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "http://i1.hdslb.com/bfs/archive/b11a78061ade792712ce7869c4387bd844779b4b.png",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "B站综合热门",
-        "title": "花了 4.61 亿 token，我把整个 N 网汉化了",
-        "url": "https://www.bilibili.com/video/BV1LcYr68EpR/",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "【独家/完结】《百日成王》第25集 现在我要夺回失去的一切！【7月国创】",
+        "url": "https://www.bilibili.com/video/BV1iFth6QEyV/",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "B站综合热门榜单页",
         "title": "B站综合热门",
         "url": "https://www.bilibili.com/v/popular/all",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站综合热门-11-E3808AE59CB0E78BB1E4B98BE5AEB6E3808B",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "B站综合热门",
-    "titleZh": "《地狱之家》改编自粉丝真实经历",
-    "summaryZh": "2026-09-15 B站综合热门第 11 名，热度 113.6万。谢星白 · 播放 113.6万",
-    "whyItMatters": "收录原因：进入B站综合热门前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "B站综合热门",
-      "B站",
-      "谢星白"
-    ],
-    "rank": 11,
-    "heatScore": 70,
-    "importanceScore": 70,
-    "confidence": "confirmed",
-    "thumbnailUrl": "http://i2.hdslb.com/bfs/archive/dde1a58a06c8aa2a945b153a9029d03cc4aef18a.jpg",
-    "preferenceTags": [
-      "B站综合热门",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：B站综合热门。",
-      "排名：B站综合热门第 11 名，热度 113.6万。",
-      "具体信息：《地狱之家》改编自粉丝真实经历。谢星白 · 播放 113.6万",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "B站综合热门",
-        "title": "《地狱之家》改编自粉丝真实经历",
-        "url": "https://www.bilibili.com/video/BV1MUYv6AEJS/",
-        "description": "谢星白 · 播放 113.6万",
-        "paragraphs": [
-          "谢星白 · 播放 113.6万"
-        ],
-        "imageUrl": "http://i2.hdslb.com/bfs/archive/dde1a58a06c8aa2a945b153a9029d03cc4aef18a.jpg",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "B站综合热门",
-        "title": "《地狱之家》改编自粉丝真实经历",
-        "url": "https://www.bilibili.com/video/BV1MUYv6AEJS/",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "B站综合热门榜单页",
-        "title": "B站综合热门",
-        "url": "https://www.bilibili.com/v/popular/all",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-B站排行榜-1-E6809DE8B7AFE68993E5BC80EFBC8CE794A8",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站排行榜-1-E6809DE8B7AFE68993E5BC80EFBC8CE794A8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站排行榜",
     "titleZh": "思路打开，用擦丝器解锁旋风薯塔！懒人不开火实现烤肉自由，今天的烤猪蹄简直夯爆了！",
-    "summaryZh": "2026-09-15 B站排行榜第 1 名，热度 728.3万。留意炫饭吖 · 播放 728.3万",
+    "summaryZh": "2026-09-16 B站排行榜第 1 名，热度 707.4万。留意炫饭吖 · 播放 707.4万",
     "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -2772,10 +2772,10 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：B站排行榜。",
-      "排名：B站排行榜第 1 名，热度 728.3万。",
-      "具体信息：思路打开，用擦丝器解锁旋风薯塔！懒人不开火实现烤肉自由，今天的烤猪蹄简直夯爆了！。留意炫饭吖 · 播放 728.3万",
+      "排名：B站排行榜第 1 名，热度 707.4万。",
+      "具体信息：思路打开，用擦丝器解锁旋风薯塔！懒人不开火实现烤肉自由，今天的烤猪蹄简直夯爆了！。留意炫饭吖 · 播放 707.4万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
@@ -2783,12 +2783,12 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "B站排行榜",
         "title": "思路打开，用擦丝器解锁旋风薯塔！懒人不开火实现烤肉自由，今天的烤猪蹄简直夯爆了！",
         "url": "https://www.bilibili.com/video/BV1TEYX62EMp/",
-        "description": "留意炫饭吖 · 播放 728.3万",
+        "description": "留意炫饭吖 · 播放 707.4万",
         "paragraphs": [
-          "留意炫饭吖 · 播放 728.3万"
+          "留意炫饭吖 · 播放 707.4万"
         ],
         "imageUrl": "http://i2.hdslb.com/bfs/archive/ecefad1b4f3d44f382809930966e792b49fca046.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -2796,145 +2796,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "B站排行榜",
         "title": "思路打开，用擦丝器解锁旋风薯塔！懒人不开火实现烤肉自由，今天的烤猪蹄简直夯爆了！",
         "url": "https://www.bilibili.com/video/BV1TEYX62EMp/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "B站排行榜榜单页",
         "title": "B站排行榜",
         "url": "https://www.bilibili.com/v/popular/rank/all",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站排行榜-2-E6A8A1E4BBBFE6B4BEE5AFB9EFBC8CE9858D",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站排行榜-2-E3808AE58E9FE7A59EE3808BE585ADE591A8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站排行榜",
-    "titleZh": "模仿派对，配音挑战大赛",
-    "summaryZh": "2026-09-15 B站排行榜第 2 名，热度 427.8万。鲤鱼Ace · 播放 427.8万",
-    "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "B站排行榜",
-      "B站",
-      "鲤鱼Ace"
-    ],
-    "rank": 2,
-    "heatScore": 97,
-    "importanceScore": 97,
-    "confidence": "confirmed",
-    "thumbnailUrl": "http://i2.hdslb.com/bfs/archive/bc2ace90877675cdfd8f682c451d1f1b959a24b7.jpg",
-    "preferenceTags": [
-      "B站排行榜",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：B站排行榜。",
-      "排名：B站排行榜第 2 名，热度 427.8万。",
-      "具体信息：模仿派对，配音挑战大赛。鲤鱼Ace · 播放 427.8万",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "B站排行榜",
-        "title": "模仿派对，配音挑战大赛",
-        "url": "https://www.bilibili.com/video/BV1ZqYX6YEsu/",
-        "description": "鲤鱼Ace · 播放 427.8万",
-        "paragraphs": [
-          "鲤鱼Ace · 播放 427.8万"
-        ],
-        "imageUrl": "http://i2.hdslb.com/bfs/archive/bc2ace90877675cdfd8f682c451d1f1b959a24b7.jpg",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "B站排行榜",
-        "title": "模仿派对，配音挑战大赛",
-        "url": "https://www.bilibili.com/video/BV1ZqYX6YEsu/",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "B站排行榜榜单页",
-        "title": "B站排行榜",
-        "url": "https://www.bilibili.com/v/popular/rank/all",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-B站排行榜-3-E2809CE4B880E9A5ADE6B8A9E68385E79BB8",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "B站排行榜",
-    "titleZh": "“一饭温情相赠，千里以报恩深.”【红色高跟鞋DJ-降调】【涌泉相报の小曲】",
-    "summaryZh": "2026-09-15 B站排行榜第 3 名，热度 275.1万。早睡起大王 · 播放 275.1万",
-    "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "B站排行榜",
-      "B站",
-      "早睡起大王"
-    ],
-    "rank": 3,
-    "heatScore": 94,
-    "importanceScore": 94,
-    "confidence": "confirmed",
-    "thumbnailUrl": "http://i1.hdslb.com/bfs/archive/ff24f670ecdd3d1d52233852a43a304171c4f9a0.jpg",
-    "preferenceTags": [
-      "B站排行榜",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：B站排行榜。",
-      "排名：B站排行榜第 3 名，热度 275.1万。",
-      "具体信息：“一饭温情相赠，千里以报恩深.”【红色高跟鞋DJ-降调】【涌泉相报の小曲】。早睡起大王 · 播放 275.1万",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "B站排行榜",
-        "title": "“一饭温情相赠，千里以报恩深.”【红色高跟鞋DJ-降调】【涌泉相报の小曲】",
-        "url": "https://www.bilibili.com/video/BV1HUY76uEMJ/",
-        "description": "早睡起大王 · 播放 275.1万",
-        "paragraphs": [
-          "早睡起大王 · 播放 275.1万"
-        ],
-        "imageUrl": "http://i1.hdslb.com/bfs/archive/ff24f670ecdd3d1d52233852a43a304171c4f9a0.jpg",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "B站排行榜",
-        "title": "“一饭温情相赠，千里以报恩深.”【红色高跟鞋DJ-降调】【涌泉相报の小曲】",
-        "url": "https://www.bilibili.com/video/BV1HUY76uEMJ/",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "B站排行榜榜单页",
-        "title": "B站排行榜",
-        "url": "https://www.bilibili.com/v/popular/rank/all",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-B站排行榜-4-E3808AE58E9FE7A59EE3808B7.1E78988E69",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "B站排行榜",
-    "titleZh": "《原神》7.1版本PV：「往冥府的安魂歌」",
-    "summaryZh": "2026-09-15 B站排行榜第 4 名，热度 220.2万。原神 · 播放 220.2万",
+    "titleZh": "《原神》六周年配音演员祝福-「循音致远的足迹」",
+    "summaryZh": "2026-09-16 B站排行榜第 2 名，热度 87.6万。原神 · 播放 87.6万",
     "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -2945,240 +2823,57 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "B站",
       "原神"
     ],
-    "rank": 4,
-    "heatScore": 91,
-    "importanceScore": 91,
+    "rank": 2,
+    "heatScore": 97,
+    "importanceScore": 97,
     "confidence": "confirmed",
-    "thumbnailUrl": "http://i0.hdslb.com/bfs/archive/7c0c5843f74c703cd325830cea1f8af84b9dea4b.jpg",
+    "thumbnailUrl": "http://i0.hdslb.com/bfs/archive/7209cb23a82299849dae8234a0794725251a495d.jpg",
     "preferenceTags": [
       "B站排行榜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：B站排行榜。",
-      "排名：B站排行榜第 4 名，热度 220.2万。",
-      "具体信息：《原神》7.1版本PV：「往冥府的安魂歌」。原神 · 播放 220.2万",
+      "排名：B站排行榜第 2 名，热度 87.6万。",
+      "具体信息：《原神》六周年配音演员祝福-「循音致远的足迹」。原神 · 播放 87.6万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "B站排行榜",
-        "title": "《原神》7.1版本PV：「往冥府的安魂歌」",
-        "url": "https://www.bilibili.com/video/BV1yuY96rEL7/",
-        "description": "原神 · 播放 220.2万",
+        "title": "《原神》六周年配音演员祝福-「循音致远的足迹」",
+        "url": "https://www.bilibili.com/video/BV1sdYZ6dEmq/",
+        "description": "原神 · 播放 87.6万",
         "paragraphs": [
-          "原神 · 播放 220.2万"
+          "原神 · 播放 87.6万"
         ],
-        "imageUrl": "http://i0.hdslb.com/bfs/archive/7c0c5843f74c703cd325830cea1f8af84b9dea4b.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "http://i0.hdslb.com/bfs/archive/7209cb23a82299849dae8234a0794725251a495d.jpg",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "B站排行榜",
-        "title": "《原神》7.1版本PV：「往冥府的安魂歌」",
-        "url": "https://www.bilibili.com/video/BV1yuY96rEL7/",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "《原神》六周年配音演员祝福-「循音致远的足迹」",
+        "url": "https://www.bilibili.com/video/BV1sdYZ6dEmq/",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "B站排行榜榜单页",
         "title": "B站排行榜",
         "url": "https://www.bilibili.com/v/popular/rank/all",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站排行榜-5-E5A48FE5ADA3E79A84E6B8A9E9A6A8E7A28E",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "B站排行榜",
-    "titleZh": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
-    "summaryZh": "2026-09-15 B站排行榜第 5 名，热度 211.5万。巫暖聪 · 播放 211.5万",
-    "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "B站排行榜",
-      "B站",
-      "巫暖聪"
-    ],
-    "rank": 5,
-    "heatScore": 88,
-    "importanceScore": 88,
-    "confidence": "confirmed",
-    "thumbnailUrl": "http://i0.hdslb.com/bfs/archive/74bdb100295baa417948902ef1832192e4f24e7a.jpg",
-    "preferenceTags": [
-      "B站排行榜",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：B站排行榜。",
-      "排名：B站排行榜第 5 名，热度 211.5万。",
-      "具体信息：夏季的温馨碎片，重新剪到一起，准备再赚一次流量。巫暖聪 · 播放 211.5万",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "B站排行榜",
-        "title": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
-        "url": "https://www.bilibili.com/video/BV1S5YE6HE9Q/",
-        "description": "巫暖聪 · 播放 211.5万",
-        "paragraphs": [
-          "巫暖聪 · 播放 211.5万"
-        ],
-        "imageUrl": "http://i0.hdslb.com/bfs/archive/74bdb100295baa417948902ef1832192e4f24e7a.jpg",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "B站排行榜",
-        "title": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
-        "url": "https://www.bilibili.com/video/BV1S5YE6HE9Q/",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "B站排行榜榜单页",
-        "title": "B站排行榜",
-        "url": "https://www.bilibili.com/v/popular/rank/all",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-B站排行榜-6-E58EBBE4BA86E4B880E8B69FE5B1B1E8A5BF",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "B站排行榜",
-    "titleZh": "去了一趟山西。",
-    "summaryZh": "2026-09-15 B站排行榜第 6 名，热度 281.1万。影视飓风 · 播放 281.1万",
-    "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "B站排行榜",
-      "B站",
-      "影视飓风"
-    ],
-    "rank": 6,
-    "heatScore": 85,
-    "importanceScore": 85,
-    "confidence": "confirmed",
-    "thumbnailUrl": "http://i1.hdslb.com/bfs/archive/47a9f66daf3e109e620078ca445d29a71d7448d0.jpg",
-    "preferenceTags": [
-      "B站排行榜",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：B站排行榜。",
-      "排名：B站排行榜第 6 名，热度 281.1万。",
-      "具体信息：去了一趟山西。。影视飓风 · 播放 281.1万",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "B站排行榜",
-        "title": "去了一趟山西。",
-        "url": "https://www.bilibili.com/video/BV1xVY26dEbz/",
-        "description": "影视飓风 · 播放 281.1万",
-        "paragraphs": [
-          "影视飓风 · 播放 281.1万"
-        ],
-        "imageUrl": "http://i1.hdslb.com/bfs/archive/47a9f66daf3e109e620078ca445d29a71d7448d0.jpg",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "B站排行榜",
-        "title": "去了一趟山西。",
-        "url": "https://www.bilibili.com/video/BV1xVY26dEbz/",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "B站排行榜榜单页",
-        "title": "B站排行榜",
-        "url": "https://www.bilibili.com/v/popular/rank/all",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-B站排行榜-7-E6A0A1E995BFE69DA5E595A6",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "B站排行榜",
-    "titleZh": "校长来啦",
-    "summaryZh": "2026-09-15 B站排行榜第 7 名，热度 381.6万。脱缰凯Kk · 播放 381.6万",
-    "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "B站排行榜",
-      "B站",
-      "脱缰凯Kk"
-    ],
-    "rank": 7,
-    "heatScore": 82,
-    "importanceScore": 82,
-    "confidence": "confirmed",
-    "thumbnailUrl": "http://i2.hdslb.com/bfs/archive/4fbe939b7112ac0d283a311f3054aaf1f32e74be.jpg",
-    "preferenceTags": [
-      "B站排行榜",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：B站排行榜。",
-      "排名：B站排行榜第 7 名，热度 381.6万。",
-      "具体信息：校长来啦。脱缰凯Kk · 播放 381.6万",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "B站排行榜",
-        "title": "校长来啦",
-        "url": "https://www.bilibili.com/video/BV1odY76aEio/",
-        "description": "脱缰凯Kk · 播放 381.6万",
-        "paragraphs": [
-          "脱缰凯Kk · 播放 381.6万"
-        ],
-        "imageUrl": "http://i2.hdslb.com/bfs/archive/4fbe939b7112ac0d283a311f3054aaf1f32e74be.jpg",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "B站排行榜",
-        "title": "校长来啦",
-        "url": "https://www.bilibili.com/video/BV1odY76aEio/",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "B站排行榜榜单页",
-        "title": "B站排行榜",
-        "url": "https://www.bilibili.com/v/popular/rank/all",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-B站排行榜-8-ReEFBC9AE4BB8EE99BB6E5BC80E5A78BE79A",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站排行榜-3-ReEFBC9AE4BB8EE99BB6E5BC80E5A78BE79A",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站排行榜",
     "titleZh": "Re：从零开始的异世界学园生活·序",
-    "summaryZh": "2026-09-15 B站排行榜第 8 名，热度 120.5万。ka殿 · 播放 120.5万",
+    "summaryZh": "2026-09-16 B站排行榜第 3 名，热度 169.0万。ka殿 · 播放 169.0万",
     "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -3189,9 +2884,9 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "B站",
       "ka殿"
     ],
-    "rank": 8,
-    "heatScore": 79,
-    "importanceScore": 79,
+    "rank": 3,
+    "heatScore": 94,
+    "importanceScore": 94,
     "confidence": "confirmed",
     "thumbnailUrl": "http://i0.hdslb.com/bfs/archive/a3ea537fe2a43fb7dcc420e8d4c2a026ce6f88d2.jpg",
     "preferenceTags": [
@@ -3199,10 +2894,10 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：B站排行榜。",
-      "排名：B站排行榜第 8 名，热度 120.5万。",
-      "具体信息：Re：从零开始的异世界学园生活·序。ka殿 · 播放 120.5万",
+      "排名：B站排行榜第 3 名，热度 169.0万。",
+      "具体信息：Re：从零开始的异世界学园生活·序。ka殿 · 播放 169.0万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
@@ -3210,12 +2905,12 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "B站排行榜",
         "title": "Re：从零开始的异世界学园生活·序",
         "url": "https://www.bilibili.com/video/BV1PeYe69EWk/",
-        "description": "ka殿 · 播放 120.5万",
+        "description": "ka殿 · 播放 169.0万",
         "paragraphs": [
-          "ka殿 · 播放 120.5万"
+          "ka殿 · 播放 169.0万"
         ],
         "imageUrl": "http://i0.hdslb.com/bfs/archive/a3ea537fe2a43fb7dcc420e8d4c2a026ce6f88d2.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -3223,23 +2918,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "B站排行榜",
         "title": "Re：从零开始的异世界学园生活·序",
         "url": "https://www.bilibili.com/video/BV1PeYe69EWk/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "B站排行榜榜单页",
         "title": "B站排行榜",
         "url": "https://www.bilibili.com/v/popular/rank/all",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站排行榜-9-E5B08F20E585B520E998BF20E5988E",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站排行榜-4-E6A8A1E4BBBFE6B4BEE5AFB9EFBC8CE9858D",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站排行榜",
-    "titleZh": "小 兵 阿 嘎",
-    "summaryZh": "2026-09-15 B站排行榜第 9 名，热度 229.6万。推背兔の · 播放 229.6万",
+    "titleZh": "模仿派对，配音挑战大赛",
+    "summaryZh": "2026-09-16 B站排行榜第 4 名，热度 373.0万。鲤鱼Ace · 播放 373.0万",
     "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -3248,59 +2943,364 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "platforms": [
       "B站排行榜",
       "B站",
-      "推背兔の"
+      "鲤鱼Ace"
+    ],
+    "rank": 4,
+    "heatScore": 91,
+    "importanceScore": 91,
+    "confidence": "confirmed",
+    "thumbnailUrl": "http://i2.hdslb.com/bfs/archive/bc2ace90877675cdfd8f682c451d1f1b959a24b7.jpg",
+    "preferenceTags": [
+      "B站排行榜",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：B站排行榜。",
+      "排名：B站排行榜第 4 名，热度 373.0万。",
+      "具体信息：模仿派对，配音挑战大赛。鲤鱼Ace · 播放 373.0万",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "B站排行榜",
+        "title": "模仿派对，配音挑战大赛",
+        "url": "https://www.bilibili.com/video/BV1ZqYX6YEsu/",
+        "description": "鲤鱼Ace · 播放 373.0万",
+        "paragraphs": [
+          "鲤鱼Ace · 播放 373.0万"
+        ],
+        "imageUrl": "http://i2.hdslb.com/bfs/archive/bc2ace90877675cdfd8f682c451d1f1b959a24b7.jpg",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "B站排行榜",
+        "title": "模仿派对，配音挑战大赛",
+        "url": "https://www.bilibili.com/video/BV1ZqYX6YEsu/",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "B站排行榜榜单页",
+        "title": "B站排行榜",
+        "url": "https://www.bilibili.com/v/popular/rank/all",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-B站排行榜-5-E2809CE4B880E9A5ADE6B8A9E68385E79BB8",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "B站排行榜",
+    "titleZh": "“一饭温情相赠，千里以报恩深.”【红色高跟鞋DJ-降调】【涌泉相报の小曲】",
+    "summaryZh": "2026-09-16 B站排行榜第 5 名，热度 178.8万。早睡起大王 · 播放 178.8万",
+    "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "B站排行榜",
+      "B站",
+      "早睡起大王"
+    ],
+    "rank": 5,
+    "heatScore": 88,
+    "importanceScore": 88,
+    "confidence": "confirmed",
+    "thumbnailUrl": "http://i1.hdslb.com/bfs/archive/ff24f670ecdd3d1d52233852a43a304171c4f9a0.jpg",
+    "preferenceTags": [
+      "B站排行榜",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：B站排行榜。",
+      "排名：B站排行榜第 5 名，热度 178.8万。",
+      "具体信息：“一饭温情相赠，千里以报恩深.”【红色高跟鞋DJ-降调】【涌泉相报の小曲】。早睡起大王 · 播放 178.8万",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "B站排行榜",
+        "title": "“一饭温情相赠，千里以报恩深.”【红色高跟鞋DJ-降调】【涌泉相报の小曲】",
+        "url": "https://www.bilibili.com/video/BV1HUY76uEMJ/",
+        "description": "早睡起大王 · 播放 178.8万",
+        "paragraphs": [
+          "早睡起大王 · 播放 178.8万"
+        ],
+        "imageUrl": "http://i1.hdslb.com/bfs/archive/ff24f670ecdd3d1d52233852a43a304171c4f9a0.jpg",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "B站排行榜",
+        "title": "“一饭温情相赠，千里以报恩深.”【红色高跟鞋DJ-降调】【涌泉相报の小曲】",
+        "url": "https://www.bilibili.com/video/BV1HUY76uEMJ/",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "B站排行榜榜单页",
+        "title": "B站排行榜",
+        "url": "https://www.bilibili.com/v/popular/rank/all",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-B站排行榜-6-E2809CE6ADBBE4BAA1E4B88DE698AFE7BB88",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "B站排行榜",
+    "titleZh": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
+    "summaryZh": "2026-09-16 B站排行榜第 6 名，热度 152.1万。SillyZ_Official · 播放 152.1万",
+    "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "B站排行榜",
+      "B站",
+      "SillyZ_Official"
+    ],
+    "rank": 6,
+    "heatScore": 85,
+    "importanceScore": 85,
+    "confidence": "confirmed",
+    "thumbnailUrl": "http://i0.hdslb.com/bfs/archive/6c55230d9a3946473970595c4ae1d860e6567724.jpg",
+    "preferenceTags": [
+      "B站排行榜",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：B站排行榜。",
+      "排名：B站排行榜第 6 名，热度 152.1万。",
+      "具体信息：“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】。SillyZ_Official · 播放 152.1万",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "B站排行榜",
+        "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
+        "url": "https://www.bilibili.com/video/BV1PYYo6XEW9/",
+        "description": "SillyZ_Official · 播放 152.1万",
+        "paragraphs": [
+          "SillyZ_Official · 播放 152.1万"
+        ],
+        "imageUrl": "http://i0.hdslb.com/bfs/archive/6c55230d9a3946473970595c4ae1d860e6567724.jpg",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "B站排行榜",
+        "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
+        "url": "https://www.bilibili.com/video/BV1PYYo6XEW9/",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "B站排行榜榜单页",
+        "title": "B站排行榜",
+        "url": "https://www.bilibili.com/v/popular/rank/all",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-B站排行榜-7-E7ABA5E5B9B4E79A84E68D95E899ABE7BD91",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "B站排行榜",
+    "titleZh": "童年的捕虫网，依然在我们的手里——《伊莫》PC端预下载现已开启！",
+    "summaryZh": "2026-09-16 B站排行榜第 7 名，热度 390.8万。伊莫 · 播放 390.8万",
+    "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "B站排行榜",
+      "B站",
+      "伊莫"
+    ],
+    "rank": 7,
+    "heatScore": 82,
+    "importanceScore": 82,
+    "confidence": "confirmed",
+    "thumbnailUrl": "http://i2.hdslb.com/bfs/archive/916373db48380bc9dabf736cce385a47f2178eb5.jpg",
+    "preferenceTags": [
+      "B站排行榜",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：B站排行榜。",
+      "排名：B站排行榜第 7 名，热度 390.8万。",
+      "具体信息：童年的捕虫网，依然在我们的手里——《伊莫》PC端预下载现已开启！。伊莫 · 播放 390.8万",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "B站排行榜",
+        "title": "童年的捕虫网，依然在我们的手里——《伊莫》PC端预下载现已开启！",
+        "url": "https://www.bilibili.com/video/BV1Dve565ENK/",
+        "description": "伊莫 · 播放 390.8万",
+        "paragraphs": [
+          "伊莫 · 播放 390.8万"
+        ],
+        "imageUrl": "http://i2.hdslb.com/bfs/archive/916373db48380bc9dabf736cce385a47f2178eb5.jpg",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "B站排行榜",
+        "title": "童年的捕虫网，依然在我们的手里——《伊莫》PC端预下载现已开启！",
+        "url": "https://www.bilibili.com/video/BV1Dve565ENK/",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "B站排行榜榜单页",
+        "title": "B站排行榜",
+        "url": "https://www.bilibili.com/v/popular/rank/all",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-B站排行榜-8-E5A48FE5ADA3E79A84E6B8A9E9A6A8E7A28E",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "B站排行榜",
+    "titleZh": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
+    "summaryZh": "2026-09-16 B站排行榜第 8 名，热度 168.7万。巫暖聪 · 播放 168.7万",
+    "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "B站排行榜",
+      "B站",
+      "巫暖聪"
+    ],
+    "rank": 8,
+    "heatScore": 79,
+    "importanceScore": 79,
+    "confidence": "confirmed",
+    "thumbnailUrl": "http://i0.hdslb.com/bfs/archive/74bdb100295baa417948902ef1832192e4f24e7a.jpg",
+    "preferenceTags": [
+      "B站排行榜",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：B站排行榜。",
+      "排名：B站排行榜第 8 名，热度 168.7万。",
+      "具体信息：夏季的温馨碎片，重新剪到一起，准备再赚一次流量。巫暖聪 · 播放 168.7万",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "B站排行榜",
+        "title": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
+        "url": "https://www.bilibili.com/video/BV1S5YE6HE9Q/",
+        "description": "巫暖聪 · 播放 168.7万",
+        "paragraphs": [
+          "巫暖聪 · 播放 168.7万"
+        ],
+        "imageUrl": "http://i0.hdslb.com/bfs/archive/74bdb100295baa417948902ef1832192e4f24e7a.jpg",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "B站排行榜",
+        "title": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
+        "url": "https://www.bilibili.com/video/BV1S5YE6HE9Q/",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "B站排行榜榜单页",
+        "title": "B站排行榜",
+        "url": "https://www.bilibili.com/v/popular/rank/all",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-B站排行榜-9-E3808AE4BDA0E4BBA5E4B8BAE79A84E694AF",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "B站排行榜",
+    "titleZh": "《你以为的支教只教课时，但实际上...》",
+    "summaryZh": "2026-09-16 B站排行榜第 9 名，热度 154.0万。狗哥的猫meme小剧场 · 播放 154.0万",
+    "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "B站排行榜",
+      "B站",
+      "狗哥的猫meme小剧场"
     ],
     "rank": 9,
     "heatScore": 76,
     "importanceScore": 76,
     "confidence": "confirmed",
-    "thumbnailUrl": "http://i1.hdslb.com/bfs/archive/85167225b933066be01c5eca7fd6f86a87bd3ae2.jpg",
+    "thumbnailUrl": "http://i2.hdslb.com/bfs/archive/58a72b4ea067948f5a9b45cfcc98dc9d36fb346d.jpg",
     "preferenceTags": [
       "B站排行榜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：B站排行榜。",
-      "排名：B站排行榜第 9 名，热度 229.6万。",
-      "具体信息：小 兵 阿 嘎。推背兔の · 播放 229.6万",
+      "排名：B站排行榜第 9 名，热度 154.0万。",
+      "具体信息：《你以为的支教只教课时，但实际上...》。狗哥的猫meme小剧场 · 播放 154.0万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "B站排行榜",
-        "title": "小 兵 阿 嘎",
-        "url": "https://www.bilibili.com/video/BV1zuY46oE2V/",
-        "description": "推背兔の · 播放 229.6万",
+        "title": "《你以为的支教只教课时，但实际上...》",
+        "url": "https://www.bilibili.com/video/BV1z7Y96KEU4/",
+        "description": "狗哥的猫meme小剧场 · 播放 154.0万",
         "paragraphs": [
-          "推背兔の · 播放 229.6万"
+          "狗哥的猫meme小剧场 · 播放 154.0万"
         ],
-        "imageUrl": "http://i1.hdslb.com/bfs/archive/85167225b933066be01c5eca7fd6f86a87bd3ae2.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "http://i2.hdslb.com/bfs/archive/58a72b4ea067948f5a9b45cfcc98dc9d36fb346d.jpg",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "B站排行榜",
-        "title": "小 兵 阿 嘎",
-        "url": "https://www.bilibili.com/video/BV1zuY46oE2V/",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "《你以为的支教只教课时，但实际上...》",
+        "url": "https://www.bilibili.com/video/BV1z7Y96KEU4/",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "B站排行榜榜单页",
         "title": "B站排行榜",
         "url": "https://www.bilibili.com/v/popular/rank/all",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站排行榜-10-21E4B896E7BAAAE6B3A2E585B0E4BE9DE784",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站排行榜-10-E7ABAFE580AA",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站排行榜",
-    "titleZh": "21世纪波兰依然被闪击",
-    "summaryZh": "2026-09-15 B站排行榜第 10 名，热度 191.3万。燕三嘤嘤嘤 · 播放 191.3万",
+    "titleZh": "端倪",
+    "summaryZh": "2026-09-16 B站排行榜第 10 名，热度 288.1万。安吉-AnJ · 播放 288.1万",
     "whyItMatters": "收录原因：进入B站排行榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -3309,59 +3309,59 @@ window.HOT_INTELLIGENCE_ITEMS = [
     "platforms": [
       "B站排行榜",
       "B站",
-      "燕三嘤嘤嘤"
+      "安吉-AnJ"
     ],
     "rank": 10,
     "heatScore": 73,
     "importanceScore": 73,
     "confidence": "confirmed",
-    "thumbnailUrl": "http://i0.hdslb.com/bfs/archive/f3f7f8896b2ec0adce4539fcdd970c48f8b3e52c.jpg",
+    "thumbnailUrl": "http://i1.hdslb.com/bfs/archive/3cc3527ac5b68539ce86c6ffb2327ce0dd2a59b0.jpg",
     "preferenceTags": [
       "B站排行榜",
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：B站排行榜。",
-      "排名：B站排行榜第 10 名，热度 191.3万。",
-      "具体信息：21世纪波兰依然被闪击。燕三嘤嘤嘤 · 播放 191.3万",
+      "排名：B站排行榜第 10 名，热度 288.1万。",
+      "具体信息：端倪。安吉-AnJ · 播放 288.1万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "B站排行榜",
-        "title": "21世纪波兰依然被闪击",
-        "url": "https://www.bilibili.com/video/BV1BdYQ6aEXv/",
-        "description": "燕三嘤嘤嘤 · 播放 191.3万",
+        "title": "端倪",
+        "url": "https://www.bilibili.com/video/BV19mYX6dEQ6/",
+        "description": "安吉-AnJ · 播放 288.1万",
         "paragraphs": [
-          "燕三嘤嘤嘤 · 播放 191.3万"
+          "安吉-AnJ · 播放 288.1万"
         ],
-        "imageUrl": "http://i0.hdslb.com/bfs/archive/f3f7f8896b2ec0adce4539fcdd970c48f8b3e52c.jpg",
-        "capturedAt": "2026-09-15 08:00"
+        "imageUrl": "http://i1.hdslb.com/bfs/archive/3cc3527ac5b68539ce86c6ffb2327ce0dd2a59b0.jpg",
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "B站排行榜",
-        "title": "21世纪波兰依然被闪击",
-        "url": "https://www.bilibili.com/video/BV1BdYQ6aEXv/",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "端倪",
+        "url": "https://www.bilibili.com/video/BV19mYX6dEQ6/",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "B站排行榜榜单页",
         "title": "B站排行榜",
         "url": "https://www.bilibili.com/v/popular/rank/all",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-豆瓣实时讨论-1-E587BAE59BBDE9878DE590AFE4BABAE7949F",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-豆瓣实时讨论-1-E5908CE4BA8BE8BF9EE7BBADE4B889E591A8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "豆瓣实时讨论",
-    "titleZh": "出国重启人生仍然是一件值得尝试的冒险",
-    "summaryZh": "2026-09-15 豆瓣第 1 名。豆瓣小组实时热门讨论",
+    "titleZh": "同事连续三周背洗洁精上下班，没想到是玻璃反光",
+    "summaryZh": "2026-09-16 豆瓣第 1 名。豆瓣小组实时热门讨论",
     "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -3382,9 +3382,558 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：豆瓣。",
       "排名：豆瓣实时讨论第 1 名。",
+      "具体信息：同事连续三周背洗洁精上下班，没想到是玻璃反光。豆瓣小组实时热门讨论",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "豆瓣",
+        "title": "同事连续三周背洗洁精上下班，没想到是玻璃反光",
+        "url": "https://www.douban.com/group/topic/499597974/?_spm_id=MjM4MjAxMDU3",
+        "description": "豆瓣小组实时热门讨论",
+        "paragraphs": [
+          "豆瓣小组实时热门讨论"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "豆瓣",
+        "title": "同事连续三周背洗洁精上下班，没想到是玻璃反光",
+        "url": "https://www.douban.com/group/topic/499597974/?_spm_id=MjM4MjAxMDU3",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "豆瓣榜单页",
+        "title": "豆瓣实时讨论",
+        "url": "https://www.douban.com/group/explore",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-豆瓣实时讨论-2-E4BA91E68EA0E69E9DE5A4B4E88AB1E9A294",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "豆瓣实时讨论",
+    "titleZh": "云掠枝头花颔首，风催碎金换红绸",
+    "summaryZh": "2026-09-16 豆瓣第 2 名。豆瓣小组实时热门讨论",
+    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "豆瓣",
+      "豆瓣",
+      "讨论"
+    ],
+    "rank": 2,
+    "heatScore": 97,
+    "importanceScore": 97,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "豆瓣实时讨论",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：豆瓣。",
+      "排名：豆瓣实时讨论第 2 名。",
+      "具体信息：云掠枝头花颔首，风催碎金换红绸。豆瓣小组实时热门讨论",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "豆瓣",
+        "title": "云掠枝头花颔首，风催碎金换红绸",
+        "url": "https://www.douban.com/group/topic/499543723/?_spm_id=MTIzOTQxMjk3",
+        "description": "豆瓣小组实时热门讨论",
+        "paragraphs": [
+          "豆瓣小组实时热门讨论"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "豆瓣",
+        "title": "云掠枝头花颔首，风催碎金换红绸",
+        "url": "https://www.douban.com/group/topic/499543723/?_spm_id=MTIzOTQxMjk3",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "豆瓣榜单页",
+        "title": "豆瓣实时讨论",
+        "url": "https://www.douban.com/group/explore",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-豆瓣实时讨论-3-E69FB3E6B19FE6A8AAE6B8A1E6AF94E8B59B",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "豆瓣实时讨论",
+    "titleZh": "柳江横渡比赛经验分享：你奶永远是你奶",
+    "summaryZh": "2026-09-16 豆瓣第 3 名。豆瓣小组实时热门讨论",
+    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "豆瓣",
+      "豆瓣",
+      "讨论"
+    ],
+    "rank": 3,
+    "heatScore": 94,
+    "importanceScore": 94,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "豆瓣实时讨论",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：豆瓣。",
+      "排名：豆瓣实时讨论第 3 名。",
+      "具体信息：柳江横渡比赛经验分享：你奶永远是你奶。豆瓣小组实时热门讨论",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "豆瓣",
+        "title": "柳江横渡比赛经验分享：你奶永远是你奶",
+        "url": "https://www.douban.com/group/topic/499832261/?_spm_id=NDcwNDgyNw",
+        "description": "豆瓣小组实时热门讨论",
+        "paragraphs": [
+          "豆瓣小组实时热门讨论"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "豆瓣",
+        "title": "柳江横渡比赛经验分享：你奶永远是你奶",
+        "url": "https://www.douban.com/group/topic/499832261/?_spm_id=NDcwNDgyNw",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "豆瓣榜单页",
+        "title": "豆瓣实时讨论",
+        "url": "https://www.douban.com/group/explore",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-豆瓣实时讨论-4-E8A789E5BE97E5B08FE885BFE583B5E586B7",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "豆瓣实时讨论",
+    "titleZh": "觉得小腿僵冷，去看中医",
+    "summaryZh": "2026-09-16 豆瓣第 4 名。豆瓣小组实时热门讨论",
+    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "豆瓣",
+      "豆瓣",
+      "讨论"
+    ],
+    "rank": 4,
+    "heatScore": 91,
+    "importanceScore": 91,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "豆瓣实时讨论",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：豆瓣。",
+      "排名：豆瓣实时讨论第 4 名。",
+      "具体信息：觉得小腿僵冷，去看中医。豆瓣小组实时热门讨论",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "豆瓣",
+        "title": "觉得小腿僵冷，去看中医",
+        "url": "https://www.douban.com/group/topic/499779863/?_spm_id=Mjc2MDUzNjkw",
+        "description": "豆瓣小组实时热门讨论",
+        "paragraphs": [
+          "豆瓣小组实时热门讨论"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "豆瓣",
+        "title": "觉得小腿僵冷，去看中医",
+        "url": "https://www.douban.com/group/topic/499779863/?_spm_id=Mjc2MDUzNjkw",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "豆瓣榜单页",
+        "title": "豆瓣实时讨论",
+        "url": "https://www.douban.com/group/explore",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-豆瓣实时讨论-5-E69E81E7AE80E9A38EE6898BE5B890E69599",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "豆瓣实时讨论",
+    "titleZh": "极简风手帐教程（文字为主）",
+    "summaryZh": "2026-09-16 豆瓣第 5 名。豆瓣小组实时热门讨论",
+    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "豆瓣",
+      "豆瓣",
+      "讨论"
+    ],
+    "rank": 5,
+    "heatScore": 88,
+    "importanceScore": 88,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "豆瓣实时讨论",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：豆瓣。",
+      "排名：豆瓣实时讨论第 5 名。",
+      "具体信息：极简风手帐教程（文字为主）。豆瓣小组实时热门讨论",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "豆瓣",
+        "title": "极简风手帐教程（文字为主）",
+        "url": "https://www.douban.com/group/topic/499841426/?_spm_id=ODc2NDk1Nzk",
+        "description": "豆瓣小组实时热门讨论",
+        "paragraphs": [
+          "豆瓣小组实时热门讨论"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "豆瓣",
+        "title": "极简风手帐教程（文字为主）",
+        "url": "https://www.douban.com/group/topic/499841426/?_spm_id=ODc2NDk1Nzk",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "豆瓣榜单页",
+        "title": "豆瓣实时讨论",
+        "url": "https://www.douban.com/group/explore",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-豆瓣实时讨论-6-E5A4A7E5AEB6E983BDE4BD8EE4BCB0E4BA86",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "豆瓣实时讨论",
+    "titleZh": "大家都低估了写日记的好处",
+    "summaryZh": "2026-09-16 豆瓣第 6 名。豆瓣小组实时热门讨论",
+    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "豆瓣",
+      "豆瓣",
+      "讨论"
+    ],
+    "rank": 6,
+    "heatScore": 85,
+    "importanceScore": 85,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "豆瓣实时讨论",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：豆瓣。",
+      "排名：豆瓣实时讨论第 6 名。",
+      "具体信息：大家都低估了写日记的好处。豆瓣小组实时热门讨论",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "豆瓣",
+        "title": "大家都低估了写日记的好处",
+        "url": "https://www.douban.com/group/topic/499710052/?_spm_id=MjE0OTEyMDk3",
+        "description": "豆瓣小组实时热门讨论",
+        "paragraphs": [
+          "豆瓣小组实时热门讨论"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "豆瓣",
+        "title": "大家都低估了写日记的好处",
+        "url": "https://www.douban.com/group/topic/499710052/?_spm_id=MjE0OTEyMDk3",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "豆瓣榜单页",
+        "title": "豆瓣实时讨论",
+        "url": "https://www.douban.com/group/explore",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-豆瓣实时讨论-7-E5B185E5AEB62FE887AAE4B8BBE58A9BE8AE",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "豆瓣实时讨论",
+    "titleZh": "居家/自主力训+网络教程",
+    "summaryZh": "2026-09-16 豆瓣第 7 名。豆瓣小组实时热门讨论",
+    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "豆瓣",
+      "豆瓣",
+      "讨论"
+    ],
+    "rank": 7,
+    "heatScore": 82,
+    "importanceScore": 82,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "豆瓣实时讨论",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：豆瓣。",
+      "排名：豆瓣实时讨论第 7 名。",
+      "具体信息：居家/自主力训+网络教程。豆瓣小组实时热门讨论",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "豆瓣",
+        "title": "居家/自主力训+网络教程",
+        "url": "https://www.douban.com/group/topic/499546571/?_spm_id=MjM4Mjg1MTkx",
+        "description": "豆瓣小组实时热门讨论",
+        "paragraphs": [
+          "豆瓣小组实时热门讨论"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "豆瓣",
+        "title": "居家/自主力训+网络教程",
+        "url": "https://www.douban.com/group/topic/499546571/?_spm_id=MjM4Mjg1MTkx",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "豆瓣榜单页",
+        "title": "豆瓣实时讨论",
+        "url": "https://www.douban.com/group/explore",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-豆瓣实时讨论-8-E4B880E69C9FE4B880E4BC9A20E5BDBCE5B2",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "豆瓣实时讨论",
+    "titleZh": "一期一会 彼岸花",
+    "summaryZh": "2026-09-16 豆瓣第 8 名。豆瓣小组实时热门讨论",
+    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "豆瓣",
+      "豆瓣",
+      "讨论"
+    ],
+    "rank": 8,
+    "heatScore": 79,
+    "importanceScore": 79,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "豆瓣实时讨论",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：豆瓣。",
+      "排名：豆瓣实时讨论第 8 名。",
+      "具体信息：一期一会 彼岸花。豆瓣小组实时热门讨论",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "豆瓣",
+        "title": "一期一会 彼岸花",
+        "url": "https://www.douban.com/group/topic/499775869/?_spm_id=MjI1MDY2NDIw",
+        "description": "豆瓣小组实时热门讨论",
+        "paragraphs": [
+          "豆瓣小组实时热门讨论"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "豆瓣",
+        "title": "一期一会 彼岸花",
+        "url": "https://www.douban.com/group/topic/499775869/?_spm_id=MjI1MDY2NDIw",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "豆瓣榜单页",
+        "title": "豆瓣实时讨论",
+        "url": "https://www.douban.com/group/explore",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-豆瓣实时讨论-9-8E4B8AAE79C8BE4BCBCE7AE80E58D95E79A8",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "豆瓣实时讨论",
+    "titleZh": "8个看似简单的认知，让我彻底成为了极简主义者",
+    "summaryZh": "2026-09-16 豆瓣第 9 名。豆瓣小组实时热门讨论",
+    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "豆瓣",
+      "豆瓣",
+      "讨论"
+    ],
+    "rank": 9,
+    "heatScore": 76,
+    "importanceScore": 76,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "豆瓣实时讨论",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：豆瓣。",
+      "排名：豆瓣实时讨论第 9 名。",
+      "具体信息：8个看似简单的认知，让我彻底成为了极简主义者。豆瓣小组实时热门讨论",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "豆瓣",
+        "title": "8个看似简单的认知，让我彻底成为了极简主义者",
+        "url": "https://www.douban.com/group/topic/499558483/?_spm_id=MTQ0NjE2NTUy",
+        "description": "豆瓣小组实时热门讨论",
+        "paragraphs": [
+          "豆瓣小组实时热门讨论"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "豆瓣",
+        "title": "8个看似简单的认知，让我彻底成为了极简主义者",
+        "url": "https://www.douban.com/group/topic/499558483/?_spm_id=MTQ0NjE2NTUy",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "豆瓣榜单页",
+        "title": "豆瓣实时讨论",
+        "url": "https://www.douban.com/group/explore",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-豆瓣实时讨论-10-E587BAE59BBDE9878DE590AFE4BABAE7949F",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "豆瓣实时讨论",
+    "titleZh": "出国重启人生仍然是一件值得尝试的冒险",
+    "summaryZh": "2026-09-16 豆瓣第 10 名。豆瓣小组实时热门讨论",
+    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "豆瓣",
+      "豆瓣",
+      "讨论"
+    ],
+    "rank": 10,
+    "heatScore": 73,
+    "importanceScore": 73,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "豆瓣实时讨论",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：豆瓣。",
+      "排名：豆瓣实时讨论第 10 名。",
       "具体信息：出国重启人生仍然是一件值得尝试的冒险。豆瓣小组实时热门讨论",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
@@ -3398,7 +3947,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "豆瓣小组实时热门讨论"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -3406,572 +3955,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "豆瓣",
         "title": "出国重启人生仍然是一件值得尝试的冒险",
         "url": "https://www.douban.com/group/topic/499747962/?_spm_id=MTY4ODMwMjQy",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "豆瓣榜单页",
         "title": "豆瓣实时讨论",
         "url": "https://www.douban.com/group/explore",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-豆瓣实时讨论-2-E895A8E7B1BBE6A48DE789A9E788B1E5A5BD",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "豆瓣实时讨论",
-    "titleZh": "蕨类植物爱好者🌿",
-    "summaryZh": "2026-09-15 豆瓣第 2 名。豆瓣小组实时热门讨论",
-    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "豆瓣",
-      "豆瓣",
-      "讨论"
-    ],
-    "rank": 2,
-    "heatScore": 97,
-    "importanceScore": 97,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "豆瓣实时讨论",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：豆瓣。",
-      "排名：豆瓣实时讨论第 2 名。",
-      "具体信息：蕨类植物爱好者🌿。豆瓣小组实时热门讨论",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "豆瓣",
-        "title": "蕨类植物爱好者🌿",
-        "url": "https://www.douban.com/group/topic/499527444/?_spm_id=MjMzMTk3NTYx",
-        "description": "豆瓣小组实时热门讨论",
-        "paragraphs": [
-          "豆瓣小组实时热门讨论"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "豆瓣",
-        "title": "蕨类植物爱好者🌿",
-        "url": "https://www.douban.com/group/topic/499527444/?_spm_id=MjMzMTk3NTYx",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "豆瓣榜单页",
-        "title": "豆瓣实时讨论",
-        "url": "https://www.douban.com/group/explore",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-豆瓣实时讨论-3-E4BB8AE5A4A9E58F88E98187E588B0E4B880",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "豆瓣实时讨论",
-    "titleZh": "今天又遇到一个如有神迹般的朝霞",
-    "summaryZh": "2026-09-15 豆瓣第 3 名。豆瓣小组实时热门讨论",
-    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "豆瓣",
-      "豆瓣",
-      "讨论"
-    ],
-    "rank": 3,
-    "heatScore": 94,
-    "importanceScore": 94,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "豆瓣实时讨论",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：豆瓣。",
-      "排名：豆瓣实时讨论第 3 名。",
-      "具体信息：今天又遇到一个如有神迹般的朝霞。豆瓣小组实时热门讨论",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "豆瓣",
-        "title": "今天又遇到一个如有神迹般的朝霞",
-        "url": "https://www.douban.com/group/topic/499558683/?_spm_id=MTQ5NTM3Mjk4",
-        "description": "豆瓣小组实时热门讨论",
-        "paragraphs": [
-          "豆瓣小组实时热门讨论"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "豆瓣",
-        "title": "今天又遇到一个如有神迹般的朝霞",
-        "url": "https://www.douban.com/group/topic/499558683/?_spm_id=MTQ5NTM3Mjk4",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "豆瓣榜单页",
-        "title": "豆瓣实时讨论",
-        "url": "https://www.douban.com/group/explore",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-豆瓣实时讨论-4-E69DADE5B79E6E5B9B3E7B1B3E69E81E9999",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "豆瓣实时讨论",
-    "titleZh": "杭州6平米极限布置思路：只花了250就把6平米的房间打造成了自己理想的居住空间",
-    "summaryZh": "2026-09-15 豆瓣第 4 名。豆瓣小组实时热门讨论",
-    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "豆瓣",
-      "豆瓣",
-      "讨论"
-    ],
-    "rank": 4,
-    "heatScore": 91,
-    "importanceScore": 91,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "豆瓣实时讨论",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：豆瓣。",
-      "排名：豆瓣实时讨论第 4 名。",
-      "具体信息：杭州6平米极限布置思路：只花了250就把6平米的房间打造成了自己理想的居住空间。豆瓣小组实时热门讨论",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "豆瓣",
-        "title": "杭州6平米极限布置思路：只花了250就把6平米的房间打造成了自己理想的居住空间",
-        "url": "https://www.douban.com/group/topic/499705655/?_spm_id=NTA3MTYyNTc",
-        "description": "豆瓣小组实时热门讨论",
-        "paragraphs": [
-          "豆瓣小组实时热门讨论"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "豆瓣",
-        "title": "杭州6平米极限布置思路：只花了250就把6平米的房间打造成了自己理想的居住空间",
-        "url": "https://www.douban.com/group/topic/499705655/?_spm_id=NTA3MTYyNTc",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "豆瓣榜单页",
-        "title": "豆瓣实时讨论",
-        "url": "https://www.douban.com/group/explore",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-豆瓣实时讨论-5-E5908CE5ADA6E8858CE6B3A1E88F9CE5BC95",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "豆瓣实时讨论",
-    "titleZh": "同学腌泡菜引来了国外特工差点搞成国际大案",
-    "summaryZh": "2026-09-15 豆瓣第 5 名。豆瓣小组实时热门讨论",
-    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "豆瓣",
-      "豆瓣",
-      "讨论"
-    ],
-    "rank": 5,
-    "heatScore": 88,
-    "importanceScore": 88,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "豆瓣实时讨论",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：豆瓣。",
-      "排名：豆瓣实时讨论第 5 名。",
-      "具体信息：同学腌泡菜引来了国外特工差点搞成国际大案。豆瓣小组实时热门讨论",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "豆瓣",
-        "title": "同学腌泡菜引来了国外特工差点搞成国际大案",
-        "url": "https://www.douban.com/group/topic/499738208/?_spm_id=MjUyNjYxMjE4",
-        "description": "豆瓣小组实时热门讨论",
-        "paragraphs": [
-          "豆瓣小组实时热门讨论"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "豆瓣",
-        "title": "同学腌泡菜引来了国外特工差点搞成国际大案",
-        "url": "https://www.douban.com/group/topic/499738208/?_spm_id=MjUyNjYxMjE4",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "豆瓣榜单页",
-        "title": "豆瓣实时讨论",
-        "url": "https://www.douban.com/group/explore",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-豆瓣实时讨论-6-E8AFBAE5A596E8B594E78E87E6A69CE2809C",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "豆瓣实时讨论",
-    "titleZh": "诺奖赔率榜“冷门作家”最全盘点与介绍——让你一口气了解46位未曾听说过的诺奖竞争者",
-    "summaryZh": "2026-09-15 豆瓣第 6 名。豆瓣小组实时热门讨论",
-    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "豆瓣",
-      "豆瓣",
-      "讨论"
-    ],
-    "rank": 6,
-    "heatScore": 85,
-    "importanceScore": 85,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "豆瓣实时讨论",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：豆瓣。",
-      "排名：豆瓣实时讨论第 6 名。",
-      "具体信息：诺奖赔率榜“冷门作家”最全盘点与介绍——让你一口气了解46位未曾听说过的诺奖竞争者。豆瓣小组实时热门讨论",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "豆瓣",
-        "title": "诺奖赔率榜“冷门作家”最全盘点与介绍——让你一口气了解46位未曾听说过的诺奖竞争者",
-        "url": "https://www.douban.com/group/topic/499641442/?_spm_id=MjQ4MTAyNTAz",
-        "description": "豆瓣小组实时热门讨论",
-        "paragraphs": [
-          "豆瓣小组实时热门讨论"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "豆瓣",
-        "title": "诺奖赔率榜“冷门作家”最全盘点与介绍——让你一口气了解46位未曾听说过的诺奖竞争者",
-        "url": "https://www.douban.com/group/topic/499641442/?_spm_id=MjQ4MTAyNTAz",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "豆瓣榜单页",
-        "title": "豆瓣实时讨论",
-        "url": "https://www.douban.com/group/explore",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-豆瓣实时讨论-7-E68891E694B6E588B0E58AA0E68BBFE5A4A7",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "豆瓣实时讨论",
-    "titleZh": "我收到加拿大永居PR邀请啦🇨🇦",
-    "summaryZh": "2026-09-15 豆瓣第 7 名。豆瓣小组实时热门讨论",
-    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "豆瓣",
-      "豆瓣",
-      "讨论"
-    ],
-    "rank": 7,
-    "heatScore": 82,
-    "importanceScore": 82,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "豆瓣实时讨论",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：豆瓣。",
-      "排名：豆瓣实时讨论第 7 名。",
-      "具体信息：我收到加拿大永居PR邀请啦🇨🇦。豆瓣小组实时热门讨论",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "豆瓣",
-        "title": "我收到加拿大永居PR邀请啦🇨🇦",
-        "url": "https://www.douban.com/group/topic/499647797/?_spm_id=MjAwOTQwNjcw",
-        "description": "豆瓣小组实时热门讨论",
-        "paragraphs": [
-          "豆瓣小组实时热门讨论"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "豆瓣",
-        "title": "我收到加拿大永居PR邀请啦🇨🇦",
-        "url": "https://www.douban.com/group/topic/499647797/?_spm_id=MjAwOTQwNjcw",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "豆瓣榜单页",
-        "title": "豆瓣实时讨论",
-        "url": "https://www.douban.com/group/explore",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-豆瓣实时讨论-8-E4B8BAE887AAE5B7B1E5819AE4BA86E982A3",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "豆瓣实时讨论",
-    "titleZh": "为自己做了那么多顿饭，感觉好浪漫～",
-    "summaryZh": "2026-09-15 豆瓣第 8 名。豆瓣小组实时热门讨论",
-    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "豆瓣",
-      "豆瓣",
-      "讨论"
-    ],
-    "rank": 8,
-    "heatScore": 79,
-    "importanceScore": 79,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "豆瓣实时讨论",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：豆瓣。",
-      "排名：豆瓣实时讨论第 8 名。",
-      "具体信息：为自己做了那么多顿饭，感觉好浪漫～。豆瓣小组实时热门讨论",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "豆瓣",
-        "title": "为自己做了那么多顿饭，感觉好浪漫～",
-        "url": "https://www.douban.com/group/topic/499324633/?_spm_id=MTcyMjkwNTEz",
-        "description": "豆瓣小组实时热门讨论",
-        "paragraphs": [
-          "豆瓣小组实时热门讨论"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "豆瓣",
-        "title": "为自己做了那么多顿饭，感觉好浪漫～",
-        "url": "https://www.douban.com/group/topic/499324633/?_spm_id=MTcyMjkwNTEz",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "豆瓣榜单页",
-        "title": "豆瓣实时讨论",
-        "url": "https://www.douban.com/group/explore",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-豆瓣实时讨论-9-E78EB0E59CA8E69599E79A84E5ADA6E7949F",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "豆瓣实时讨论",
-    "titleZh": "现在教的学生都是天使宝宝来的",
-    "summaryZh": "2026-09-15 豆瓣第 9 名。豆瓣小组实时热门讨论",
-    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "豆瓣",
-      "豆瓣",
-      "讨论"
-    ],
-    "rank": 9,
-    "heatScore": 76,
-    "importanceScore": 76,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "豆瓣实时讨论",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：豆瓣。",
-      "排名：豆瓣实时讨论第 9 名。",
-      "具体信息：现在教的学生都是天使宝宝来的。豆瓣小组实时热门讨论",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "豆瓣",
-        "title": "现在教的学生都是天使宝宝来的",
-        "url": "https://www.douban.com/group/topic/499432909/?_spm_id=Mjk1MzUyMzAz",
-        "description": "豆瓣小组实时热门讨论",
-        "paragraphs": [
-          "豆瓣小组实时热门讨论"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "豆瓣",
-        "title": "现在教的学生都是天使宝宝来的",
-        "url": "https://www.douban.com/group/topic/499432909/?_spm_id=Mjk1MzUyMzAz",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "豆瓣榜单页",
-        "title": "豆瓣实时讨论",
-        "url": "https://www.douban.com/group/explore",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-豆瓣实时讨论-10-E5A49CE6999AE59CA8E6898BE5B890E9878C",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "豆瓣实时讨论",
-    "titleZh": "夜晚在手帐里和自己独处",
-    "summaryZh": "2026-09-15 豆瓣第 10 名。豆瓣小组实时热门讨论",
-    "whyItMatters": "收录原因：进入豆瓣实时讨论前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "豆瓣",
-      "豆瓣",
-      "讨论"
-    ],
-    "rank": 10,
-    "heatScore": 73,
-    "importanceScore": 73,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "豆瓣实时讨论",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：豆瓣。",
-      "排名：豆瓣实时讨论第 10 名。",
-      "具体信息：夜晚在手帐里和自己独处。豆瓣小组实时热门讨论",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "豆瓣",
-        "title": "夜晚在手帐里和自己独处",
-        "url": "https://www.douban.com/group/topic/499351979/?_spm_id=NDM0ODcxNw",
-        "description": "豆瓣小组实时热门讨论",
-        "paragraphs": [
-          "豆瓣小组实时热门讨论"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "豆瓣",
-        "title": "夜晚在手帐里和自己独处",
-        "url": "https://www.douban.com/group/topic/499351979/?_spm_id=NDM0ODcxNw",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "豆瓣榜单页",
-        "title": "豆瓣实时讨论",
-        "url": "https://www.douban.com/group/explore",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-知乎热榜-1-E585ACE8818CE4BABAE59198E98689E9A9BE",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-知乎热榜-1-E5A682E4BD95E8AF84E4BBB7E6B998E99B85",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "知乎热榜",
-    "titleZh": "公职人员醉驾致一对夫妻身亡，夫妻被判负次要责任引家属不满，如何从法律角度解读这一主次责任划分",
-    "summaryZh": "2026-09-15 摸摸鱼 · 知乎热榜第 1 名，热度 1674.0万。知乎热榜 · 1674 万",
+    "titleZh": "如何评价湘雅医院23 年未见父母，每天睡 2 小时教师 PPT 争议影响如何是否存在夸大及其它相关问题",
+    "summaryZh": "2026-09-16 摸摸鱼 · 知乎热榜第 1 名，热度 423.0万。知乎热榜 · 423 万",
     "whyItMatters": "收录原因：进入知乎热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -3992,47 +3992,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 知乎热榜。",
-      "排名：知乎热榜第 1 名，热度 1674.0万。",
-      "具体信息：公职人员醉驾致一对夫妻身亡，夫妻被判负次要责任引家属不满，如何从法律角度解读这一主次责任划分。知乎热榜 · 1674 万",
+      "排名：知乎热榜第 1 名，热度 423.0万。",
+      "具体信息：如何评价湘雅医院23 年未见父母，每天睡 2 小时教师 PPT 争议影响如何是否存在夸大及其它相关问题。知乎热榜 · 423 万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "公职人员醉驾致一对夫妻身亡，夫妻被判负次要责任引家属不满，如何从法律角度解读这一主次责任划分",
-        "url": "https://www.zhihu.com/question/2082857360892981337",
-        "description": "知乎热榜 · 1674 万",
+        "title": "如何评价湘雅医院23 年未见父母，每天睡 2 小时教师 PPT 争议影响如何是否存在夸大及其它相关问题",
+        "url": "https://www.zhihu.com/question/2083244063277503296",
+        "description": "知乎热榜 · 423 万",
         "paragraphs": [
-          "知乎热榜 · 1674 万"
+          "知乎热榜 · 423 万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "公职人员醉驾致一对夫妻身亡，夫妻被判负次要责任引家属不满，如何从法律角度解读这一主次责任划分",
-        "url": "https://www.zhihu.com/question/2082857360892981337",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "如何评价湘雅医院23 年未见父母，每天睡 2 小时教师 PPT 争议影响如何是否存在夸大及其它相关问题",
+        "url": "https://www.zhihu.com/question/2083244063277503296",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 知乎热榜榜单页",
         "title": "知乎热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-知乎热榜-2-E5A5B3E5AD90E68B8DE588B0E9AA87E4BABA",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-知乎热榜-2-E9B8A1E5A682E69E9CE59083E4BA86E6B0B4",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "知乎热榜",
-    "titleZh": "女子拍到骇人巨型蜗牛引热议，它可能是哪种物种会带来哪些潜在风险",
-    "summaryZh": "2026-09-15 摸摸鱼 · 知乎热榜第 2 名，热度 667.0万。知乎热榜 · 667 万",
+    "titleZh": "鸡如果吃了水蛭，水蛭可以钻破鸡的肠胃，长期在鸡的体内吸血吗",
+    "summaryZh": "2026-09-16 摸摸鱼 · 知乎热榜第 2 名，热度 335.0万。知乎热榜 · 335 万",
     "whyItMatters": "收录原因：进入知乎热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -4053,47 +4053,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 知乎热榜。",
-      "排名：知乎热榜第 2 名，热度 667.0万。",
-      "具体信息：女子拍到骇人巨型蜗牛引热议，它可能是哪种物种会带来哪些潜在风险。知乎热榜 · 667 万",
+      "排名：知乎热榜第 2 名，热度 335.0万。",
+      "具体信息：鸡如果吃了水蛭，水蛭可以钻破鸡的肠胃，长期在鸡的体内吸血吗。知乎热榜 · 335 万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "女子拍到骇人巨型蜗牛引热议，它可能是哪种物种会带来哪些潜在风险",
-        "url": "https://www.zhihu.com/question/2082541154080388332",
-        "description": "知乎热榜 · 667 万",
+        "title": "鸡如果吃了水蛭，水蛭可以钻破鸡的肠胃，长期在鸡的体内吸血吗",
+        "url": "https://www.zhihu.com/question/1947010301284286955",
+        "description": "知乎热榜 · 335 万",
         "paragraphs": [
-          "知乎热榜 · 667 万"
+          "知乎热榜 · 335 万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "女子拍到骇人巨型蜗牛引热议，它可能是哪种物种会带来哪些潜在风险",
-        "url": "https://www.zhihu.com/question/2082541154080388332",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "鸡如果吃了水蛭，水蛭可以钻破鸡的肠胃，长期在鸡的体内吸血吗",
+        "url": "https://www.zhihu.com/question/1947010301284286955",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 知乎热榜榜单页",
         "title": "知乎热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-知乎热榜-3-E7BD91E58F8BE8AFB4E5868DE9AB98E7ABAF",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-知乎热榜-3-820E5B281E5A5B3E5ADA9E8A2ABE794B7E5A",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "知乎热榜",
-    "titleZh": "网友说再高端的场所给服务人员低工资也是低端场所，你怎么看这一说法",
-    "summaryZh": "2026-09-15 摸摸鱼 · 知乎热榜第 3 名，热度 413.0万。知乎热榜 · 413 万",
+    "titleZh": "8 岁女孩被男孩推倒威胁，用手表报警，围观者笑她浪费警力，民警否认并调监控检查伤势，如何看待此举",
+    "summaryZh": "2026-09-16 摸摸鱼 · 知乎热榜第 3 名，热度 301.0万。知乎热榜 · 301 万",
     "whyItMatters": "收录原因：进入知乎热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -4114,47 +4114,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 知乎热榜。",
-      "排名：知乎热榜第 3 名，热度 413.0万。",
-      "具体信息：网友说再高端的场所给服务人员低工资也是低端场所，你怎么看这一说法。知乎热榜 · 413 万",
+      "排名：知乎热榜第 3 名，热度 301.0万。",
+      "具体信息：8 岁女孩被男孩推倒威胁，用手表报警，围观者笑她浪费警力，民警否认并调监控检查伤势，如何看待此举。知乎热榜 · 301 万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "网友说再高端的场所给服务人员低工资也是低端场所，你怎么看这一说法",
-        "url": "https://www.zhihu.com/question/2082890668079145032",
-        "description": "知乎热榜 · 413 万",
+        "title": "8 岁女孩被男孩推倒威胁，用手表报警，围观者笑她浪费警力，民警否认并调监控检查伤势，如何看待此举",
+        "url": "https://www.zhihu.com/question/2083160484220515329",
+        "description": "知乎热榜 · 301 万",
         "paragraphs": [
-          "知乎热榜 · 413 万"
+          "知乎热榜 · 301 万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "网友说再高端的场所给服务人员低工资也是低端场所，你怎么看这一说法",
-        "url": "https://www.zhihu.com/question/2082890668079145032",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "8 岁女孩被男孩推倒威胁，用手表报警，围观者笑她浪费警力，民警否认并调监控检查伤势，如何看待此举",
+        "url": "https://www.zhihu.com/question/2083160484220515329",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 知乎热榜榜单页",
         "title": "知乎热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-知乎热榜-4-HYROX20E5A496E59BBDE98089E6898BE6AF9",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-知乎热榜-4-E9878EE4BABAE58588E7949FE5889BE5A78B",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "知乎热榜",
-    "titleZh": "HYROX 外国选手比赛中失禁，主办方未叫停比赛未进行罚时等处罚，对其他选手公平吗怎样处理更合理",
-    "summaryZh": "2026-09-15 摸摸鱼 · 知乎热榜第 4 名，热度 289.0万。知乎热榜 · 289 万",
+    "titleZh": "野人先生创始人曾回应 38 元一个冰淇淋太贵，称自己的品牌把行业价格打下来了，客观来看这个定价合理吗",
+    "summaryZh": "2026-09-16 摸摸鱼 · 知乎热榜第 4 名，热度 231.0万。知乎热榜 · 231 万",
     "whyItMatters": "收录原因：进入知乎热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -4175,47 +4175,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 知乎热榜。",
-      "排名：知乎热榜第 4 名，热度 289.0万。",
-      "具体信息：HYROX 外国选手比赛中失禁，主办方未叫停比赛未进行罚时等处罚，对其他选手公平吗怎样处理更合理。知乎热榜 · 289 万",
+      "排名：知乎热榜第 4 名，热度 231.0万。",
+      "具体信息：野人先生创始人曾回应 38 元一个冰淇淋太贵，称自己的品牌把行业价格打下来了，客观来看这个定价合理吗。知乎热榜 · 231 万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "HYROX 外国选手比赛中失禁，主办方未叫停比赛未进行罚时等处罚，对其他选手公平吗怎样处理更合理",
-        "url": "https://www.zhihu.com/question/2082790895720429331",
-        "description": "知乎热榜 · 289 万",
+        "title": "野人先生创始人曾回应 38 元一个冰淇淋太贵，称自己的品牌把行业价格打下来了，客观来看这个定价合理吗",
+        "url": "https://www.zhihu.com/question/2083215665414895312",
+        "description": "知乎热榜 · 231 万",
         "paragraphs": [
-          "知乎热榜 · 289 万"
+          "知乎热榜 · 231 万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "HYROX 外国选手比赛中失禁，主办方未叫停比赛未进行罚时等处罚，对其他选手公平吗怎样处理更合理",
-        "url": "https://www.zhihu.com/question/2082790895720429331",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "野人先生创始人曾回应 38 元一个冰淇淋太贵，称自己的品牌把行业价格打下来了，客观来看这个定价合理吗",
+        "url": "https://www.zhihu.com/question/2083215665414895312",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 知乎热榜榜单页",
         "title": "知乎热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-知乎热榜-5-E69C89E593AAE4BA9BE5B08FE697B6E58099",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-知乎热榜-5-E9B8BFE89299E699BAE8A18CE4B8BAE4BD95",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "知乎热榜",
-    "titleZh": "有哪些小时候的科学常识现在被证实是伪知识",
-    "summaryZh": "2026-09-15 摸摸鱼 · 知乎热榜第 5 名，热度 252.0万。知乎热榜 · 252 万",
+    "titleZh": "鸿蒙智行为何要在此时调整与赛力斯合作模式，并让华为隐居幕后此次调整会影响华为 5 年不下场造车吗",
+    "summaryZh": "2026-09-16 摸摸鱼 · 知乎热榜第 5 名，热度 222.0万。知乎热榜 · 222 万",
     "whyItMatters": "收录原因：进入知乎热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -4236,47 +4236,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 知乎热榜。",
-      "排名：知乎热榜第 5 名，热度 252.0万。",
-      "具体信息：有哪些小时候的科学常识现在被证实是伪知识。知乎热榜 · 252 万",
+      "排名：知乎热榜第 5 名，热度 222.0万。",
+      "具体信息：鸿蒙智行为何要在此时调整与赛力斯合作模式，并让华为隐居幕后此次调整会影响华为 5 年不下场造车吗。知乎热榜 · 222 万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "有哪些小时候的科学常识现在被证实是伪知识",
-        "url": "https://www.zhihu.com/question/6364037251",
-        "description": "知乎热榜 · 252 万",
+        "title": "鸿蒙智行为何要在此时调整与赛力斯合作模式，并让华为隐居幕后此次调整会影响华为 5 年不下场造车吗",
+        "url": "https://www.zhihu.com/question/2083273181008064732",
+        "description": "知乎热榜 · 222 万",
         "paragraphs": [
-          "知乎热榜 · 252 万"
+          "知乎热榜 · 222 万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "有哪些小时候的科学常识现在被证实是伪知识",
-        "url": "https://www.zhihu.com/question/6364037251",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "鸿蒙智行为何要在此时调整与赛力斯合作模式，并让华为隐居幕后此次调整会影响华为 5 年不下场造车吗",
+        "url": "https://www.zhihu.com/question/2083273181008064732",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 知乎热榜榜单页",
         "title": "知乎热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-知乎热榜-6-Anthropic20E4B880E7A094E7A9B6E59198E",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-知乎热榜-6-E5A682E4BD95E79C8BE5BE85E58E82E4BA8C",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "知乎热榜",
-    "titleZh": "Anthropic 一研究员辞职示警称 AI 可能在未来十年内毁灭人类，巨头拿人类生命作赌，如何看待该观点",
-    "summaryZh": "2026-09-15 摸摸鱼 · 知乎热榜第 6 名，热度 156.0万。知乎热榜 · 156 万",
+    "titleZh": "如何看待厂二代拍工厂宣传视频被网友评论区追问职工福利如何为啥大家开始反感这类厂二代视频了",
+    "summaryZh": "2026-09-16 摸摸鱼 · 知乎热榜第 6 名，热度 218.0万。知乎热榜 · 218 万",
     "whyItMatters": "收录原因：进入知乎热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -4297,47 +4297,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 知乎热榜。",
-      "排名：知乎热榜第 6 名，热度 156.0万。",
-      "具体信息：Anthropic 一研究员辞职示警称 AI 可能在未来十年内毁灭人类，巨头拿人类生命作赌，如何看待该观点。知乎热榜 · 156 万",
+      "排名：知乎热榜第 6 名，热度 218.0万。",
+      "具体信息：如何看待厂二代拍工厂宣传视频被网友评论区追问职工福利如何为啥大家开始反感这类厂二代视频了。知乎热榜 · 218 万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "Anthropic 一研究员辞职示警称 AI 可能在未来十年内毁灭人类，巨头拿人类生命作赌，如何看待该观点",
-        "url": "https://www.zhihu.com/question/2081735347436778562",
-        "description": "知乎热榜 · 156 万",
+        "title": "如何看待厂二代拍工厂宣传视频被网友评论区追问职工福利如何为啥大家开始反感这类厂二代视频了",
+        "url": "https://www.zhihu.com/question/2083290620022317685",
+        "description": "知乎热榜 · 218 万",
         "paragraphs": [
-          "知乎热榜 · 156 万"
+          "知乎热榜 · 218 万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "Anthropic 一研究员辞职示警称 AI 可能在未来十年内毁灭人类，巨头拿人类生命作赌，如何看待该观点",
-        "url": "https://www.zhihu.com/question/2081735347436778562",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "如何看待厂二代拍工厂宣传视频被网友评论区追问职工福利如何为啥大家开始反感这类厂二代视频了",
+        "url": "https://www.zhihu.com/question/2083290620022317685",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 知乎热榜榜单页",
         "title": "知乎热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-知乎热榜-7-E99FA9E59BBDE882A1E5B882E6ADA3E5BC8F",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-知乎热榜-7-E5A682E4BD95E79C8BE5BE85E88BB1E4BC9F",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "知乎热榜",
-    "titleZh": "韩国股市正式开启夜盘，交易延长至晚上 8 点，对散户和量化基金分别有什么影响",
-    "summaryZh": "2026-09-15 摸摸鱼 · 知乎热榜第 7 名，热度 156.0万。知乎热榜 · 156 万",
+    "titleZh": "如何看待英伟达 Palantir 等金主集体限制 Anthropic Claude 使用",
+    "summaryZh": "2026-09-16 摸摸鱼 · 知乎热榜第 7 名，热度 213.0万。知乎热榜 · 213 万",
     "whyItMatters": "收录原因：进入知乎热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -4358,47 +4358,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 知乎热榜。",
-      "排名：知乎热榜第 7 名，热度 156.0万。",
-      "具体信息：韩国股市正式开启夜盘，交易延长至晚上 8 点，对散户和量化基金分别有什么影响。知乎热榜 · 156 万",
+      "排名：知乎热榜第 7 名，热度 213.0万。",
+      "具体信息：如何看待英伟达 Palantir 等金主集体限制 Anthropic Claude 使用。知乎热榜 · 213 万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "韩国股市正式开启夜盘，交易延长至晚上 8 点，对散户和量化基金分别有什么影响",
-        "url": "https://www.zhihu.com/question/2082761713787707788",
-        "description": "知乎热榜 · 156 万",
+        "title": "如何看待英伟达 Palantir 等金主集体限制 Anthropic Claude 使用",
+        "url": "https://www.zhihu.com/question/2083117744707352472",
+        "description": "知乎热榜 · 213 万",
         "paragraphs": [
-          "知乎热榜 · 156 万"
+          "知乎热榜 · 213 万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "韩国股市正式开启夜盘，交易延长至晚上 8 点，对散户和量化基金分别有什么影响",
-        "url": "https://www.zhihu.com/question/2082761713787707788",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "如何看待英伟达 Palantir 等金主集体限制 Anthropic Claude 使用",
+        "url": "https://www.zhihu.com/question/2083117744707352472",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 知乎热榜榜单页",
         "title": "知乎热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-知乎热榜-8-E4BA8EE4B89CE69DA5E59B9EE5BA94E88396",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-知乎热榜-8-E4B8BAE4BB80E4B988E59CA8E58C97E4BAAC",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "知乎热榜",
-    "titleZh": "于东来回应胖东来新员工实行四年合同制称未违反劳动法，此举是为培养更多懂健康生活的群体，你怎么看",
-    "summaryZh": "2026-09-15 摸摸鱼 · 知乎热榜第 8 名，热度 143.0万。知乎热榜 · 143 万",
+    "titleZh": "为什么在北京，大家对于通勤的忍受度这么高",
+    "summaryZh": "2026-09-16 摸摸鱼 · 知乎热榜第 8 名，热度 171.0万。知乎热榜 · 171 万",
     "whyItMatters": "收录原因：进入知乎热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -4419,47 +4419,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 知乎热榜。",
-      "排名：知乎热榜第 8 名，热度 143.0万。",
-      "具体信息：于东来回应胖东来新员工实行四年合同制称未违反劳动法，此举是为培养更多懂健康生活的群体，你怎么看。知乎热榜 · 143 万",
+      "排名：知乎热榜第 8 名，热度 171.0万。",
+      "具体信息：为什么在北京，大家对于通勤的忍受度这么高。知乎热榜 · 171 万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "于东来回应胖东来新员工实行四年合同制称未违反劳动法，此举是为培养更多懂健康生活的群体，你怎么看",
-        "url": "https://www.zhihu.com/question/2082930658993595019",
-        "description": "知乎热榜 · 143 万",
+        "title": "为什么在北京，大家对于通勤的忍受度这么高",
+        "url": "https://www.zhihu.com/question/2056391510673855704",
+        "description": "知乎热榜 · 171 万",
         "paragraphs": [
-          "知乎热榜 · 143 万"
+          "知乎热榜 · 171 万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 知乎热榜",
-        "title": "于东来回应胖东来新员工实行四年合同制称未违反劳动法，此举是为培养更多懂健康生活的群体，你怎么看",
-        "url": "https://www.zhihu.com/question/2082930658993595019",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "为什么在北京，大家对于通勤的忍受度这么高",
+        "url": "https://www.zhihu.com/question/2056391510673855704",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 知乎热榜榜单页",
         "title": "知乎热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-豆瓣热话-1-E68891E8B5B0E8BF87E79A84E581A5E8BAAB",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-豆瓣热话-1-E68EA7E7B396E5B8A6E7BB99E68891E79A84",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "豆瓣热话",
-    "titleZh": "我走过的健身弯路",
-    "summaryZh": "2026-09-15 摸摸鱼 · 豆瓣热话第 1 名。豆瓣热话",
+    "titleZh": "控糖带给我的变化",
+    "summaryZh": "2026-09-16 摸摸鱼 · 豆瓣热话第 1 名。豆瓣热话",
     "whyItMatters": "收录原因：进入豆瓣热话前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -4480,9 +4480,70 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 豆瓣热话。",
       "排名：豆瓣热话第 1 名。",
+      "具体信息：控糖带给我的变化。豆瓣热话",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · 豆瓣热话",
+        "title": "控糖带给我的变化",
+        "url": "https://www.douban.com/gallery/topic/3667714/",
+        "description": "豆瓣热话",
+        "paragraphs": [
+          "豆瓣热话"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · 豆瓣热话",
+        "title": "控糖带给我的变化",
+        "url": "https://www.douban.com/gallery/topic/3667714/",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · 豆瓣热话榜单页",
+        "title": "豆瓣热话",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-豆瓣热话-2-E68891E8B5B0E8BF87E79A84E581A5E8BAAB",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "豆瓣热话",
+    "titleZh": "我走过的健身弯路",
+    "summaryZh": "2026-09-16 摸摸鱼 · 豆瓣热话第 2 名。豆瓣热话",
+    "whyItMatters": "收录原因：进入豆瓣热话前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · 豆瓣热话",
+      "摸摸鱼",
+      "豆瓣热话"
+    ],
+    "rank": 2,
+    "heatScore": 97,
+    "importanceScore": 97,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "豆瓣热话",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · 豆瓣热话。",
+      "排名：豆瓣热话第 2 名。",
       "具体信息：我走过的健身弯路。豆瓣热话",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
@@ -4496,7 +4557,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "豆瓣热话"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -4504,84 +4565,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "摸摸鱼 · 豆瓣热话",
         "title": "我走过的健身弯路",
         "url": "https://www.douban.com/gallery/topic/3667713/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 豆瓣热话榜单页",
         "title": "豆瓣热话",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-豆瓣热话-2-E68993E5B7A5E4BABAE698AFE8BF99E6A0B7",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-豆瓣热话-3-E68993E5B7A5E4BABAE698AFE8BF99E6A0B7",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "豆瓣热话",
     "titleZh": "打工人是这样哄自己上班的",
-    "summaryZh": "2026-09-15 摸摸鱼 · 豆瓣热话第 2 名。豆瓣热话",
-    "whyItMatters": "收录原因：进入豆瓣热话前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · 豆瓣热话",
-      "摸摸鱼",
-      "豆瓣热话"
-    ],
-    "rank": 2,
-    "heatScore": 97,
-    "importanceScore": 97,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "豆瓣热话",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · 豆瓣热话。",
-      "排名：豆瓣热话第 2 名。",
-      "具体信息：打工人是这样哄自己上班的。豆瓣热话",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · 豆瓣热话",
-        "title": "打工人是这样哄自己上班的",
-        "url": "https://www.douban.com/gallery/topic/3667712/",
-        "description": "豆瓣热话",
-        "paragraphs": [
-          "豆瓣热话"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · 豆瓣热话",
-        "title": "打工人是这样哄自己上班的",
-        "url": "https://www.douban.com/gallery/topic/3667712/",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · 豆瓣热话榜单页",
-        "title": "豆瓣热话",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-豆瓣热话-3-E79C9FE6ADA3E79A84E887AAE794B1E698AF",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "豆瓣热话",
-    "titleZh": "真正的自由是通过拥有向内审视的空间和时间实现的",
-    "summaryZh": "2026-09-15 摸摸鱼 · 豆瓣热话第 3 名。豆瓣热话",
+    "summaryZh": "2026-09-16 摸摸鱼 · 豆瓣热话第 3 名，热度 1280。豆瓣热话 · 1280",
     "whyItMatters": "收录原因：进入豆瓣热话前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -4602,9 +4602,70 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 豆瓣热话。",
-      "排名：豆瓣热话第 3 名。",
+      "排名：豆瓣热话第 3 名，热度 1280。",
+      "具体信息：打工人是这样哄自己上班的。豆瓣热话 · 1280",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · 豆瓣热话",
+        "title": "打工人是这样哄自己上班的",
+        "url": "https://www.douban.com/gallery/topic/3667712/",
+        "description": "豆瓣热话 · 1280",
+        "paragraphs": [
+          "豆瓣热话 · 1280"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · 豆瓣热话",
+        "title": "打工人是这样哄自己上班的",
+        "url": "https://www.douban.com/gallery/topic/3667712/",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · 豆瓣热话榜单页",
+        "title": "豆瓣热话",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-豆瓣热话-4-E79C9FE6ADA3E79A84E887AAE794B1E698AF",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "豆瓣热话",
+    "titleZh": "真正的自由是通过拥有向内审视的空间和时间实现的",
+    "summaryZh": "2026-09-16 摸摸鱼 · 豆瓣热话第 4 名。豆瓣热话",
+    "whyItMatters": "收录原因：进入豆瓣热话前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · 豆瓣热话",
+      "摸摸鱼",
+      "豆瓣热话"
+    ],
+    "rank": 4,
+    "heatScore": 91,
+    "importanceScore": 91,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "豆瓣热话",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · 豆瓣热话。",
+      "排名：豆瓣热话第 4 名。",
       "具体信息：真正的自由是通过拥有向内审视的空间和时间实现的。豆瓣热话",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
@@ -4618,7 +4679,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "豆瓣热话"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -4626,23 +4687,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "摸摸鱼 · 豆瓣热话",
         "title": "真正的自由是通过拥有向内审视的空间和时间实现的",
         "url": "https://www.douban.com/gallery/topic/3667711/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 豆瓣热话榜单页",
         "title": "豆瓣热话",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-豆瓣热话-4-E7BE8EE5A699E4BABAE7949FE79A84E585B3",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-豆瓣热话-5-E7BE8EE5A699E4BABAE7949FE79A84E585B3",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "豆瓣热话",
     "titleZh": "美妙人生的关键在于你能迷上什么东西",
-    "summaryZh": "2026-09-15 摸摸鱼 · 豆瓣热话第 4 名。豆瓣热话",
+    "summaryZh": "2026-09-16 摸摸鱼 · 豆瓣热话第 5 名。豆瓣热话",
     "whyItMatters": "收录原因：进入豆瓣热话前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -4653,9 +4714,9 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "摸摸鱼",
       "豆瓣热话"
     ],
-    "rank": 4,
-    "heatScore": 91,
-    "importanceScore": 91,
+    "rank": 5,
+    "heatScore": 88,
+    "importanceScore": 88,
     "confidence": "confirmed",
     "thumbnailUrl": "",
     "preferenceTags": [
@@ -4663,9 +4724,9 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 豆瓣热话。",
-      "排名：豆瓣热话第 4 名。",
+      "排名：豆瓣热话第 5 名。",
       "具体信息：美妙人生的关键在于你能迷上什么东西。豆瓣热话",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
@@ -4679,7 +4740,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "豆瓣热话"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -4687,23 +4748,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "摸摸鱼 · 豆瓣热话",
         "title": "美妙人生的关键在于你能迷上什么东西",
         "url": "https://www.douban.com/gallery/topic/3667710/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 豆瓣热话榜单页",
         "title": "豆瓣热话",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-豆瓣热话-5-E68A8AE7A78BE5A4A9E7BB87E8BF9BE6AF9B",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-豆瓣热话-6-E68A8AE7A78BE5A4A9E7BB87E8BF9BE6AF9B",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "豆瓣热话",
     "titleZh": "把秋天织进毛线里",
-    "summaryZh": "2026-09-15 摸摸鱼 · 豆瓣热话第 5 名。豆瓣热话",
+    "summaryZh": "2026-09-16 摸摸鱼 · 豆瓣热话第 6 名。豆瓣热话",
     "whyItMatters": "收录原因：进入豆瓣热话前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -4714,9 +4775,9 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "摸摸鱼",
       "豆瓣热话"
     ],
-    "rank": 5,
-    "heatScore": 88,
-    "importanceScore": 88,
+    "rank": 6,
+    "heatScore": 85,
+    "importanceScore": 85,
     "confidence": "confirmed",
     "thumbnailUrl": "",
     "preferenceTags": [
@@ -4724,9 +4785,9 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 豆瓣热话。",
-      "排名：豆瓣热话第 5 名。",
+      "排名：豆瓣热话第 6 名。",
       "具体信息：把秋天织进毛线里。豆瓣热话",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
@@ -4740,7 +4801,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "豆瓣热话"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -4748,23 +4809,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "摸摸鱼 · 豆瓣热话",
         "title": "把秋天织进毛线里",
         "url": "https://www.douban.com/gallery/topic/3667709/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 豆瓣热话榜单页",
         "title": "豆瓣热话",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-豆瓣热话-6-E7BB99E785A7E78987E58AA0E5AD97E5B995",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-豆瓣热话-7-E7BB99E785A7E78987E58AA0E5AD97E5B995",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "豆瓣热话",
     "titleZh": "给照片加字幕会快乐",
-    "summaryZh": "2026-09-15 摸摸鱼 · 豆瓣热话第 6 名。豆瓣热话",
+    "summaryZh": "2026-09-16 摸摸鱼 · 豆瓣热话第 7 名。豆瓣热话",
     "whyItMatters": "收录原因：进入豆瓣热话前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -4775,9 +4836,9 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "摸摸鱼",
       "豆瓣热话"
     ],
-    "rank": 6,
-    "heatScore": 85,
-    "importanceScore": 85,
+    "rank": 7,
+    "heatScore": 82,
+    "importanceScore": 82,
     "confidence": "confirmed",
     "thumbnailUrl": "",
     "preferenceTags": [
@@ -4785,9 +4846,9 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 豆瓣热话。",
-      "排名：豆瓣热话第 6 名。",
+      "排名：豆瓣热话第 7 名。",
       "具体信息：给照片加字幕会快乐。豆瓣热话",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
@@ -4801,7 +4862,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "豆瓣热话"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -4809,23 +4870,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "摸摸鱼 · 豆瓣热话",
         "title": "给照片加字幕会快乐",
         "url": "https://www.douban.com/gallery/topic/3667708/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 豆瓣热话榜单页",
         "title": "豆瓣热话",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-豆瓣热话-7-E68891E79A84E7A78BE5ADA3E79C81E992B1",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-豆瓣热话-8-E68891E79A84E7A78BE5ADA3E79C81E992B1",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "豆瓣热话",
     "titleZh": "我的秋季省钱版穿搭",
-    "summaryZh": "2026-09-15 摸摸鱼 · 豆瓣热话第 7 名。豆瓣热话",
+    "summaryZh": "2026-09-16 摸摸鱼 · 豆瓣热话第 8 名。豆瓣热话",
     "whyItMatters": "收录原因：进入豆瓣热话前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -4836,9 +4897,9 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "摸摸鱼",
       "豆瓣热话"
     ],
-    "rank": 7,
-    "heatScore": 82,
-    "importanceScore": 82,
+    "rank": 8,
+    "heatScore": 79,
+    "importanceScore": 79,
     "confidence": "confirmed",
     "thumbnailUrl": "",
     "preferenceTags": [
@@ -4846,9 +4907,9 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 豆瓣热话。",
-      "排名：豆瓣热话第 7 名。",
+      "排名：豆瓣热话第 8 名。",
       "具体信息：我的秋季省钱版穿搭。豆瓣热话",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
@@ -4862,7 +4923,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "豆瓣热话"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -4870,84 +4931,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "摸摸鱼 · 豆瓣热话",
         "title": "我的秋季省钱版穿搭",
         "url": "https://www.douban.com/gallery/topic/3667638/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 豆瓣热话榜单页",
         "title": "豆瓣热话",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-豆瓣热话-8-E5A4A7E5ADA6E4BD8FE5AEBFE5859AE5BF85",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "豆瓣热话",
-    "titleZh": "大学住宿党必备好物分享",
-    "summaryZh": "2026-09-15 摸摸鱼 · 豆瓣热话第 8 名，热度 1.1万。豆瓣热话 · 1.1万",
-    "whyItMatters": "收录原因：进入豆瓣热话前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · 豆瓣热话",
-      "摸摸鱼",
-      "豆瓣热话"
-    ],
-    "rank": 8,
-    "heatScore": 79,
-    "importanceScore": 79,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "豆瓣热话",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · 豆瓣热话。",
-      "排名：豆瓣热话第 8 名，热度 1.1万。",
-      "具体信息：大学住宿党必备好物分享。豆瓣热话 · 1.1万",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · 豆瓣热话",
-        "title": "大学住宿党必备好物分享",
-        "url": "https://www.douban.com/gallery/topic/3667707/",
-        "description": "豆瓣热话 · 1.1万",
-        "paragraphs": [
-          "豆瓣热话 · 1.1万"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · 豆瓣热话",
-        "title": "大学住宿党必备好物分享",
-        "url": "https://www.douban.com/gallery/topic/3667707/",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · 豆瓣热话榜单页",
-        "title": "豆瓣热话",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-微博热搜-1-E887AAE7A7B0E6BC94E594B1E4BC9AE6B182",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-微博热搜-1-E99A90E7BF85E899ABE8A2ABE5A5B3E7949F",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "微博热搜",
-    "titleZh": "自称演唱会求婚事件当事人发声",
-    "summaryZh": "2026-09-15 摸摸鱼 · 微博热搜第 1 名，热度 153.2万。微博热搜 · 153.2万",
+    "titleZh": "隐翅虫被女生用手掐着玩",
+    "summaryZh": "2026-09-16 摸摸鱼 · 微博热搜第 1 名，热度 123.7万。微博热搜 · 123.7万",
     "whyItMatters": "收录原因：进入微博热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -4968,47 +4968,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 微博热搜。",
-      "排名：微博热搜第 1 名，热度 153.2万。",
-      "具体信息：自称演唱会求婚事件当事人发声。微博热搜 · 153.2万",
+      "排名：微博热搜第 1 名，热度 123.7万。",
+      "具体信息：隐翅虫被女生用手掐着玩。微博热搜 · 123.7万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "自称演唱会求婚事件当事人发声",
-        "url": "https://s.weibo.com/weibo?q=%23自称演唱会求婚事件当事人发声%23",
-        "description": "微博热搜 · 153.2万",
+        "title": "隐翅虫被女生用手掐着玩",
+        "url": "https://s.weibo.com/weibo?q=%23隐翅虫被女生用手掐着玩%23",
+        "description": "微博热搜 · 123.7万",
         "paragraphs": [
-          "微博热搜 · 153.2万"
+          "微博热搜 · 123.7万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "自称演唱会求婚事件当事人发声",
-        "url": "https://s.weibo.com/weibo?q=%23自称演唱会求婚事件当事人发声%23",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "隐翅虫被女生用手掐着玩",
+        "url": "https://s.weibo.com/weibo?q=%23隐翅虫被女生用手掐着玩%23",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 微博热搜榜单页",
         "title": "微博热搜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-微博热搜-2-E585B0E9A699E5A682E69585E9858DE8A792",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-微博热搜-2-E4B880E58AB3E6B0B8E980B8E8A7A3E586B3",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "微博热搜",
-    "titleZh": "兰香如故配角营销被吐槽",
-    "summaryZh": "2026-09-15 摸摸鱼 · 微博热搜第 2 名，热度 96.0万。微博热搜 · 96.0万",
+    "titleZh": "一劳永逸解决台湾问题",
+    "summaryZh": "2026-09-16 摸摸鱼 · 微博热搜第 2 名，热度 101.8万。微博热搜 · 101.8万",
     "whyItMatters": "收录原因：进入微博热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5029,47 +5029,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 微博热搜。",
-      "排名：微博热搜第 2 名，热度 96.0万。",
-      "具体信息：兰香如故配角营销被吐槽。微博热搜 · 96.0万",
+      "排名：微博热搜第 2 名，热度 101.8万。",
+      "具体信息：一劳永逸解决台湾问题。微博热搜 · 101.8万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "兰香如故配角营销被吐槽",
-        "url": "https://s.weibo.com/weibo?q=%23兰香如故配角营销被吐槽%23",
-        "description": "微博热搜 · 96.0万",
+        "title": "一劳永逸解决台湾问题",
+        "url": "https://s.weibo.com/weibo?q=%23一劳永逸解决台湾问题%23",
+        "description": "微博热搜 · 101.8万",
         "paragraphs": [
-          "微博热搜 · 96.0万"
+          "微博热搜 · 101.8万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "兰香如故配角营销被吐槽",
-        "url": "https://s.weibo.com/weibo?q=%23兰香如故配角营销被吐槽%23",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "一劳永逸解决台湾问题",
+        "url": "https://s.weibo.com/weibo?q=%23一劳永逸解决台湾问题%23",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 微博热搜榜单页",
         "title": "微博热搜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-微博热搜-3-E4B8ADE59BBDE4BABAE68C96E8BF90E6B2B3",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-微博热搜-3-E5AFB9E5A496E8B4B8E69893E5BFABE9809F",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "微博热搜",
-    "titleZh": "中国人挖运河顺手造万亩良田",
-    "summaryZh": "2026-09-15 摸摸鱼 · 微博热搜第 3 名，热度 74.7万。微博热搜 · 74.7万",
+    "titleZh": "对外贸易快速增长",
+    "summaryZh": "2026-09-16 摸摸鱼 · 微博热搜第 3 名，热度 95.6万。微博热搜 · 95.6万",
     "whyItMatters": "收录原因：进入微博热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5090,47 +5090,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 微博热搜。",
-      "排名：微博热搜第 3 名，热度 74.7万。",
-      "具体信息：中国人挖运河顺手造万亩良田。微博热搜 · 74.7万",
+      "排名：微博热搜第 3 名，热度 95.6万。",
+      "具体信息：对外贸易快速增长。微博热搜 · 95.6万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "中国人挖运河顺手造万亩良田",
-        "url": "https://s.weibo.com/weibo?q=%23中国人挖运河顺手造万亩良田%23",
-        "description": "微博热搜 · 74.7万",
+        "title": "对外贸易快速增长",
+        "url": "https://s.weibo.com/weibo?q=%23对外贸易快速增长%23",
+        "description": "微博热搜 · 95.6万",
         "paragraphs": [
-          "微博热搜 · 74.7万"
+          "微博热搜 · 95.6万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "中国人挖运河顺手造万亩良田",
-        "url": "https://s.weibo.com/weibo?q=%23中国人挖运河顺手造万亩良田%23",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "对外贸易快速增长",
+        "url": "https://s.weibo.com/weibo?q=%23对外贸易快速增长%23",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 微博热搜榜单页",
         "title": "微博热搜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-微博热搜-4-E4BAABE7958CG9E680BBE69C89E4BAABE6B3",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-微博热搜-4-E585A8E696B0E79086E683B3i9E4BB8AE697",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "微博热搜",
-    "titleZh": "享界G9总有享法在路上",
-    "summaryZh": "2026-09-15 摸摸鱼 · 微博热搜第 4 名，热度 72.4万。微博热搜 · 72.4万",
+    "titleZh": "全新理想i9今日上市",
+    "summaryZh": "2026-09-16 摸摸鱼 · 微博热搜第 4 名，热度 95.6万。微博热搜 · 95.6万",
     "whyItMatters": "收录原因：进入微博热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5151,47 +5151,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 微博热搜。",
-      "排名：微博热搜第 4 名，热度 72.4万。",
-      "具体信息：享界G9总有享法在路上。微博热搜 · 72.4万",
+      "排名：微博热搜第 4 名，热度 95.6万。",
+      "具体信息：全新理想i9今日上市。微博热搜 · 95.6万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "享界G9总有享法在路上",
-        "url": "https://s.weibo.com/weibo?q=%23享界G9总有享法在路上%23",
-        "description": "微博热搜 · 72.4万",
+        "title": "全新理想i9今日上市",
+        "url": "https://s.weibo.com/weibo?q=%23全新理想i9今日上市%23",
+        "description": "微博热搜 · 95.6万",
         "paragraphs": [
-          "微博热搜 · 72.4万"
+          "微博热搜 · 95.6万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "享界G9总有享法在路上",
-        "url": "https://s.weibo.com/weibo?q=%23享界G9总有享法在路上%23",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "全新理想i9今日上市",
+        "url": "https://s.weibo.com/weibo?q=%23全新理想i9今日上市%23",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 微博热搜榜单页",
         "title": "微博热搜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-微博热搜-5-E68891E59BBDE781B5E6B4BBE5B0B1E4B89A",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-微博热搜-5-E58F91E69C8BE58F8BE59C88E8A681E69C89",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "微博热搜",
-    "titleZh": "我国灵活就业人员规模已超过2亿人",
-    "summaryZh": "2026-09-15 摸摸鱼 · 微博热搜第 5 名，热度 71.8万。微博热搜 · 71.8万",
+    "titleZh": "发朋友圈要有滞后性",
+    "summaryZh": "2026-09-16 摸摸鱼 · 微博热搜第 5 名，热度 94.8万。微博热搜 · 94.8万",
     "whyItMatters": "收录原因：进入微博热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5212,47 +5212,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 微博热搜。",
-      "排名：微博热搜第 5 名，热度 71.8万。",
-      "具体信息：我国灵活就业人员规模已超过2亿人。微博热搜 · 71.8万",
+      "排名：微博热搜第 5 名，热度 94.8万。",
+      "具体信息：发朋友圈要有滞后性。微博热搜 · 94.8万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "我国灵活就业人员规模已超过2亿人",
-        "url": "https://s.weibo.com/weibo?q=%23我国灵活就业人员规模已超过2亿人%23",
-        "description": "微博热搜 · 71.8万",
+        "title": "发朋友圈要有滞后性",
+        "url": "https://s.weibo.com/weibo?q=%23发朋友圈要有滞后性%23",
+        "description": "微博热搜 · 94.8万",
         "paragraphs": [
-          "微博热搜 · 71.8万"
+          "微博热搜 · 94.8万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "我国灵活就业人员规模已超过2亿人",
-        "url": "https://s.weibo.com/weibo?q=%23我国灵活就业人员规模已超过2亿人%23",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "发朋友圈要有滞后性",
+        "url": "https://s.weibo.com/weibo?q=%23发朋友圈要有滞后性%23",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 微博热搜榜单页",
         "title": "微博热搜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-微博热搜-6-E78C95E78CB4E6A183E698AFE585A8E4B896",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-微博热搜-6-E4BC98E985B72027E5B9B4E5BAA6E78987E5",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "微博热搜",
-    "titleZh": "猕猴桃是全世界最团结的水果",
-    "summaryZh": "2026-09-15 摸摸鱼 · 微博热搜第 6 名，热度 70.0万。微博热搜 · 70.0万",
+    "titleZh": "优酷2027年度片单",
+    "summaryZh": "2026-09-16 摸摸鱼 · 微博热搜第 6 名，热度 93.8万。微博热搜 · 93.8万",
     "whyItMatters": "收录原因：进入微博热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5273,47 +5273,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 微博热搜。",
-      "排名：微博热搜第 6 名，热度 70.0万。",
-      "具体信息：猕猴桃是全世界最团结的水果。微博热搜 · 70.0万",
+      "排名：微博热搜第 6 名，热度 93.8万。",
+      "具体信息：优酷2027年度片单。微博热搜 · 93.8万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "猕猴桃是全世界最团结的水果",
-        "url": "https://s.weibo.com/weibo?q=%23猕猴桃是全世界最团结的水果%23",
-        "description": "微博热搜 · 70.0万",
+        "title": "优酷2027年度片单",
+        "url": "https://s.weibo.com/weibo?q=%23优酷2027年度片单%23",
+        "description": "微博热搜 · 93.8万",
         "paragraphs": [
-          "微博热搜 · 70.0万"
+          "微博热搜 · 93.8万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "猕猴桃是全世界最团结的水果",
-        "url": "https://s.weibo.com/weibo?q=%23猕猴桃是全世界最团结的水果%23",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "优酷2027年度片单",
+        "url": "https://s.weibo.com/weibo?q=%23优酷2027年度片单%23",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 微博热搜榜单页",
         "title": "微博热搜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-微博热搜-7-E889BEE6BB8BE79785E4BC9AE9809AE8BF87",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-微博热搜-7-E59BBDE4B992E587BAE5BE81E4BA9AE8BF90",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "微博热搜",
-    "titleZh": "艾滋病会通过接吻传播吗",
-    "summaryZh": "2026-09-15 摸摸鱼 · 微博热搜第 7 名，热度 58.7万。微博热搜 · 58.7万",
+    "titleZh": "国乒出征亚运会大合影",
+    "summaryZh": "2026-09-16 摸摸鱼 · 微博热搜第 7 名，热度 86.2万。微博热搜 · 86.2万",
     "whyItMatters": "收录原因：进入微博热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5334,47 +5334,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 微博热搜。",
-      "排名：微博热搜第 7 名，热度 58.7万。",
-      "具体信息：艾滋病会通过接吻传播吗。微博热搜 · 58.7万",
+      "排名：微博热搜第 7 名，热度 86.2万。",
+      "具体信息：国乒出征亚运会大合影。微博热搜 · 86.2万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "艾滋病会通过接吻传播吗",
-        "url": "https://s.weibo.com/weibo?q=%23艾滋病会通过接吻传播吗%23",
-        "description": "微博热搜 · 58.7万",
+        "title": "国乒出征亚运会大合影",
+        "url": "https://s.weibo.com/weibo?q=%23国乒出征亚运会大合影%23",
+        "description": "微博热搜 · 86.2万",
         "paragraphs": [
-          "微博热搜 · 58.7万"
+          "微博热搜 · 86.2万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "艾滋病会通过接吻传播吗",
-        "url": "https://s.weibo.com/weibo?q=%23艾滋病会通过接吻传播吗%23",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "国乒出征亚运会大合影",
+        "url": "https://s.weibo.com/weibo?q=%23国乒出征亚运会大合影%23",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 微博热搜榜单页",
         "title": "微博热搜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-微博热搜-8-E9BB84E6968CE7BD97E6B0B8E6B5A920E4B8",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-微博热搜-8-E5BCA0E5878CE8B5ABE5AE89E5858BE59381",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "微博热搜",
-    "titleZh": "黄斌罗永浩 一物降一物",
-    "summaryZh": "2026-09-15 摸摸鱼 · 微博热搜第 8 名，热度 56.4万。微博热搜 · 56.4万",
+    "titleZh": "张凌赫安克品牌代言人",
+    "summaryZh": "2026-09-16 摸摸鱼 · 微博热搜第 8 名，热度 81.9万。微博热搜 · 81.9万",
     "whyItMatters": "收录原因：进入微博热搜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5395,47 +5395,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 微博热搜。",
-      "排名：微博热搜第 8 名，热度 56.4万。",
-      "具体信息：黄斌罗永浩 一物降一物。微博热搜 · 56.4万",
+      "排名：微博热搜第 8 名，热度 81.9万。",
+      "具体信息：张凌赫安克品牌代言人。微博热搜 · 81.9万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "黄斌罗永浩 一物降一物",
-        "url": "https://s.weibo.com/weibo?q=%23黄斌罗永浩 一物降一物%23",
-        "description": "微博热搜 · 56.4万",
+        "title": "张凌赫安克品牌代言人",
+        "url": "https://s.weibo.com/weibo?q=%23张凌赫安克品牌代言人%23",
+        "description": "微博热搜 · 81.9万",
         "paragraphs": [
-          "微博热搜 · 56.4万"
+          "微博热搜 · 81.9万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 微博热搜",
-        "title": "黄斌罗永浩 一物降一物",
-        "url": "https://s.weibo.com/weibo?q=%23黄斌罗永浩 一物降一物%23",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "张凌赫安克品牌代言人",
+        "url": "https://s.weibo.com/weibo?q=%23张凌赫安克品牌代言人%23",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 微博热搜榜单页",
         "title": "微博热搜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-今日头条-1-E88BB9E69E9CE59B9EE5BA94iPhone201820",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-今日头条-1-E5B494E5A4A9E587AFEFBC9AE4B880E58AB3",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "今日头条",
-    "titleZh": "苹果回应iPhone 18 Pro破发",
-    "summaryZh": "2026-09-15 摸摸鱼 · 今日头条第 1 名。今日头条",
+    "titleZh": "崔天凯：一劳永逸解决台湾问题",
+    "summaryZh": "2026-09-16 摸摸鱼 · 今日头条第 1 名。今日头条",
     "whyItMatters": "收录原因：进入今日头条前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5456,47 +5456,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 今日头条。",
       "排名：今日头条第 1 名。",
-      "具体信息：苹果回应iPhone 18 Pro破发。今日头条",
+      "具体信息：崔天凯：一劳永逸解决台湾问题。今日头条",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "苹果回应iPhone 18 Pro破发",
-        "url": "https://www.toutiao.com/trending/7684654232915804202/?topic_id=7684654232915804202",
+        "title": "崔天凯：一劳永逸解决台湾问题",
+        "url": "https://www.toutiao.com/trending/7685701201656054318/?topic_id=7685701201656054318",
         "description": "今日头条",
         "paragraphs": [
           "今日头条"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "苹果回应iPhone 18 Pro破发",
-        "url": "https://www.toutiao.com/trending/7684654232915804202/?topic_id=7684654232915804202",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "崔天凯：一劳永逸解决台湾问题",
+        "url": "https://www.toutiao.com/trending/7685701201656054318/?topic_id=7685701201656054318",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 今日头条榜单页",
         "title": "今日头条",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-今日头条-2-E585A8E994AEE79B98E78988E2809CE99894",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-今日头条-2-E4B8ADE59BBDE4B8BAE4BB80E4B988E58F88",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "今日头条",
-    "titleZh": "全键盘版“阔直板”手机爆火",
-    "summaryZh": "2026-09-15 摸摸鱼 · 今日头条第 2 名。今日头条",
+    "titleZh": "中国为什么又和美国签署天然气长约",
+    "summaryZh": "2026-09-16 摸摸鱼 · 今日头条第 2 名。今日头条",
     "whyItMatters": "收录原因：进入今日头条前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5517,47 +5517,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 今日头条。",
       "排名：今日头条第 2 名。",
-      "具体信息：全键盘版“阔直板”手机爆火。今日头条",
+      "具体信息：中国为什么又和美国签署天然气长约。今日头条",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "全键盘版“阔直板”手机爆火",
-        "url": "https://www.toutiao.com/trending/7684950705249583123/?topic_id=7684950705249583123",
+        "title": "中国为什么又和美国签署天然气长约",
+        "url": "https://www.toutiao.com/trending/7685889359882489387/?topic_id=7685889359882489387",
         "description": "今日头条",
         "paragraphs": [
           "今日头条"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "全键盘版“阔直板”手机爆火",
-        "url": "https://www.toutiao.com/trending/7684950705249583123/?topic_id=7684950705249583123",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "中国为什么又和美国签署天然气长约",
+        "url": "https://www.toutiao.com/trending/7685889359882489387/?topic_id=7685889359882489387",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 今日头条榜单页",
         "title": "今日头条",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-今日头条-3-E68EA8E58AA8E581A5E5BAB7E4B8ADE59BBD",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-今日头条-3-E4B880E7BB84E695B0E68DAEE79C8B8E69C8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "今日头条",
-    "titleZh": "推动健康中国建设取得决定性进展",
-    "summaryZh": "2026-09-15 摸摸鱼 · 今日头条第 3 名。今日头条",
+    "titleZh": "一组数据看8月份国民经济运行平稳",
+    "summaryZh": "2026-09-16 摸摸鱼 · 今日头条第 3 名。今日头条",
     "whyItMatters": "收录原因：进入今日头条前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5578,47 +5578,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 今日头条。",
       "排名：今日头条第 3 名。",
-      "具体信息：推动健康中国建设取得决定性进展。今日头条",
+      "具体信息：一组数据看8月份国民经济运行平稳。今日头条",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "推动健康中国建设取得决定性进展",
-        "url": "https://www.toutiao.com/article/7685350977242792502?topic_id=undefined",
+        "title": "一组数据看8月份国民经济运行平稳",
+        "url": "https://www.toutiao.com/trending/7684590075107380772/?topic_id=7684590075107380772",
         "description": "今日头条",
         "paragraphs": [
           "今日头条"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "推动健康中国建设取得决定性进展",
-        "url": "https://www.toutiao.com/article/7685350977242792502?topic_id=undefined",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "一组数据看8月份国民经济运行平稳",
+        "url": "https://www.toutiao.com/trending/7684590075107380772/?topic_id=7684590075107380772",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 今日头条榜单页",
         "title": "今日头条",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-今日头条-4-E794B7E5AD90E59CA8E585ACE59BADE99293",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-今日头条-4-E58D8EE4B8BAE9AB98E5B182E58685E983A8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "今日头条",
-    "titleZh": "男子在公园钓到大鱼火速逃跑",
-    "summaryZh": "2026-09-15 摸摸鱼 · 今日头条第 4 名。今日头条",
+    "titleZh": "华为高层内部万字长文曝光",
+    "summaryZh": "2026-09-16 摸摸鱼 · 今日头条第 4 名。今日头条",
     "whyItMatters": "收录原因：进入今日头条前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5639,47 +5639,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 今日头条。",
       "排名：今日头条第 4 名。",
-      "具体信息：男子在公园钓到大鱼火速逃跑。今日头条",
+      "具体信息：华为高层内部万字长文曝光。今日头条",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "男子在公园钓到大鱼火速逃跑",
-        "url": "https://www.toutiao.com/trending/7684270988817334299/?topic_id=7684270988817334299",
+        "title": "华为高层内部万字长文曝光",
+        "url": "https://www.toutiao.com/trending/7684927339029577770/?topic_id=7684927339029577770",
         "description": "今日头条",
         "paragraphs": [
           "今日头条"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "男子在公园钓到大鱼火速逃跑",
-        "url": "https://www.toutiao.com/trending/7684270988817334299/?topic_id=7684270988817334299",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "华为高层内部万字长文曝光",
+        "url": "https://www.toutiao.com/trending/7684927339029577770/?topic_id=7684927339029577770",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 今日头条榜单页",
         "title": "今日头条",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-今日头条-5-E9BB91E9BE99E6B19FE4B889E98193E9B39E",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-今日头条-5-E4B880E7BABFE59F8EE5B882E688BFE4BBB7",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "今日头条",
-    "titleZh": "黑龙江三道鳞在上海身价暴涨一斤88元",
-    "summaryZh": "2026-09-15 摸摸鱼 · 今日头条第 5 名。今日头条",
+    "titleZh": "一线城市房价涨了",
+    "summaryZh": "2026-09-16 摸摸鱼 · 今日头条第 5 名。今日头条",
     "whyItMatters": "收录原因：进入今日头条前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5700,47 +5700,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 今日头条。",
       "排名：今日头条第 5 名。",
-      "具体信息：黑龙江三道鳞在上海身价暴涨一斤88元。今日头条",
+      "具体信息：一线城市房价涨了。今日头条",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "黑龙江三道鳞在上海身价暴涨一斤88元",
-        "url": "https://www.toutiao.com/trending/7685219822313963539/?topic_id=7685219822313963539",
+        "title": "一线城市房价涨了",
+        "url": "https://www.toutiao.com/trending/7685663412193447470/?topic_id=7685663412193447470",
         "description": "今日头条",
         "paragraphs": [
           "今日头条"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "黑龙江三道鳞在上海身价暴涨一斤88元",
-        "url": "https://www.toutiao.com/trending/7685219822313963539/?topic_id=7685219822313963539",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "一线城市房价涨了",
+        "url": "https://www.toutiao.com/trending/7685663412193447470/?topic_id=7685663412193447470",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 今日头条榜单页",
         "title": "今日头条",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-今日头条-6-E88396E4B89CE69DA5E2809CE4B88DE7BBAD",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-今日头条-6-E8A5BFE983A8E5A49AE4BA86E4B880E4B8AA",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "今日头条",
-    "titleZh": "胖东来“不续聘”违法吗律师解读",
-    "summaryZh": "2026-09-15 摸摸鱼 · 今日头条第 6 名。今日头条",
+    "titleZh": "西部多了一个“沿海城市”意味着什么",
+    "summaryZh": "2026-09-16 摸摸鱼 · 今日头条第 6 名。今日头条",
     "whyItMatters": "收录原因：进入今日头条前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5761,47 +5761,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 今日头条。",
       "排名：今日头条第 6 名。",
-      "具体信息：胖东来“不续聘”违法吗律师解读。今日头条",
+      "具体信息：西部多了一个“沿海城市”意味着什么。今日头条",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "胖东来“不续聘”违法吗律师解读",
-        "url": "https://www.toutiao.com/trending/7684242138602966582/?topic_id=7684242138602966582",
+        "title": "西部多了一个“沿海城市”意味着什么",
+        "url": "https://www.toutiao.com/trending/7685794948616142884/?topic_id=7685794948616142884",
         "description": "今日头条",
         "paragraphs": [
           "今日头条"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "胖东来“不续聘”违法吗律师解读",
-        "url": "https://www.toutiao.com/trending/7684242138602966582/?topic_id=7684242138602966582",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "西部多了一个“沿海城市”意味着什么",
+        "url": "https://www.toutiao.com/trending/7685794948616142884/?topic_id=7685794948616142884",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 今日头条榜单页",
         "title": "今日头条",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-今日头条-7-E697A5E69CACE9A696E79BB8E9AB98E5B882",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-今日头条-7-E69C89E4BABAE58692E58585E69D91E5B9B2",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "今日头条",
-    "titleZh": "日本首相高市早苗将于17日改组内阁",
-    "summaryZh": "2026-09-15 摸摸鱼 · 今日头条第 7 名。今日头条",
+    "titleZh": "有人冒充村干部直播带货 当地立案调查",
+    "summaryZh": "2026-09-16 摸摸鱼 · 今日头条第 7 名。今日头条",
     "whyItMatters": "收录原因：进入今日头条前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5822,47 +5822,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 今日头条。",
       "排名：今日头条第 7 名。",
-      "具体信息：日本首相高市早苗将于17日改组内阁。今日头条",
+      "具体信息：有人冒充村干部直播带货 当地立案调查。今日头条",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "日本首相高市早苗将于17日改组内阁",
-        "url": "https://www.toutiao.com/trending/7685371720198291507/?topic_id=7685371720198291507",
+        "title": "有人冒充村干部直播带货 当地立案调查",
+        "url": "https://www.toutiao.com/trending/7685826976929628196/?topic_id=7685826976929628196",
         "description": "今日头条",
         "paragraphs": [
           "今日头条"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "日本首相高市早苗将于17日改组内阁",
-        "url": "https://www.toutiao.com/trending/7685371720198291507/?topic_id=7685371720198291507",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "有人冒充村干部直播带货 当地立案调查",
+        "url": "https://www.toutiao.com/trending/7685826976929628196/?topic_id=7685826976929628196",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 今日头条榜单页",
         "title": "今日头条",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-今日头条-8-E6B5B7E58D97E7BB8FE58E861958E5B9B4E4",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-今日头条-8-E5A4AEE8A786E68BBFE4B88BE697A5E69CAC",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "今日头条",
-    "titleZh": "海南经历1958年以来第四强降水过程",
-    "summaryZh": "2026-09-15 摸摸鱼 · 今日头条第 8 名。今日头条",
+    "titleZh": "央视拿下日本名古屋亚运会主转播权",
+    "summaryZh": "2026-09-16 摸摸鱼 · 今日头条第 8 名。今日头条",
     "whyItMatters": "收录原因：进入今日头条前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5883,47 +5883,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 今日头条。",
       "排名：今日头条第 8 名。",
-      "具体信息：海南经历1958年以来第四强降水过程。今日头条",
+      "具体信息：央视拿下日本名古屋亚运会主转播权。今日头条",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "海南经历1958年以来第四强降水过程",
-        "url": "https://www.toutiao.com/trending/7685384084847247881/?topic_id=7685384084847247881",
+        "title": "央视拿下日本名古屋亚运会主转播权",
+        "url": "https://www.toutiao.com/trending/7685776806846156351/?topic_id=7685776806846156351",
         "description": "今日头条",
         "paragraphs": [
           "今日头条"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 今日头条",
-        "title": "海南经历1958年以来第四强降水过程",
-        "url": "https://www.toutiao.com/trending/7685384084847247881/?topic_id=7685384084847247881",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "央视拿下日本名古屋亚运会主转播权",
+        "url": "https://www.toutiao.com/trending/7685776806846156351/?topic_id=7685776806846156351",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 今日头条榜单页",
         "title": "今日头条",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎扑热榜-1-E58F91E78EB0E88081E5A986E79691E4BCBC",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎扑热榜-1-E88081E585B5E69C80E5969CE6ACA2E8BF99",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎扑热榜",
-    "titleZh": "发现老婆疑似出轨他领导，如何报复",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎扑步行街第 1 名，热度 60。虎扑步行街 · 60回复",
+    "titleZh": "老兵最喜欢这样的刺头，保证半个月之内把刺拔的干干净净的",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎扑步行街第 1 名，热度 17。虎扑步行街 · 17回复",
     "whyItMatters": "收录原因：进入虎扑热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -5944,47 +5944,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎扑步行街。",
-      "排名：虎扑热榜第 1 名，热度 60。",
-      "具体信息：发现老婆疑似出轨他领导，如何报复。虎扑步行街 · 60回复",
+      "排名：虎扑热榜第 1 名，热度 17。",
+      "具体信息：老兵最喜欢这样的刺头，保证半个月之内把刺拔的干干净净的。虎扑步行街 · 17回复",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "发现老婆疑似出轨他领导，如何报复",
-        "url": "https://bbs.hupu.com/642425125.html",
-        "description": "虎扑步行街 · 60回复",
+        "title": "老兵最喜欢这样的刺头，保证半个月之内把刺拔的干干净净的",
+        "url": "https://bbs.hupu.com/642438503.html",
+        "description": "虎扑步行街 · 17回复",
         "paragraphs": [
-          "虎扑步行街 · 60回复"
+          "虎扑步行街 · 17回复"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "发现老婆疑似出轨他领导，如何报复",
-        "url": "https://bbs.hupu.com/642425125.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "老兵最喜欢这样的刺头，保证半个月之内把刺拔的干干净净的",
+        "url": "https://bbs.hupu.com/642438503.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎扑步行街榜单页",
         "title": "虎扑热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎扑热榜-2-E697A9E68A95E8838EE7B3BBE58897EFBC8C",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎扑热榜-2-E68891E6B885E699B0E6B885E6A59AE79A84",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎扑热榜",
-    "titleZh": "早投胎系列，但是这代驾的代价太大了！这辈子算是完了。",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎扑步行街第 2 名，热度 43。虎扑步行街 · 43回复",
+    "titleZh": "我清晰清楚的记得2008年的时候公务员就是不如普通打工的JR们有这方面印象吗",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎扑步行街第 2 名，热度 30。虎扑步行街 · 30回复",
     "whyItMatters": "收录原因：进入虎扑热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -6005,47 +6005,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎扑步行街。",
-      "排名：虎扑热榜第 2 名，热度 43。",
-      "具体信息：早投胎系列，但是这代驾的代价太大了！这辈子算是完了。。虎扑步行街 · 43回复",
+      "排名：虎扑热榜第 2 名，热度 30。",
+      "具体信息：我清晰清楚的记得2008年的时候公务员就是不如普通打工的JR们有这方面印象吗。虎扑步行街 · 30回复",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "早投胎系列，但是这代驾的代价太大了！这辈子算是完了。",
-        "url": "https://bbs.hupu.com/642425254.html",
-        "description": "虎扑步行街 · 43回复",
+        "title": "我清晰清楚的记得2008年的时候公务员就是不如普通打工的JR们有这方面印象吗",
+        "url": "https://bbs.hupu.com/642438649.html",
+        "description": "虎扑步行街 · 30回复",
         "paragraphs": [
-          "虎扑步行街 · 43回复"
+          "虎扑步行街 · 30回复"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "早投胎系列，但是这代驾的代价太大了！这辈子算是完了。",
-        "url": "https://bbs.hupu.com/642425254.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "我清晰清楚的记得2008年的时候公务员就是不如普通打工的JR们有这方面印象吗",
+        "url": "https://bbs.hupu.com/642438649.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎扑步行街榜单页",
         "title": "虎扑热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎扑热榜-3-E59084E4BD8DE697A9E4B88AE5A5BD",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎扑热榜-3-E4B880E4B8AAE587BAE8BDA8E4BABAE79A84",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎扑热榜",
-    "titleZh": "各位早上好",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎扑步行街第 3 名，热度 29。虎扑步行街 · 29回复",
+    "titleZh": "一个出轨人的碎碎念",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎扑步行街第 3 名，热度 29。虎扑步行街 · 29回复",
     "whyItMatters": "收录原因：进入虎扑热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -6066,47 +6066,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎扑步行街。",
       "排名：虎扑热榜第 3 名，热度 29。",
-      "具体信息：各位早上好。虎扑步行街 · 29回复",
+      "具体信息：一个出轨人的碎碎念。虎扑步行街 · 29回复",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "各位早上好",
-        "url": "https://bbs.hupu.com/642425334.html",
+        "title": "一个出轨人的碎碎念",
+        "url": "https://bbs.hupu.com/642438648.html",
         "description": "虎扑步行街 · 29回复",
         "paragraphs": [
           "虎扑步行街 · 29回复"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "各位早上好",
-        "url": "https://bbs.hupu.com/642425334.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "一个出轨人的碎碎念",
+        "url": "https://bbs.hupu.com/642438648.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎扑步行街榜单页",
         "title": "虎扑热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎扑热榜-4-E8BF99E5B0B1E698AFE5B9B4E8BDBBE4BABA",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎扑热榜-4-E5869CE6B091E5B7A5E4B8ADE58D88E59083",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎扑热榜",
-    "titleZh": "这就是年轻人不愿意进厂的原因！",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎扑步行街第 4 名，热度 12。虎扑步行街 · 12回复",
+    "titleZh": "农民工中午吃饭为什么都喜欢喝一瓶啤酒呢",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎扑步行街第 4 名，热度 121。虎扑步行街 · 121回复",
     "whyItMatters": "收录原因：进入虎扑热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -6127,47 +6127,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎扑步行街。",
-      "排名：虎扑热榜第 4 名，热度 12。",
-      "具体信息：这就是年轻人不愿意进厂的原因！。虎扑步行街 · 12回复",
+      "排名：虎扑热榜第 4 名，热度 121。",
+      "具体信息：农民工中午吃饭为什么都喜欢喝一瓶啤酒呢。虎扑步行街 · 121回复",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "这就是年轻人不愿意进厂的原因！",
-        "url": "https://bbs.hupu.com/642425274.html",
-        "description": "虎扑步行街 · 12回复",
+        "title": "农民工中午吃饭为什么都喜欢喝一瓶啤酒呢",
+        "url": "https://bbs.hupu.com/642434169.html",
+        "description": "虎扑步行街 · 121回复",
         "paragraphs": [
-          "虎扑步行街 · 12回复"
+          "虎扑步行街 · 121回复"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "这就是年轻人不愿意进厂的原因！",
-        "url": "https://bbs.hupu.com/642425274.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "农民工中午吃饭为什么都喜欢喝一瓶啤酒呢",
+        "url": "https://bbs.hupu.com/642434169.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎扑步行街榜单页",
         "title": "虎扑热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎扑热榜-5-E4B8A4E5A4A7E58E86E58FB2E58F91E6988E",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎扑热榜-5-E5B79DE680BBE7BB99E6ADA3E59CA8E58F82",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎扑热榜",
-    "titleZh": "两大历史发明家，老梁和腾飞共聚美国，肉身检验“人人持枪”到底乱不乱",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎扑步行街第 5 名，热度 336。虎扑步行街 · 336回复",
+    "titleZh": "川总给正在参加活动的黄仁勋打电话，结果老黄全程免提了",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎扑步行街第 5 名，热度 113。虎扑步行街 · 113回复",
     "whyItMatters": "收录原因：进入虎扑热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -6188,47 +6188,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎扑步行街。",
-      "排名：虎扑热榜第 5 名，热度 336。",
-      "具体信息：两大历史发明家，老梁和腾飞共聚美国，肉身检验“人人持枪”到底乱不乱。虎扑步行街 · 336回复",
+      "排名：虎扑热榜第 5 名，热度 113。",
+      "具体信息：川总给正在参加活动的黄仁勋打电话，结果老黄全程免提了。虎扑步行街 · 113回复",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "两大历史发明家，老梁和腾飞共聚美国，肉身检验“人人持枪”到底乱不乱",
-        "url": "https://bbs.hupu.com/642418682.html",
-        "description": "虎扑步行街 · 336回复",
+        "title": "川总给正在参加活动的黄仁勋打电话，结果老黄全程免提了",
+        "url": "https://bbs.hupu.com/642431611.html",
+        "description": "虎扑步行街 · 113回复",
         "paragraphs": [
-          "虎扑步行街 · 336回复"
+          "虎扑步行街 · 113回复"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "两大历史发明家，老梁和腾飞共聚美国，肉身检验“人人持枪”到底乱不乱",
-        "url": "https://bbs.hupu.com/642418682.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "川总给正在参加活动的黄仁勋打电话，结果老黄全程免提了",
+        "url": "https://bbs.hupu.com/642431611.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎扑步行街榜单页",
         "title": "虎扑热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎扑热榜-6-E9A9ACE794B2E593A5E8BF99E6B3A2E6938D",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎扑热榜-6-E8AFB4E59BBDE5869BE4B88DE68A97E697A5",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎扑热榜",
-    "titleZh": "马甲哥这波操作什么水平",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎扑步行街第 6 名，热度 32。虎扑步行街 · 32回复",
+    "titleZh": "说国军不抗日的，进来看看。",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎扑步行街第 6 名，热度 89。虎扑步行街 · 89回复",
     "whyItMatters": "收录原因：进入虎扑热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -6249,47 +6249,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎扑步行街。",
-      "排名：虎扑热榜第 6 名，热度 32。",
-      "具体信息：马甲哥这波操作什么水平。虎扑步行街 · 32回复",
+      "排名：虎扑热榜第 6 名，热度 89。",
+      "具体信息：说国军不抗日的，进来看看。。虎扑步行街 · 89回复",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "马甲哥这波操作什么水平",
-        "url": "https://bbs.hupu.com/642424301.html",
-        "description": "虎扑步行街 · 32回复",
+        "title": "说国军不抗日的，进来看看。",
+        "url": "https://bbs.hupu.com/642436110.html",
+        "description": "虎扑步行街 · 89回复",
         "paragraphs": [
-          "虎扑步行街 · 32回复"
+          "虎扑步行街 · 89回复"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "马甲哥这波操作什么水平",
-        "url": "https://bbs.hupu.com/642424301.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "说国军不抗日的，进来看看。",
+        "url": "https://bbs.hupu.com/642436110.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎扑步行街榜单页",
         "title": "虎扑热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎扑热榜-7-E4B88BE8B59BE5ADA3E883BDE4B88DE883BD",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎扑热榜-7-i7E7BAA6E4BC9AE697A5E5B8B8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎扑热榜",
-    "titleZh": "下赛季能不能看到克城大庆典，登哥就差一个冠军生涯就完美了。下赛季实力相比上赛季上升了一大截且上赛季已经打进了东部决赛，下赛季很有希望登顶联盟，登哥米神继续带领骑士冲吧！求求了，拿下冠军，圆梦2027吧",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎扑步行街第 7 名，热度 18。虎扑步行街 · 18回复",
+    "titleZh": "i7约会日常",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎扑步行街第 7 名，热度 27。虎扑步行街 · 27回复",
     "whyItMatters": "收录原因：进入虎扑热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -6310,47 +6310,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎扑步行街。",
-      "排名：虎扑热榜第 7 名，热度 18。",
-      "具体信息：下赛季能不能看到克城大庆典，登哥就差一个冠军生涯就完美了。下赛季实力相比上赛季上升了一大截且上赛季已经打进了东部决赛，下赛季很有希望登顶联盟，登哥米神继续带领骑士冲吧！求求了，拿下冠军，圆梦2027吧。虎扑步行街 · 18回复",
+      "排名：虎扑热榜第 7 名，热度 27。",
+      "具体信息：i7约会日常。虎扑步行街 · 27回复",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "下赛季能不能看到克城大庆典，登哥就差一个冠军生涯就完美了。下赛季实力相比上赛季上升了一大截且上赛季已经打进了东部决赛，下赛季很有希望登顶联盟，登哥米神继续带领骑士冲吧！求求了，拿下冠军，圆梦2027吧",
-        "url": "https://bbs.hupu.com/642424450.html",
-        "description": "虎扑步行街 · 18回复",
+        "title": "i7约会日常",
+        "url": "https://bbs.hupu.com/642434037.html",
+        "description": "虎扑步行街 · 27回复",
         "paragraphs": [
-          "虎扑步行街 · 18回复"
+          "虎扑步行街 · 27回复"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "下赛季能不能看到克城大庆典，登哥就差一个冠军生涯就完美了。下赛季实力相比上赛季上升了一大截且上赛季已经打进了东部决赛，下赛季很有希望登顶联盟，登哥米神继续带领骑士冲吧！求求了，拿下冠军，圆梦2027吧",
-        "url": "https://bbs.hupu.com/642424450.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "i7约会日常",
+        "url": "https://bbs.hupu.com/642434037.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎扑步行街榜单页",
         "title": "虎扑热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎扑热榜-8-E99A8FE4BEBFE5868DE58F91E58F91EFBC8C",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎扑热榜-8-2003E5B9B4E983ADE5BEB7E7BAB2EFBC9AE4",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎扑热榜",
-    "titleZh": "随便再发发，上条喷子太多就删了",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎扑步行街第 8 名，热度 41。虎扑步行街 · 41回复",
+    "titleZh": "2003年郭德纲：为挣4000块钱被关橱窗48小时，万人观看他吃喝拉撒",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎扑步行街第 8 名，热度 44。虎扑步行街 · 44回复",
     "whyItMatters": "收录原因：进入虎扑热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -6371,47 +6371,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎扑步行街。",
-      "排名：虎扑热榜第 8 名，热度 41。",
-      "具体信息：随便再发发，上条喷子太多就删了。虎扑步行街 · 41回复",
+      "排名：虎扑热榜第 8 名，热度 44。",
+      "具体信息：2003年郭德纲：为挣4000块钱被关橱窗48小时，万人观看他吃喝拉撒。虎扑步行街 · 44回复",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "随便再发发，上条喷子太多就删了",
-        "url": "https://bbs.hupu.com/642421940.html",
-        "description": "虎扑步行街 · 41回复",
+        "title": "2003年郭德纲：为挣4000块钱被关橱窗48小时，万人观看他吃喝拉撒",
+        "url": "https://bbs.hupu.com/642432579.html",
+        "description": "虎扑步行街 · 44回复",
         "paragraphs": [
-          "虎扑步行街 · 41回复"
+          "虎扑步行街 · 44回复"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎扑步行街",
-        "title": "随便再发发，上条喷子太多就删了",
-        "url": "https://bbs.hupu.com/642421940.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "2003年郭德纲：为挣4000块钱被关橱窗48小时，万人观看他吃喝拉撒",
+        "url": "https://bbs.hupu.com/642432579.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎扑步行街榜单页",
         "title": "虎扑热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站聚合热榜-1-E6809DE8B7AFE68993E5BC80EFBC8CE794A8",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站聚合热榜-1-E6809DE8B7AFE68993E5BC80EFBC8CE794A8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站聚合热榜",
     "titleZh": "思路打开，用擦丝器解锁旋风薯塔！懒人不开火实现烤肉自由，今天的烤猪蹄简直夯爆了！",
-    "summaryZh": "2026-09-15 摸摸鱼 · B站第 1 名。B站 · 美食记录",
+    "summaryZh": "2026-09-16 摸摸鱼 · B站第 1 名。B站 · 美食记录",
     "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -6432,7 +6432,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · B站。",
       "排名：B站聚合热榜第 1 名。",
       "具体信息：思路打开，用擦丝器解锁旋风薯塔！懒人不开火实现烤肉自由，今天的烤猪蹄简直夯爆了！。B站 · 美食记录",
@@ -6448,7 +6448,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "B站 · 美食记录"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -6456,23 +6456,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "摸摸鱼 · B站",
         "title": "思路打开，用擦丝器解锁旋风薯塔！懒人不开火实现烤肉自由，今天的烤猪蹄简直夯爆了！",
         "url": "https://www.bilibili.com/BV1TEYX62EMp",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · B站榜单页",
         "title": "B站聚合热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站聚合热榜-2-E6A8A1E4BBBFE6B4BEE5AFB9EFBC8CE9858D",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站聚合热榜-2-E3808AE58E9FE7A59EE3808BE585ADE591A8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站聚合热榜",
-    "titleZh": "模仿派对，配音挑战大赛",
-    "summaryZh": "2026-09-15 摸摸鱼 · B站第 2 名。B站 · 单机游戏",
+    "titleZh": "《原神》六周年配音演员祝福-循音致远的足迹",
+    "summaryZh": "2026-09-16 摸摸鱼 · B站第 2 名。B站 · 手机游戏",
     "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -6493,47 +6493,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · B站。",
       "排名：B站聚合热榜第 2 名。",
-      "具体信息：模仿派对，配音挑战大赛。B站 · 单机游戏",
+      "具体信息：《原神》六周年配音演员祝福-循音致远的足迹。B站 · 手机游戏",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · B站",
-        "title": "模仿派对，配音挑战大赛",
-        "url": "https://www.bilibili.com/BV1ZqYX6YEsu",
-        "description": "B站 · 单机游戏",
+        "title": "《原神》六周年配音演员祝福-循音致远的足迹",
+        "url": "https://www.bilibili.com/BV1sdYZ6dEmq",
+        "description": "B站 · 手机游戏",
         "paragraphs": [
-          "B站 · 单机游戏"
+          "B站 · 手机游戏"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · B站",
-        "title": "模仿派对，配音挑战大赛",
-        "url": "https://www.bilibili.com/BV1ZqYX6YEsu",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "《原神》六周年配音演员祝福-循音致远的足迹",
+        "url": "https://www.bilibili.com/BV1sdYZ6dEmq",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · B站榜单页",
         "title": "B站聚合热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站聚合热榜-3-E2809CE4B880E9A5ADE6B8A9E68385E79BB8",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站聚合热榜-3-ReEFBC9AE4BB8EE99BB6E5BC80E5A78BE79A",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站聚合热榜",
-    "titleZh": "“一饭温情相赠，千里以报恩深.”红色高跟鞋DJ-降调涌泉相报小曲",
-    "summaryZh": "2026-09-15 摸摸鱼 · B站第 3 名。B站 · 音乐综合",
+    "titleZh": "Re：从零开始的异世界学园生活·序",
+    "summaryZh": "2026-09-16 摸摸鱼 · B站第 3 名。B站 · 影视剪辑",
     "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -6554,314 +6554,9 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · B站。",
       "排名：B站聚合热榜第 3 名。",
-      "具体信息：“一饭温情相赠，千里以报恩深.”红色高跟鞋DJ-降调涌泉相报小曲。B站 · 音乐综合",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · B站",
-        "title": "“一饭温情相赠，千里以报恩深.”红色高跟鞋DJ-降调涌泉相报小曲",
-        "url": "https://www.bilibili.com/BV1HUY76uEMJ",
-        "description": "B站 · 音乐综合",
-        "paragraphs": [
-          "B站 · 音乐综合"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · B站",
-        "title": "“一饭温情相赠，千里以报恩深.”红色高跟鞋DJ-降调涌泉相报小曲",
-        "url": "https://www.bilibili.com/BV1HUY76uEMJ",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · B站榜单页",
-        "title": "B站聚合热榜",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-B站聚合热榜-4-E3808AE58E9FE7A59EE3808B7.1E78988E69",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "B站聚合热榜",
-    "titleZh": "《原神》7.1版本PV：往冥府的安魂歌",
-    "summaryZh": "2026-09-15 摸摸鱼 · B站第 4 名。B站 · 手机游戏",
-    "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · B站",
-      "摸摸鱼",
-      "B站"
-    ],
-    "rank": 4,
-    "heatScore": 91,
-    "importanceScore": 91,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "B站聚合热榜",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · B站。",
-      "排名：B站聚合热榜第 4 名。",
-      "具体信息：《原神》7.1版本PV：往冥府的安魂歌。B站 · 手机游戏",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · B站",
-        "title": "《原神》7.1版本PV：往冥府的安魂歌",
-        "url": "https://www.bilibili.com/BV1yuY96rEL7",
-        "description": "B站 · 手机游戏",
-        "paragraphs": [
-          "B站 · 手机游戏"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · B站",
-        "title": "《原神》7.1版本PV：往冥府的安魂歌",
-        "url": "https://www.bilibili.com/BV1yuY96rEL7",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · B站榜单页",
-        "title": "B站聚合热榜",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-B站聚合热榜-5-E5A48FE5ADA3E79A84E6B8A9E9A6A8E7A28E",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "B站聚合热榜",
-    "titleZh": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
-    "summaryZh": "2026-09-15 摸摸鱼 · B站第 5 名。B站 · 日常",
-    "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · B站",
-      "摸摸鱼",
-      "B站"
-    ],
-    "rank": 5,
-    "heatScore": 88,
-    "importanceScore": 88,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "B站聚合热榜",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · B站。",
-      "排名：B站聚合热榜第 5 名。",
-      "具体信息：夏季的温馨碎片，重新剪到一起，准备再赚一次流量。B站 · 日常",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · B站",
-        "title": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
-        "url": "https://www.bilibili.com/BV1S5YE6HE9Q",
-        "description": "B站 · 日常",
-        "paragraphs": [
-          "B站 · 日常"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · B站",
-        "title": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
-        "url": "https://www.bilibili.com/BV1S5YE6HE9Q",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · B站榜单页",
-        "title": "B站聚合热榜",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-B站聚合热榜-6-E58EBBE4BA86E4B880E8B69FE5B1B1E8A5BF",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "B站聚合热榜",
-    "titleZh": "去了一趟山西。",
-    "summaryZh": "2026-09-15 摸摸鱼 · B站第 6 名。B站 · 数码",
-    "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · B站",
-      "摸摸鱼",
-      "B站"
-    ],
-    "rank": 6,
-    "heatScore": 85,
-    "importanceScore": 85,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "B站聚合热榜",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · B站。",
-      "排名：B站聚合热榜第 6 名。",
-      "具体信息：去了一趟山西。。B站 · 数码",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · B站",
-        "title": "去了一趟山西。",
-        "url": "https://www.bilibili.com/BV1xVY26dEbz",
-        "description": "B站 · 数码",
-        "paragraphs": [
-          "B站 · 数码"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · B站",
-        "title": "去了一趟山西。",
-        "url": "https://www.bilibili.com/BV1xVY26dEbz",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · B站榜单页",
-        "title": "B站聚合热榜",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-B站聚合热榜-7-E6A0A1E995BFE69DA5E595A6",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "B站聚合热榜",
-    "titleZh": "校长来啦",
-    "summaryZh": "2026-09-15 摸摸鱼 · B站第 7 名。B站 · 小剧场",
-    "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · B站",
-      "摸摸鱼",
-      "B站"
-    ],
-    "rank": 7,
-    "heatScore": 82,
-    "importanceScore": 82,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "B站聚合热榜",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · B站。",
-      "排名：B站聚合热榜第 7 名。",
-      "具体信息：校长来啦。B站 · 小剧场",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · B站",
-        "title": "校长来啦",
-        "url": "https://www.bilibili.com/BV1odY76aEio",
-        "description": "B站 · 小剧场",
-        "paragraphs": [
-          "B站 · 小剧场"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · B站",
-        "title": "校长来啦",
-        "url": "https://www.bilibili.com/BV1odY76aEio",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · B站榜单页",
-        "title": "B站聚合热榜",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-B站聚合热榜-8-ReEFBC9AE4BB8EE99BB6E5BC80E5A78BE79A",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "B站聚合热榜",
-    "titleZh": "Re：从零开始的异世界学园生活·序",
-    "summaryZh": "2026-09-15 摸摸鱼 · B站第 8 名。B站 · 影视剪辑",
-    "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · B站",
-      "摸摸鱼",
-      "B站"
-    ],
-    "rank": 8,
-    "heatScore": 79,
-    "importanceScore": 79,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "B站聚合热榜",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · B站。",
-      "排名：B站聚合热榜第 8 名。",
       "具体信息：Re：从零开始的异世界学园生活·序。B站 · 影视剪辑",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
@@ -6875,7 +6570,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "B站 · 影视剪辑"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -6883,23 +6578,328 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "摸摸鱼 · B站",
         "title": "Re：从零开始的异世界学园生活·序",
         "url": "https://www.bilibili.com/BV1PeYe69EWk",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · B站榜单页",
         "title": "B站聚合热榜",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-IT之家-1-E88BB9E69E9C20iOS202720E6ADA3E5BC8FE",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站聚合热榜-4-E6A8A1E4BBBFE6B4BEE5AFB9EFBC8CE9858D",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "B站聚合热榜",
+    "titleZh": "模仿派对，配音挑战大赛",
+    "summaryZh": "2026-09-16 摸摸鱼 · B站第 4 名。B站 · 单机游戏",
+    "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · B站",
+      "摸摸鱼",
+      "B站"
+    ],
+    "rank": 4,
+    "heatScore": 91,
+    "importanceScore": 91,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "B站聚合热榜",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · B站。",
+      "排名：B站聚合热榜第 4 名。",
+      "具体信息：模仿派对，配音挑战大赛。B站 · 单机游戏",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · B站",
+        "title": "模仿派对，配音挑战大赛",
+        "url": "https://www.bilibili.com/BV1ZqYX6YEsu",
+        "description": "B站 · 单机游戏",
+        "paragraphs": [
+          "B站 · 单机游戏"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · B站",
+        "title": "模仿派对，配音挑战大赛",
+        "url": "https://www.bilibili.com/BV1ZqYX6YEsu",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · B站榜单页",
+        "title": "B站聚合热榜",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-B站聚合热榜-5-E2809CE4B880E9A5ADE6B8A9E68385E79BB8",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "B站聚合热榜",
+    "titleZh": "“一饭温情相赠，千里以报恩深.”红色高跟鞋DJ-降调涌泉相报小曲",
+    "summaryZh": "2026-09-16 摸摸鱼 · B站第 5 名。B站 · 音乐综合",
+    "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · B站",
+      "摸摸鱼",
+      "B站"
+    ],
+    "rank": 5,
+    "heatScore": 88,
+    "importanceScore": 88,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "B站聚合热榜",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · B站。",
+      "排名：B站聚合热榜第 5 名。",
+      "具体信息：“一饭温情相赠，千里以报恩深.”红色高跟鞋DJ-降调涌泉相报小曲。B站 · 音乐综合",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · B站",
+        "title": "“一饭温情相赠，千里以报恩深.”红色高跟鞋DJ-降调涌泉相报小曲",
+        "url": "https://www.bilibili.com/BV1HUY76uEMJ",
+        "description": "B站 · 音乐综合",
+        "paragraphs": [
+          "B站 · 音乐综合"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · B站",
+        "title": "“一饭温情相赠，千里以报恩深.”红色高跟鞋DJ-降调涌泉相报小曲",
+        "url": "https://www.bilibili.com/BV1HUY76uEMJ",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · B站榜单页",
+        "title": "B站聚合热榜",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-B站聚合热榜-6-E2809CE6ADBBE4BAA1E4B88DE698AFE7BB88",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "B站聚合热榜",
+    "titleZh": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片AI全民制作人",
+    "summaryZh": "2026-09-16 摸摸鱼 · B站第 6 名。B站 · 影视剪辑",
+    "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · B站",
+      "摸摸鱼",
+      "B站"
+    ],
+    "rank": 6,
+    "heatScore": 85,
+    "importanceScore": 85,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "B站聚合热榜",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · B站。",
+      "排名：B站聚合热榜第 6 名。",
+      "具体信息：“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片AI全民制作人。B站 · 影视剪辑",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · B站",
+        "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片AI全民制作人",
+        "url": "https://www.bilibili.com/BV1PYYo6XEW9",
+        "description": "B站 · 影视剪辑",
+        "paragraphs": [
+          "B站 · 影视剪辑"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · B站",
+        "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片AI全民制作人",
+        "url": "https://www.bilibili.com/BV1PYYo6XEW9",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · B站榜单页",
+        "title": "B站聚合热榜",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-B站聚合热榜-7-E7ABA5E5B9B4E79A84E68D95E899ABE7BD91",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "B站聚合热榜",
+    "titleZh": "童年的捕虫网，依然在我们的手里——《伊莫》PC端预下载现已开启！",
+    "summaryZh": "2026-09-16 摸摸鱼 · B站第 7 名。B站 · 单机游戏",
+    "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · B站",
+      "摸摸鱼",
+      "B站"
+    ],
+    "rank": 7,
+    "heatScore": 82,
+    "importanceScore": 82,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "B站聚合热榜",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · B站。",
+      "排名：B站聚合热榜第 7 名。",
+      "具体信息：童年的捕虫网，依然在我们的手里——《伊莫》PC端预下载现已开启！。B站 · 单机游戏",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · B站",
+        "title": "童年的捕虫网，依然在我们的手里——《伊莫》PC端预下载现已开启！",
+        "url": "https://www.bilibili.com/BV1Dve565ENK",
+        "description": "B站 · 单机游戏",
+        "paragraphs": [
+          "B站 · 单机游戏"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · B站",
+        "title": "童年的捕虫网，依然在我们的手里——《伊莫》PC端预下载现已开启！",
+        "url": "https://www.bilibili.com/BV1Dve565ENK",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · B站榜单页",
+        "title": "B站聚合热榜",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-B站聚合热榜-8-E5A48FE5ADA3E79A84E6B8A9E9A6A8E7A28E",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "B站聚合热榜",
+    "titleZh": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
+    "summaryZh": "2026-09-16 摸摸鱼 · B站第 8 名。B站 · 日常",
+    "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · B站",
+      "摸摸鱼",
+      "B站"
+    ],
+    "rank": 8,
+    "heatScore": 79,
+    "importanceScore": 79,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "B站聚合热榜",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · B站。",
+      "排名：B站聚合热榜第 8 名。",
+      "具体信息：夏季的温馨碎片，重新剪到一起，准备再赚一次流量。B站 · 日常",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · B站",
+        "title": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
+        "url": "https://www.bilibili.com/BV1S5YE6HE9Q",
+        "description": "B站 · 日常",
+        "paragraphs": [
+          "B站 · 日常"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · B站",
+        "title": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
+        "url": "https://www.bilibili.com/BV1S5YE6HE9Q",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · B站榜单页",
+        "title": "B站聚合热榜",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-IT之家-1-E6B688E681AFE7A7B0E58D8EE4B8BAE5B086",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "IT之家",
-    "titleZh": "苹果 iOS 27 正式版前瞻：升级 Siri AI优化液态玻璃设计隔空投送提速 80%",
-    "summaryZh": "2026-09-15 摸摸鱼 · IT之家第 1 名。IT之家",
+    "titleZh": "消息称华为将采用轻资产方式与赛力斯合作，鸿蒙智行聚焦资源加速其他“四界”成功",
+    "summaryZh": "2026-09-16 摸摸鱼 · IT之家第 1 名。IT之家",
     "whyItMatters": "收录原因：进入IT之家前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -6920,47 +6920,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · IT之家。",
       "排名：IT之家第 1 名。",
-      "具体信息：苹果 iOS 27 正式版前瞻：升级 Siri AI优化液态玻璃设计隔空投送提速 80%。IT之家",
+      "具体信息：消息称华为将采用轻资产方式与赛力斯合作，鸿蒙智行聚焦资源加速其他“四界”成功。IT之家",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "苹果 iOS 27 正式版前瞻：升级 Siri AI优化液态玻璃设计隔空投送提速 80%",
-        "url": "https://www.ithome.com/1/001/921.htm",
+        "title": "消息称华为将采用轻资产方式与赛力斯合作，鸿蒙智行聚焦资源加速其他“四界”成功",
+        "url": "https://www.ithome.com/1/002/475.htm",
         "description": "IT之家",
         "paragraphs": [
           "IT之家"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "苹果 iOS 27 正式版前瞻：升级 Siri AI优化液态玻璃设计隔空投送提速 80%",
-        "url": "https://www.ithome.com/1/001/921.htm",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "消息称华为将采用轻资产方式与赛力斯合作，鸿蒙智行聚焦资源加速其他“四界”成功",
+        "url": "https://www.ithome.com/1/002/475.htm",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · IT之家榜单页",
         "title": "IT之家",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-IT之家-2-E6B688E681AFE7A7B0E88BB9E69E9CE58F91",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-IT之家-2-E5B08FE7B1B3201820Pro20E7B3BBE58897E",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "IT之家",
-    "titleZh": "消息称苹果发布 iPhone Duo 后的四天，华为阔折叠手机 Pura X Max 销量环比上周暴涨 76.5%",
-    "summaryZh": "2026-09-15 摸摸鱼 · IT之家第 2 名。IT之家",
+    "titleZh": "小米 18 Pro 系列手机官宣搭载全新百变背屏",
+    "summaryZh": "2026-09-16 摸摸鱼 · IT之家第 2 名。IT之家",
     "whyItMatters": "收录原因：进入IT之家前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -6981,47 +6981,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · IT之家。",
       "排名：IT之家第 2 名。",
-      "具体信息：消息称苹果发布 iPhone Duo 后的四天，华为阔折叠手机 Pura X Max 销量环比上周暴涨 76.5%。IT之家",
+      "具体信息：小米 18 Pro 系列手机官宣搭载全新百变背屏。IT之家",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "消息称苹果发布 iPhone Duo 后的四天，华为阔折叠手机 Pura X Max 销量环比上周暴涨 76.5%",
-        "url": "https://www.ithome.com/1/002/055.htm",
+        "title": "小米 18 Pro 系列手机官宣搭载全新百变背屏",
+        "url": "https://www.ithome.com/1/002/418.htm",
         "description": "IT之家",
         "paragraphs": [
           "IT之家"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "消息称苹果发布 iPhone Duo 后的四天，华为阔折叠手机 Pura X Max 销量环比上周暴涨 76.5%",
-        "url": "https://www.ithome.com/1/002/055.htm",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "小米 18 Pro 系列手机官宣搭载全新百变背屏",
+        "url": "https://www.ithome.com/1/002/418.htm",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · IT之家榜单页",
         "title": "IT之家",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-IT之家-3-E6B688E681AFE7A7B0E5A49AE5AEB6E5A4A7",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-IT之家-3-E5B08FE7B1B3201820Pro20E7B3BBE58897E",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "IT之家",
-    "titleZh": "消息称多家大厂派开发人员赴苹果总部，适配 iPhone Duo 折叠手机",
-    "summaryZh": "2026-09-15 摸摸鱼 · IT之家第 3 名。IT之家",
+    "titleZh": "小米 18 Pro 系列开启预热：卢伟冰确认本月发布，为“小米数字系列有史以来升级最大的一次”",
+    "summaryZh": "2026-09-16 摸摸鱼 · IT之家第 3 名。IT之家",
     "whyItMatters": "收录原因：进入IT之家前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -7042,47 +7042,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · IT之家。",
       "排名：IT之家第 3 名。",
-      "具体信息：消息称多家大厂派开发人员赴苹果总部，适配 iPhone Duo 折叠手机。IT之家",
+      "具体信息：小米 18 Pro 系列开启预热：卢伟冰确认本月发布，为“小米数字系列有史以来升级最大的一次”。IT之家",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "消息称多家大厂派开发人员赴苹果总部，适配 iPhone Duo 折叠手机",
-        "url": "https://www.ithome.com/1/002/243.htm",
+        "title": "小米 18 Pro 系列开启预热：卢伟冰确认本月发布，为“小米数字系列有史以来升级最大的一次”",
+        "url": "https://www.ithome.com/1/002/386.htm",
         "description": "IT之家",
         "paragraphs": [
           "IT之家"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "消息称多家大厂派开发人员赴苹果总部，适配 iPhone Duo 折叠手机",
-        "url": "https://www.ithome.com/1/002/243.htm",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "小米 18 Pro 系列开启预热：卢伟冰确认本月发布，为“小米数字系列有史以来升级最大的一次”",
+        "url": "https://www.ithome.com/1/002/386.htm",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · IT之家榜单页",
         "title": "IT之家",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-IT之家-4-E6B688E681AFE7A7B0E58D8EE4B8BAE99894",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-IT之家-4-E68A95E7A5A8EFBC9AE88BB9E69E9C20iOS2",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "IT之家",
-    "titleZh": "消息称华为阔直板手机 Pura X View“卖爆”，销量突破 30 万台",
-    "summaryZh": "2026-09-15 摸摸鱼 · IT之家第 4 名。IT之家",
+    "titleZh": "投票：苹果 iOS 27 正式版更新推送，你升级了吗还满意吗",
+    "summaryZh": "2026-09-16 摸摸鱼 · IT之家第 4 名。IT之家",
     "whyItMatters": "收录原因：进入IT之家前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -7103,47 +7103,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · IT之家。",
       "排名：IT之家第 4 名。",
-      "具体信息：消息称华为阔直板手机 Pura X View“卖爆”，销量突破 30 万台。IT之家",
+      "具体信息：投票：苹果 iOS 27 正式版更新推送，你升级了吗还满意吗。IT之家",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "消息称华为阔直板手机 Pura X View“卖爆”，销量突破 30 万台",
-        "url": "https://www.ithome.com/1/002/042.htm",
+        "title": "投票：苹果 iOS 27 正式版更新推送，你升级了吗还满意吗",
+        "url": "https://www.ithome.com/1/002/502.htm",
         "description": "IT之家",
         "paragraphs": [
           "IT之家"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "消息称华为阔直板手机 Pura X View“卖爆”，销量突破 30 万台",
-        "url": "https://www.ithome.com/1/002/042.htm",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "投票：苹果 iOS 27 正式版更新推送，你升级了吗还满意吗",
+        "url": "https://www.ithome.com/1/002/502.htm",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · IT之家榜单页",
         "title": "IT之家",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-IT之家-5-E88BB9E69E9CE4BC98E8B4A8E594AEE5908E",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-IT之家-5-E88BB9E69E9C205420E9A1B920iOS20iPadO",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "IT之家",
-    "titleZh": "苹果优质售后新案例：“免费”为 6 年旧款 MacBook Air 升级 M5 新款",
-    "summaryZh": "2026-09-15 摸摸鱼 · IT之家第 5 名。IT之家",
+    "titleZh": "苹果 54 项 iOS iPadOS 27 隐藏新功能 新特性汇总：打磨细节聚焦 AI",
+    "summaryZh": "2026-09-16 摸摸鱼 · IT之家第 5 名。IT之家",
     "whyItMatters": "收录原因：进入IT之家前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -7164,47 +7164,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · IT之家。",
       "排名：IT之家第 5 名。",
-      "具体信息：苹果优质售后新案例：“免费”为 6 年旧款 MacBook Air 升级 M5 新款。IT之家",
+      "具体信息：苹果 54 项 iOS iPadOS 27 隐藏新功能 新特性汇总：打磨细节聚焦 AI。IT之家",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "苹果优质售后新案例：“免费”为 6 年旧款 MacBook Air 升级 M5 新款",
-        "url": "https://www.ithome.com/1/002/005.htm",
+        "title": "苹果 54 项 iOS iPadOS 27 隐藏新功能 新特性汇总：打磨细节聚焦 AI",
+        "url": "https://www.ithome.com/1/002/524.htm",
         "description": "IT之家",
         "paragraphs": [
           "IT之家"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "苹果优质售后新案例：“免费”为 6 年旧款 MacBook Air 升级 M5 新款",
-        "url": "https://www.ithome.com/1/002/005.htm",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "苹果 54 项 iOS iPadOS 27 隐藏新功能 新特性汇总：打磨细节聚焦 AI",
+        "url": "https://www.ithome.com/1/002/524.htm",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · IT之家榜单页",
         "title": "IT之家",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-IT之家-6-E88BB9E69E9C20iOS20iPadOS2027.020E6A",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-IT之家-6-E88194E58F91E7A791E5A4A9E78E91209600",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "IT之家",
-    "titleZh": "苹果 iOS iPadOS 27.0 正式版发布：性能优化升级 Siri AI，增强家长管控...",
-    "summaryZh": "2026-09-15 摸摸鱼 · IT之家第 6 名。IT之家",
+    "titleZh": "联发科天玑 9600 Pro 旗舰芯片发布：2nm 工艺4.55GHz 双超大核120 帧光追手游",
+    "summaryZh": "2026-09-16 摸摸鱼 · IT之家第 6 名。IT之家",
     "whyItMatters": "收录原因：进入IT之家前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -7225,47 +7225,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · IT之家。",
       "排名：IT之家第 6 名。",
-      "具体信息：苹果 iOS iPadOS 27.0 正式版发布：性能优化升级 Siri AI，增强家长管控...。IT之家",
+      "具体信息：联发科天玑 9600 Pro 旗舰芯片发布：2nm 工艺4.55GHz 双超大核120 帧光追手游。IT之家",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "苹果 iOS iPadOS 27.0 正式版发布：性能优化升级 Siri AI，增强家长管控...",
-        "url": "https://www.ithome.com/1/002/329.htm",
+        "title": "联发科天玑 9600 Pro 旗舰芯片发布：2nm 工艺4.55GHz 双超大核120 帧光追手游",
+        "url": "https://www.ithome.com/1/002/612.htm",
         "description": "IT之家",
         "paragraphs": [
           "IT之家"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "苹果 iOS iPadOS 27.0 正式版发布：性能优化升级 Siri AI，增强家长管控...",
-        "url": "https://www.ithome.com/1/002/329.htm",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "联发科天玑 9600 Pro 旗舰芯片发布：2nm 工艺4.55GHz 双超大核120 帧光追手游",
+        "url": "https://www.ithome.com/1/002/612.htm",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · IT之家榜单页",
         "title": "IT之家",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-IT之家-7-299920E58583E8B5B7EFBC9AE5B08FE7B1B3",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-IT之家-7-E997AEE7958CE887B4E585A8E4BD93E6B8A0",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "IT之家",
-    "titleZh": "2999 元起：小米平板 99 Pro 开启预售，骁龙 8s Gen 48 Gen 5 芯片",
-    "summaryZh": "2026-09-15 摸摸鱼 · IT之家第 7 名。IT之家",
+    "titleZh": "问界致全体渠道伙伴的函曝光，授权经销商合作协议主体由华为终端转为赛力斯",
+    "summaryZh": "2026-09-16 摸摸鱼 · IT之家第 7 名。IT之家",
     "whyItMatters": "收录原因：进入IT之家前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -7286,47 +7286,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · IT之家。",
       "排名：IT之家第 7 名。",
-      "具体信息：2999 元起：小米平板 99 Pro 开启预售，骁龙 8s Gen 48 Gen 5 芯片。IT之家",
+      "具体信息：问界致全体渠道伙伴的函曝光，授权经销商合作协议主体由华为终端转为赛力斯。IT之家",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "2999 元起：小米平板 99 Pro 开启预售，骁龙 8s Gen 48 Gen 5 芯片",
-        "url": "https://www.ithome.com/1/001/962.htm",
+        "title": "问界致全体渠道伙伴的函曝光，授权经销商合作协议主体由华为终端转为赛力斯",
+        "url": "https://www.ithome.com/1/002/749.htm",
         "description": "IT之家",
         "paragraphs": [
           "IT之家"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "2999 元起：小米平板 99 Pro 开启预售，骁龙 8s Gen 48 Gen 5 芯片",
-        "url": "https://www.ithome.com/1/001/962.htm",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "问界致全体渠道伙伴的函曝光，授权经销商合作协议主体由华为终端转为赛力斯",
+        "url": "https://www.ithome.com/1/002/749.htm",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · IT之家榜单页",
         "title": "IT之家",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-IT之家-8-162B512G20379920E58583EFBC9AE5B08FE7",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-IT之家-8-E6AF94E5B09420C2B720E79B96E88CA8EFBC",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "IT之家",
-    "titleZh": "16+512G 3799 元：小米 15 Ultra 国补直降，骁龙 8 至尊 + 徕卡 2 亿长焦",
-    "summaryZh": "2026-09-15 摸摸鱼 · IT之家第 8 名。IT之家",
+    "titleZh": "比尔 · 盖茨：中美大模型各有 4 家能够保持最先进水平，中国人形机器人运动会非常有意思",
+    "summaryZh": "2026-09-16 摸摸鱼 · IT之家第 8 名。IT之家",
     "whyItMatters": "收录原因：进入IT之家前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -7347,47 +7347,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · IT之家。",
       "排名：IT之家第 8 名。",
-      "具体信息：16+512G 3799 元：小米 15 Ultra 国补直降，骁龙 8 至尊 + 徕卡 2 亿长焦。IT之家",
+      "具体信息：比尔 · 盖茨：中美大模型各有 4 家能够保持最先进水平，中国人形机器人运动会非常有意思。IT之家",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "16+512G 3799 元：小米 15 Ultra 国补直降，骁龙 8 至尊 + 徕卡 2 亿长焦",
-        "url": "https://www.ithome.com/1/002/311.htm",
+        "title": "比尔 · 盖茨：中美大模型各有 4 家能够保持最先进水平，中国人形机器人运动会非常有意思",
+        "url": "https://www.ithome.com/1/002/520.htm",
         "description": "IT之家",
         "paragraphs": [
           "IT之家"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · IT之家",
-        "title": "16+512G 3799 元：小米 15 Ultra 国补直降，骁龙 8 至尊 + 徕卡 2 亿长焦",
-        "url": "https://www.ithome.com/1/002/311.htm",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "比尔 · 盖茨：中美大模型各有 4 家能够保持最先进水平，中国人形机器人运动会非常有意思",
+        "url": "https://www.ithome.com/1/002/520.htm",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · IT之家榜单页",
         "title": "IT之家",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-中关村在线-1-2026E5B9B4E4B88AE58D8AE5B9B4E6B688E8",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-中关村在线-1-E58D8EE4B8BAPura20X20ViewE4B88AE6898",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "中关村在线",
-    "titleZh": "2026年上半年消费者最满意的除甲醛产品红黑榜，附CMA检测报告",
-    "summaryZh": "2026-09-15 摸摸鱼 · 中关村在线第 1 名。中关村在线",
+    "titleZh": "华为Pura X View上手实测：大屏手机的手感与视野",
+    "summaryZh": "2026-09-16 摸摸鱼 · 中关村在线第 1 名。中关村在线",
     "whyItMatters": "收录原因：进入中关村在线前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -7408,47 +7408,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 中关村在线。",
       "排名：中关村在线第 1 名。",
-      "具体信息：2026年上半年消费者最满意的除甲醛产品红黑榜，附CMA检测报告。中关村在线",
+      "具体信息：华为Pura X View上手实测：大屏手机的手感与视野。中关村在线",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 中关村在线",
-        "title": "2026年上半年消费者最满意的除甲醛产品红黑榜，附CMA检测报告",
-        "url": "//news.zol.com.cn/1248/12480813.html",
+        "title": "华为Pura X View上手实测：大屏手机的手感与视野",
+        "url": "//news.zol.com.cn/1248/12484146.html",
         "description": "中关村在线",
         "paragraphs": [
           "中关村在线"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 中关村在线",
-        "title": "2026年上半年消费者最满意的除甲醛产品红黑榜，附CMA检测报告",
-        "url": "//news.zol.com.cn/1248/12480813.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "华为Pura X View上手实测：大屏手机的手感与视野",
+        "url": "//news.zol.com.cn/1248/12484146.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 中关村在线榜单页",
         "title": "中关村在线",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-中关村在线-2-WindowsE99A90E8978FE5BFABE68DB7E994A",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-中关村在线-2-E98082E59088E4B880E5AEB6E4B889E58FA3",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "中关村在线",
-    "titleZh": "Windows隐藏快捷键Ctrl+Alt+Shift+Win+L可直启LinkedIn并附追踪参数",
-    "summaryZh": "2026-09-15 摸摸鱼 · 中关村在线第 2 名。中关村在线",
+    "titleZh": "适合一家三口的纯电SUV：ID. AURA T6多模态AI座舱重塑家庭纯电标杆",
+    "summaryZh": "2026-09-16 摸摸鱼 · 中关村在线第 2 名。中关村在线",
     "whyItMatters": "收录原因：进入中关村在线前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -7469,9 +7469,131 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 中关村在线。",
       "排名：中关村在线第 2 名。",
+      "具体信息：适合一家三口的纯电SUV：ID. AURA T6多模态AI座舱重塑家庭纯电标杆。中关村在线",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · 中关村在线",
+        "title": "适合一家三口的纯电SUV：ID. AURA T6多模态AI座舱重塑家庭纯电标杆",
+        "url": "//news.zol.com.cn/1248/12480847.html",
+        "description": "中关村在线",
+        "paragraphs": [
+          "中关村在线"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · 中关村在线",
+        "title": "适合一家三口的纯电SUV：ID. AURA T6多模态AI座舱重塑家庭纯电标杆",
+        "url": "//news.zol.com.cn/1248/12480847.html",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · 中关村在线榜单页",
+        "title": "中关村在线",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-中关村在线-3-E6B7B1E4BFA1E69C8DSmartXE58D8EE4B8BA",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "中关村在线",
+    "titleZh": "深信服SmartX华为超融合：大规模核心生产集群承载",
+    "summaryZh": "2026-09-16 摸摸鱼 · 中关村在线第 3 名。中关村在线",
+    "whyItMatters": "收录原因：进入中关村在线前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · 中关村在线",
+      "摸摸鱼",
+      "中关村在线"
+    ],
+    "rank": 3,
+    "heatScore": 94,
+    "importanceScore": 94,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "中关村在线",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · 中关村在线。",
+      "排名：中关村在线第 3 名。",
+      "具体信息：深信服SmartX华为超融合：大规模核心生产集群承载。中关村在线",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · 中关村在线",
+        "title": "深信服SmartX华为超融合：大规模核心生产集群承载",
+        "url": "//news.zol.com.cn/1248/12485037.html",
+        "description": "中关村在线",
+        "paragraphs": [
+          "中关村在线"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · 中关村在线",
+        "title": "深信服SmartX华为超融合：大规模核心生产集群承载",
+        "url": "//news.zol.com.cn/1248/12485037.html",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · 中关村在线榜单页",
+        "title": "中关村在线",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-中关村在线-4-WindowsE99A90E8978FE5BFABE68DB7E994A",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "中关村在线",
+    "titleZh": "Windows隐藏快捷键Ctrl+Alt+Shift+Win+L可直启LinkedIn并附追踪参数",
+    "summaryZh": "2026-09-16 摸摸鱼 · 中关村在线第 4 名。中关村在线",
+    "whyItMatters": "收录原因：进入中关村在线前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · 中关村在线",
+      "摸摸鱼",
+      "中关村在线"
+    ],
+    "rank": 4,
+    "heatScore": 91,
+    "importanceScore": 91,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "中关村在线",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · 中关村在线。",
+      "排名：中关村在线第 4 名。",
       "具体信息：Windows隐藏快捷键Ctrl+Alt+Shift+Win+L可直启LinkedIn并附追踪参数。中关村在线",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
@@ -7485,7 +7607,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "中关村在线"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -7493,145 +7615,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "摸摸鱼 · 中关村在线",
         "title": "Windows隐藏快捷键Ctrl+Alt+Shift+Win+L可直启LinkedIn并附追踪参数",
         "url": "//news.zol.com.cn/1248/12481843.html",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 中关村在线榜单页",
         "title": "中关村在线",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-中关村在线-3-E59C86E5818FE58589E698BEE7A4BAE599A8",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-中关村在线-5-E58D8EE4B8BAPura20X20ViewE5BDA2E6808",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "中关村在线",
-    "titleZh": "圆偏光显示器是什么京东方技术赋能办公护眼新体验",
-    "summaryZh": "2026-09-15 摸摸鱼 · 中关村在线第 3 名。中关村在线",
-    "whyItMatters": "收录原因：进入中关村在线前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · 中关村在线",
-      "摸摸鱼",
-      "中关村在线"
-    ],
-    "rank": 3,
-    "heatScore": 94,
-    "importanceScore": 94,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "中关村在线",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · 中关村在线。",
-      "排名：中关村在线第 3 名。",
-      "具体信息：圆偏光显示器是什么京东方技术赋能办公护眼新体验。中关村在线",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · 中关村在线",
-        "title": "圆偏光显示器是什么京东方技术赋能办公护眼新体验",
-        "url": "//news.zol.com.cn/1248/12481088.html",
-        "description": "中关村在线",
-        "paragraphs": [
-          "中关村在线"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · 中关村在线",
-        "title": "圆偏光显示器是什么京东方技术赋能办公护眼新体验",
-        "url": "//news.zol.com.cn/1248/12481088.html",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · 中关村在线榜单页",
-        "title": "中关村在线",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-中关村在线-4-E697B6E7A9BAE5A3B6W420PlusE696B0E593",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "中关村在线",
-    "titleZh": "时空壶W4 Plus新品上市！AI同传再升级！",
-    "summaryZh": "2026-09-15 摸摸鱼 · 中关村在线第 4 名。中关村在线",
-    "whyItMatters": "收录原因：进入中关村在线前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · 中关村在线",
-      "摸摸鱼",
-      "中关村在线"
-    ],
-    "rank": 4,
-    "heatScore": 91,
-    "importanceScore": 91,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "中关村在线",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · 中关村在线。",
-      "排名：中关村在线第 4 名。",
-      "具体信息：时空壶W4 Plus新品上市！AI同传再升级！。中关村在线",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · 中关村在线",
-        "title": "时空壶W4 Plus新品上市！AI同传再升级！",
-        "url": "//news.zol.com.cn/1248/12480926.html",
-        "description": "中关村在线",
-        "paragraphs": [
-          "中关村在线"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · 中关村在线",
-        "title": "时空壶W4 Plus新品上市！AI同传再升级！",
-        "url": "//news.zol.com.cn/1248/12480926.html",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · 中关村在线榜单页",
-        "title": "中关村在线",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-中关村在线-5-E7BD97E6B0B8E6B5A9E69CBAE59CBAE8AF95",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "中关村在线",
-    "titleZh": "罗永浩机场试吃野人先生冰淇淋直言难吃，质疑其高溢价与爆火逻辑",
-    "summaryZh": "2026-09-15 摸摸鱼 · 中关村在线第 5 名。中关村在线",
+    "titleZh": "华为Pura X View形态解析：阔直板手机好在哪",
+    "summaryZh": "2026-09-16 摸摸鱼 · 中关村在线第 5 名。中关村在线",
     "whyItMatters": "收录原因：进入中关村在线前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -7652,47 +7652,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 中关村在线。",
       "排名：中关村在线第 5 名。",
-      "具体信息：罗永浩机场试吃野人先生冰淇淋直言难吃，质疑其高溢价与爆火逻辑。中关村在线",
+      "具体信息：华为Pura X View形态解析：阔直板手机好在哪。中关村在线",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 中关村在线",
-        "title": "罗永浩机场试吃野人先生冰淇淋直言难吃，质疑其高溢价与爆火逻辑",
-        "url": "//news.zol.com.cn/1246/12465214.html",
+        "title": "华为Pura X View形态解析：阔直板手机好在哪",
+        "url": "//news.zol.com.cn/1248/12484135.html",
         "description": "中关村在线",
         "paragraphs": [
           "中关村在线"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 中关村在线",
-        "title": "罗永浩机场试吃野人先生冰淇淋直言难吃，质疑其高溢价与爆火逻辑",
-        "url": "//news.zol.com.cn/1246/12465214.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "华为Pura X View形态解析：阔直板手机好在哪",
+        "url": "//news.zol.com.cn/1248/12484135.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 中关村在线榜单页",
         "title": "中关村在线",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-中关村在线-6-E5BEAEE8BDAFE6ADA3E5BC8FE7A7BBE999A4",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-中关村在线-6-E4B880E5B9B4E4BAA4E4BB9830E4B887E58F",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "中关村在线",
-    "titleZh": "微软正式移除WMIC工具，终结其长达二十年的Windows管理使命",
-    "summaryZh": "2026-09-15 摸摸鱼 · 中关村在线第 6 名。中关村在线",
+    "titleZh": "一年交付30万台！京东携手恒洁以确定性大单集采模式打造国民卫浴爆款",
+    "summaryZh": "2026-09-16 摸摸鱼 · 中关村在线第 6 名。中关村在线",
     "whyItMatters": "收录原因：进入中关村在线前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -7713,47 +7713,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 中关村在线。",
       "排名：中关村在线第 6 名。",
-      "具体信息：微软正式移除WMIC工具，终结其长达二十年的Windows管理使命。中关村在线",
+      "具体信息：一年交付30万台！京东携手恒洁以确定性大单集采模式打造国民卫浴爆款。中关村在线",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 中关村在线",
-        "title": "微软正式移除WMIC工具，终结其长达二十年的Windows管理使命",
-        "url": "//news.zol.com.cn/1246/12467701.html",
+        "title": "一年交付30万台！京东携手恒洁以确定性大单集采模式打造国民卫浴爆款",
+        "url": "//news.zol.com.cn/1248/12482096.html",
         "description": "中关村在线",
         "paragraphs": [
           "中关村在线"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 中关村在线",
-        "title": "微软正式移除WMIC工具，终结其长达二十年的Windows管理使命",
-        "url": "//news.zol.com.cn/1246/12467701.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "一年交付30万台！京东携手恒洁以确定性大单集采模式打造国民卫浴爆款",
+        "url": "//news.zol.com.cn/1248/12482096.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 中关村在线榜单页",
         "title": "中关村在线",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-中关村在线-7-E4BAABE7958CV8E5908EE5A487E7AEB1E58F",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-中关村在线-7-2026E5B9B4E4B88AE58D8AE5B9B4E6B688E8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "中关村在线",
-    "titleZh": "享界V8后备箱可放不折叠婴儿车，674L容积7人10箱，乘坐储物两不误",
-    "summaryZh": "2026-09-15 摸摸鱼 · 中关村在线第 7 名。中关村在线",
+    "titleZh": "2026年上半年消费者最满意的除甲醛产品红黑榜，附CMA检测报告",
+    "summaryZh": "2026-09-16 摸摸鱼 · 中关村在线第 7 名。中关村在线",
     "whyItMatters": "收录原因：进入中关村在线前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -7774,108 +7774,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 中关村在线。",
       "排名：中关村在线第 7 名。",
-      "具体信息：享界V8后备箱可放不折叠婴儿车，674L容积7人10箱，乘坐储物两不误。中关村在线",
+      "具体信息：2026年上半年消费者最满意的除甲醛产品红黑榜，附CMA检测报告。中关村在线",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 中关村在线",
-        "title": "享界V8后备箱可放不折叠婴儿车，674L容积7人10箱，乘坐储物两不误",
-        "url": "//news.zol.com.cn/1248/12480262.html",
+        "title": "2026年上半年消费者最满意的除甲醛产品红黑榜，附CMA检测报告",
+        "url": "//news.zol.com.cn/1248/12480813.html",
         "description": "中关村在线",
         "paragraphs": [
           "中关村在线"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 中关村在线",
-        "title": "享界V8后备箱可放不折叠婴儿车，674L容积7人10箱，乘坐储物两不误",
-        "url": "//news.zol.com.cn/1248/12480262.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "2026年上半年消费者最满意的除甲醛产品红黑榜，附CMA检测报告",
+        "url": "//news.zol.com.cn/1248/12480813.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 中关村在线榜单页",
         "title": "中关村在线",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-中关村在线-8-E7899BE69DA52EFBC9AE8B5B7E888AAE5AE9",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "中关村在线",
-    "titleZh": "牛来2：起航官宣启动制作，全新3D续作扬帆启程",
-    "summaryZh": "2026-09-15 摸摸鱼 · 中关村在线第 8 名。中关村在线",
-    "whyItMatters": "收录原因：进入中关村在线前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · 中关村在线",
-      "摸摸鱼",
-      "中关村在线"
-    ],
-    "rank": 8,
-    "heatScore": 79,
-    "importanceScore": 79,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "中关村在线",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · 中关村在线。",
-      "排名：中关村在线第 8 名。",
-      "具体信息：牛来2：起航官宣启动制作，全新3D续作扬帆启程。中关村在线",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · 中关村在线",
-        "title": "牛来2：起航官宣启动制作，全新3D续作扬帆启程",
-        "url": "//news.zol.com.cn/1248/12481845.html",
-        "description": "中关村在线",
-        "paragraphs": [
-          "中关村在线"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · 中关村在线",
-        "title": "牛来2：起航官宣启动制作，全新3D续作扬帆启程",
-        "url": "//news.zol.com.cn/1248/12481845.html",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · 中关村在线榜单页",
-        "title": "中关村在线",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-爱范儿-1-E697A9E68AA5iOS27E6ADA3E5BC8FE68EA8E",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-爱范儿-1-E697A9E68AA5E99BB7E5869BE5908CE697A5",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "爱范儿",
-    "titleZh": "早报iOS27正式推送比亚迪高管：燃油车在中国没有未来iPhone 18 Pro渠道降价900元，苹果称不干预",
-    "summaryZh": "2026-09-15 摸摸鱼 · 爱范儿第 1 名。爱范儿 · 早报",
+    "titleZh": "早报雷军同日到访宇树与B站罗永浩差评带来流量，野人先生单日涨粉近3万鸿蒙智行确认问界合作调整，赛力斯主导",
+    "summaryZh": "2026-09-16 摸摸鱼 · 爱范儿第 1 名。爱范儿 · 早报",
     "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -7896,9 +7835,314 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 爱范儿。",
       "排名：爱范儿第 1 名。",
+      "具体信息：早报雷军同日到访宇树与B站罗永浩差评带来流量，野人先生单日涨粉近3万鸿蒙智行确认问界合作调整，赛力斯主导。爱范儿 · 早报",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · 爱范儿",
+        "title": "早报雷军同日到访宇树与B站罗永浩差评带来流量，野人先生单日涨粉近3万鸿蒙智行确认问界合作调整，赛力斯主导",
+        "url": "https://www.ifanr.com/1680293",
+        "description": "爱范儿 · 早报",
+        "paragraphs": [
+          "爱范儿 · 早报"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · 爱范儿",
+        "title": "早报雷军同日到访宇树与B站罗永浩差评带来流量，野人先生单日涨粉近3万鸿蒙智行确认问界合作调整，赛力斯主导",
+        "url": "https://www.ifanr.com/1680293",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · 爱范儿榜单页",
+        "title": "爱范儿",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-爱范儿-2-19.9820E4B887E58583E8B5B7EFBC8CE5908",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "爱范儿",
+    "titleZh": "19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱",
+    "summaryZh": "2026-09-16 摸摸鱼 · 爱范儿第 2 名。爱范儿 · 董车会",
+    "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · 爱范儿",
+      "摸摸鱼",
+      "爱范儿"
+    ],
+    "rank": 2,
+    "heatScore": 97,
+    "importanceScore": 97,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "爱范儿",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · 爱范儿。",
+      "排名：爱范儿第 2 名。",
+      "具体信息：19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱。爱范儿 · 董车会",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · 爱范儿",
+        "title": "19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱",
+        "url": "https://www.ifanr.com/1680277",
+        "description": "爱范儿 · 董车会",
+        "paragraphs": [
+          "爱范儿 · 董车会"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · 爱范儿",
+        "title": "19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱",
+        "url": "https://www.ifanr.com/1680277",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · 爱范儿榜单页",
+        "title": "爱范儿",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-爱范儿-3-E58FB7E7A7B0E4BABAE7B1BBE980A0E79A84",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "爱范儿",
+    "titleZh": "号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么",
+    "summaryZh": "2026-09-16 摸摸鱼 · 爱范儿第 3 名。爱范儿 · 公司",
+    "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · 爱范儿",
+      "摸摸鱼",
+      "爱范儿"
+    ],
+    "rank": 3,
+    "heatScore": 94,
+    "importanceScore": 94,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "爱范儿",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · 爱范儿。",
+      "排名：爱范儿第 3 名。",
+      "具体信息：号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么。爱范儿 · 公司",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · 爱范儿",
+        "title": "号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么",
+        "url": "https://www.ifanr.com/1679813",
+        "description": "爱范儿 · 公司",
+        "paragraphs": [
+          "爱范儿 · 公司"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · 爱范儿",
+        "title": "号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么",
+        "url": "https://www.ifanr.com/1679813",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · 爱范儿榜单页",
+        "title": "爱范儿",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-爱范儿-4-E8B186E58C85E5B7A5E4BD9CE5928CE9A39E",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "爱范儿",
+    "titleZh": "豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群",
+    "summaryZh": "2026-09-16 摸摸鱼 · 爱范儿第 4 名。爱范儿 · 公司",
+    "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · 爱范儿",
+      "摸摸鱼",
+      "爱范儿"
+    ],
+    "rank": 4,
+    "heatScore": 91,
+    "importanceScore": 91,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "爱范儿",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · 爱范儿。",
+      "排名：爱范儿第 4 名。",
+      "具体信息：豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群。爱范儿 · 公司",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · 爱范儿",
+        "title": "豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群",
+        "url": "https://www.ifanr.com/1680138",
+        "description": "爱范儿 · 公司",
+        "paragraphs": [
+          "爱范儿 · 公司"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · 爱范儿",
+        "title": "豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群",
+        "url": "https://www.ifanr.com/1680138",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · 爱范儿榜单页",
+        "title": "爱范儿",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-爱范儿-5-iOS202720E6ADA3E5BC8FE78988E4BD93E9A",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "爱范儿",
+    "titleZh": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
+    "summaryZh": "2026-09-16 摸摸鱼 · 爱范儿第 5 名。爱范儿 · 公司",
+    "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · 爱范儿",
+      "摸摸鱼",
+      "爱范儿"
+    ],
+    "rank": 5,
+    "heatScore": 88,
+    "importanceScore": 88,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "爱范儿",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · 爱范儿。",
+      "排名：爱范儿第 5 名。",
+      "具体信息：iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西。爱范儿 · 公司",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · 爱范儿",
+        "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
+        "url": "https://www.ifanr.com/1680134",
+        "description": "爱范儿 · 公司",
+        "paragraphs": [
+          "爱范儿 · 公司"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · 爱范儿",
+        "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
+        "url": "https://www.ifanr.com/1680134",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · 爱范儿榜单页",
+        "title": "爱范儿",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-爱范儿-6-E697A9E68AA5iOS27E6ADA3E5BC8FE68EA8E",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "爱范儿",
+    "titleZh": "早报iOS27正式推送比亚迪高管：燃油车在中国没有未来iPhone 18 Pro渠道降价900元，苹果称不干预",
+    "summaryZh": "2026-09-16 摸摸鱼 · 爱范儿第 6 名。爱范儿 · 早报",
+    "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · 爱范儿",
+      "摸摸鱼",
+      "爱范儿"
+    ],
+    "rank": 6,
+    "heatScore": 85,
+    "importanceScore": 85,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "爱范儿",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · 爱范儿。",
+      "排名：爱范儿第 6 名。",
       "具体信息：早报iOS27正式推送比亚迪高管：燃油车在中国没有未来iPhone 18 Pro渠道降价900元，苹果称不干预。爱范儿 · 早报",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
@@ -7912,7 +8156,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "爱范儿 · 早报"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -7920,328 +8164,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "摸摸鱼 · 爱范儿",
         "title": "早报iOS27正式推送比亚迪高管：燃油车在中国没有未来iPhone 18 Pro渠道降价900元，苹果称不干预",
         "url": "https://www.ifanr.com/1680097",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 爱范儿榜单页",
         "title": "爱范儿",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-爱范儿-2-E59CA8E5ADA6E4BC9AE695B0E5ADA6E4B98B",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-爱范儿-7-E7BAAFE794B5E7BBADE888AA20960kmEFBC8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "爱范儿",
-    "titleZh": "在学会数学之前，AI 先学会了大厂的虚荣心",
-    "summaryZh": "2026-09-15 摸摸鱼 · 爱范儿第 2 名。爱范儿 · 公司",
-    "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · 爱范儿",
-      "摸摸鱼",
-      "爱范儿"
-    ],
-    "rank": 2,
-    "heatScore": 97,
-    "importanceScore": 97,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "爱范儿",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · 爱范儿。",
-      "排名：爱范儿第 2 名。",
-      "具体信息：在学会数学之前，AI 先学会了大厂的虚荣心。爱范儿 · 公司",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · 爱范儿",
-        "title": "在学会数学之前，AI 先学会了大厂的虚荣心",
-        "url": "https://www.ifanr.com/1680046",
-        "description": "爱范儿 · 公司",
-        "paragraphs": [
-          "爱范儿 · 公司"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · 爱范儿",
-        "title": "在学会数学之前，AI 先学会了大厂的虚荣心",
-        "url": "https://www.ifanr.com/1680046",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · 爱范儿榜单页",
-        "title": "爱范儿",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-爱范儿-3-E79086E683B320i920Home20E69DA5E4BA86",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "爱范儿",
-    "titleZh": "理想 i9 Home 来了，车内长滑轨+对坐模式，打造市中心大平层",
-    "summaryZh": "2026-09-15 摸摸鱼 · 爱范儿第 3 名。爱范儿 · 董车会",
-    "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · 爱范儿",
-      "摸摸鱼",
-      "爱范儿"
-    ],
-    "rank": 3,
-    "heatScore": 94,
-    "importanceScore": 94,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "爱范儿",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · 爱范儿。",
-      "排名：爱范儿第 3 名。",
-      "具体信息：理想 i9 Home 来了，车内长滑轨+对坐模式，打造市中心大平层。爱范儿 · 董车会",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · 爱范儿",
-        "title": "理想 i9 Home 来了，车内长滑轨+对坐模式，打造市中心大平层",
-        "url": "https://www.ifanr.com/1680033",
-        "description": "爱范儿 · 董车会",
-        "paragraphs": [
-          "爱范儿 · 董车会"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · 爱范儿",
-        "title": "理想 i9 Home 来了，车内长滑轨+对坐模式，打造市中心大平层",
-        "url": "https://www.ifanr.com/1680033",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · 爱范儿榜单页",
-        "title": "爱范儿",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-爱范儿-4-E696B0E8B186E58C85E6898BE69CBAE58AA9",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "爱范儿",
-    "titleZh": "新豆包手机助手首发体验，智能手机正在变成行动终端",
-    "summaryZh": "2026-09-15 摸摸鱼 · 爱范儿第 4 名。爱范儿 · 公司",
-    "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · 爱范儿",
-      "摸摸鱼",
-      "爱范儿"
-    ],
-    "rank": 4,
-    "heatScore": 91,
-    "importanceScore": 91,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "爱范儿",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · 爱范儿。",
-      "排名：爱范儿第 4 名。",
-      "具体信息：新豆包手机助手首发体验，智能手机正在变成行动终端。爱范儿 · 公司",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · 爱范儿",
-        "title": "新豆包手机助手首发体验，智能手机正在变成行动终端",
-        "url": "https://www.ifanr.com/1679983",
-        "description": "爱范儿 · 公司",
-        "paragraphs": [
-          "爱范儿 · 公司"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · 爱范儿",
-        "title": "新豆包手机助手首发体验，智能手机正在变成行动终端",
-        "url": "https://www.ifanr.com/1679983",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · 爱范儿榜单页",
-        "title": "爱范儿",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-爱范儿-5-E6808EE6A0B7E8AEA9E4B88DE688B4E79CBC",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "爱范儿",
-    "titleZh": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜|专访应用材料公司副总裁 Paul Meissner",
-    "summaryZh": "2026-09-15 摸摸鱼 · 爱范儿第 5 名。爱范儿 · 产品",
-    "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · 爱范儿",
-      "摸摸鱼",
-      "爱范儿"
-    ],
-    "rank": 5,
-    "heatScore": 88,
-    "importanceScore": 88,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "爱范儿",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · 爱范儿。",
-      "排名：爱范儿第 5 名。",
-      "具体信息：怎样让不戴眼镜的人，愿意每天戴一副AI眼镜|专访应用材料公司副总裁 Paul Meissner。爱范儿 · 产品",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · 爱范儿",
-        "title": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜|专访应用材料公司副总裁 Paul Meissner",
-        "url": "https://www.ifanr.com/1679952",
-        "description": "爱范儿 · 产品",
-        "paragraphs": [
-          "爱范儿 · 产品"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · 爱范儿",
-        "title": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜|专访应用材料公司副总裁 Paul Meissner",
-        "url": "https://www.ifanr.com/1679952",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · 爱范儿榜单页",
-        "title": "爱范儿",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-爱范儿-6-E697A9E68AA5iPhone201820ProE9A696E68",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "爱范儿",
-    "titleZh": "早报iPhone 18 Pro首批售罄，发货延至10月OpenAI放弃今年上市罗永浩评价野人先生冰淇淋难吃",
-    "summaryZh": "2026-09-15 摸摸鱼 · 爱范儿第 6 名。爱范儿 · 早报",
-    "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · 爱范儿",
-      "摸摸鱼",
-      "爱范儿"
-    ],
-    "rank": 6,
-    "heatScore": 85,
-    "importanceScore": 85,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "爱范儿",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · 爱范儿。",
-      "排名：爱范儿第 6 名。",
-      "具体信息：早报iPhone 18 Pro首批售罄，发货延至10月OpenAI放弃今年上市罗永浩评价野人先生冰淇淋难吃。爱范儿 · 早报",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · 爱范儿",
-        "title": "早报iPhone 18 Pro首批售罄，发货延至10月OpenAI放弃今年上市罗永浩评价野人先生冰淇淋难吃",
-        "url": "https://www.ifanr.com/1679930",
-        "description": "爱范儿 · 早报",
-        "paragraphs": [
-          "爱范儿 · 早报"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · 爱范儿",
-        "title": "早报iPhone 18 Pro首批售罄，发货延至10月OpenAI放弃今年上市罗永浩评价野人先生冰淇淋难吃",
-        "url": "https://www.ifanr.com/1679930",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · 爱范儿榜单页",
-        "title": "爱范儿",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-爱范儿-7-E789B9E58AAAE696AFE59B9EE7AD94E4B880",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "爱范儿",
-    "titleZh": "特努斯回答一切，那个懂技术的苹果 CEO 回来了",
-    "summaryZh": "2026-09-15 摸摸鱼 · 爱范儿第 7 名。爱范儿 · 公司",
+    "titleZh": "纯电续航 960km！腾势 N8L 纯电版 29.98 万元起，语音助手成最大亮点",
+    "summaryZh": "2026-09-16 摸摸鱼 · 爱范儿第 7 名。爱范儿 · 董车会",
     "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -8262,47 +8201,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 爱范儿。",
       "排名：爱范儿第 7 名。",
-      "具体信息：特努斯回答一切，那个懂技术的苹果 CEO 回来了。爱范儿 · 公司",
+      "具体信息：纯电续航 960km！腾势 N8L 纯电版 29.98 万元起，语音助手成最大亮点。爱范儿 · 董车会",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 爱范儿",
-        "title": "特努斯回答一切，那个懂技术的苹果 CEO 回来了",
-        "url": "https://www.ifanr.com/1679848",
-        "description": "爱范儿 · 公司",
+        "title": "纯电续航 960km！腾势 N8L 纯电版 29.98 万元起，语音助手成最大亮点",
+        "url": "https://www.ifanr.com/1680061",
+        "description": "爱范儿 · 董车会",
         "paragraphs": [
-          "爱范儿 · 公司"
+          "爱范儿 · 董车会"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 爱范儿",
-        "title": "特努斯回答一切，那个懂技术的苹果 CEO 回来了",
-        "url": "https://www.ifanr.com/1679848",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "纯电续航 960km！腾势 N8L 纯电版 29.98 万元起，语音助手成最大亮点",
+        "url": "https://www.ifanr.com/1680061",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 爱范儿榜单页",
         "title": "爱范儿",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-爱范儿-8-E8AEB2E8AEB220Duo20E4BD9CE4B8BAE7A79",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-爱范儿-8-E59CA8E5ADA6E4BC9AE695B0E5ADA6E4B98B",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "爱范儿",
-    "titleZh": "讲讲 Duo 作为科技产品命名的前世今生",
-    "summaryZh": "2026-09-15 摸摸鱼 · 爱范儿第 8 名。爱范儿 · 产品",
+    "titleZh": "在学会数学之前，AI 先学会了大厂的虚荣心",
+    "summaryZh": "2026-09-16 摸摸鱼 · 爱范儿第 8 名。爱范儿 · 公司",
     "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -8323,47 +8262,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 爱范儿。",
       "排名：爱范儿第 8 名。",
-      "具体信息：讲讲 Duo 作为科技产品命名的前世今生。爱范儿 · 产品",
+      "具体信息：在学会数学之前，AI 先学会了大厂的虚荣心。爱范儿 · 公司",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 爱范儿",
-        "title": "讲讲 Duo 作为科技产品命名的前世今生",
-        "url": "https://www.ifanr.com/1679899",
-        "description": "爱范儿 · 产品",
+        "title": "在学会数学之前，AI 先学会了大厂的虚荣心",
+        "url": "https://www.ifanr.com/1680046",
+        "description": "爱范儿 · 公司",
         "paragraphs": [
-          "爱范儿 · 产品"
+          "爱范儿 · 公司"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 爱范儿",
-        "title": "讲讲 Duo 作为科技产品命名的前世今生",
-        "url": "https://www.ifanr.com/1679899",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "在学会数学之前，AI 先学会了大厂的虚荣心",
+        "url": "https://www.ifanr.com/1680046",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 爱范儿榜单页",
         "title": "爱范儿",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-CSDN-1-AIE5A4A7E6A8A1E59E8BE68EA5E585A5SDKL",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-CSDN-1-Pascal20Editor20E69CACE59CB0E983A8E7",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "CSDN",
-    "titleZh": "AI大模型接入SDKLLMManager类架构与智能指针选型",
-    "summaryZh": "2026-09-15 摸摸鱼 · CSDN第 1 名。CSDN",
+    "titleZh": "Pascal Editor 本地部署实战：Bun 启动 WebGPU 3D 编辑器，再解决公网访问报错",
+    "summaryZh": "2026-09-16 摸摸鱼 · CSDN第 1 名。CSDN",
     "whyItMatters": "收录原因：进入CSDN前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -8384,47 +8323,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · CSDN。",
       "排名：CSDN第 1 名。",
-      "具体信息：AI大模型接入SDKLLMManager类架构与智能指针选型。CSDN",
+      "具体信息：Pascal Editor 本地部署实战：Bun 启动 WebGPU 3D 编辑器，再解决公网访问报错。CSDN",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · CSDN",
-        "title": "AI大模型接入SDKLLMManager类架构与智能指针选型",
-        "url": "https://blog.csdn.net/2401_89899187/article/details/164833261",
+        "title": "Pascal Editor 本地部署实战：Bun 启动 WebGPU 3D 编辑器，再解决公网访问报错",
+        "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/165365290",
         "description": "CSDN",
         "paragraphs": [
           "CSDN"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · CSDN",
-        "title": "AI大模型接入SDKLLMManager类架构与智能指针选型",
-        "url": "https://blog.csdn.net/2401_89899187/article/details/164833261",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "Pascal Editor 本地部署实战：Bun 启动 WebGPU 3D 编辑器，再解决公网访问报错",
+        "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/165365290",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · CSDN榜单页",
         "title": "CSDN",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-CSDN-2-E68A8A20JupyterLab20E690ACE588B0E9B8",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-CSDN-2-AI20E8A786E9A291E7949FE68890E883BDE4",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "CSDN",
-    "titleZh": "把 JupyterLab 搬到鸿蒙 PC：Electron 壳 + 浏览器内 Python 内核的移植实战",
-    "summaryZh": "2026-09-15 摸摸鱼 · CSDN第 2 名。CSDN",
+    "titleZh": "AI 视频生成能不能真正跑通MoneyPrinterTurbo 本地制作远程访问与授权验证",
+    "summaryZh": "2026-09-16 摸摸鱼 · CSDN第 2 名。CSDN",
     "whyItMatters": "收录原因：进入CSDN前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -8445,47 +8384,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · CSDN。",
       "排名：CSDN第 2 名。",
-      "具体信息：把 JupyterLab 搬到鸿蒙 PC：Electron 壳 + 浏览器内 Python 内核的移植实战。CSDN",
+      "具体信息：AI 视频生成能不能真正跑通MoneyPrinterTurbo 本地制作远程访问与授权验证。CSDN",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · CSDN",
-        "title": "把 JupyterLab 搬到鸿蒙 PC：Electron 壳 + 浏览器内 Python 内核的移植实战",
-        "url": "https://blog.csdn.net/mrdeam/article/details/165120873",
+        "title": "AI 视频生成能不能真正跑通MoneyPrinterTurbo 本地制作远程访问与授权验证",
+        "url": "https://blog.csdn.net/Rqaqedamancy/article/details/165236474",
         "description": "CSDN",
         "paragraphs": [
           "CSDN"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · CSDN",
-        "title": "把 JupyterLab 搬到鸿蒙 PC：Electron 壳 + 浏览器内 Python 内核的移植实战",
-        "url": "https://blog.csdn.net/mrdeam/article/details/165120873",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "AI 视频生成能不能真正跑通MoneyPrinterTurbo 本地制作远程访问与授权验证",
+        "url": "https://blog.csdn.net/Rqaqedamancy/article/details/165236474",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · CSDN榜单页",
         "title": "CSDN",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-CSDN-3-AI20E5B7B2E7BB8FE5BC80E5A78BE5819AE5",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-CSDN-3-AI20E5B7B2E7BB8FE5BC80E5A78BE5819AE5",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "CSDN",
     "titleZh": "AI 已经开始做原创科研了吗",
-    "summaryZh": "2026-09-15 摸摸鱼 · CSDN第 3 名。CSDN",
+    "summaryZh": "2026-09-16 摸摸鱼 · CSDN第 3 名。CSDN",
     "whyItMatters": "收录原因：进入CSDN前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -8506,7 +8445,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · CSDN。",
       "排名：CSDN第 3 名。",
       "具体信息：AI 已经开始做原创科研了吗。CSDN",
@@ -8522,7 +8461,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "CSDN"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -8530,23 +8469,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "摸摸鱼 · CSDN",
         "title": "AI 已经开始做原创科研了吗",
         "url": "https://blog.csdn.net/weixin_74809706/article/details/164864436",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · CSDN榜单页",
         "title": "CSDN",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-CSDN-4-AI20E8A786E9A291E7949FE68890E883BDE4",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-CSDN-4-QQ20E69CBAE599A8E4BABAE6808EE4B988E6",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "CSDN",
-    "titleZh": "AI 视频生成能不能真正跑通MoneyPrinterTurbo 本地制作远程访问与授权验证",
-    "summaryZh": "2026-09-15 摸摸鱼 · CSDN第 4 名。CSDN",
+    "titleZh": "QQ 机器人怎么接上 AI用 AstrBot + NapCat 搭一套可扩展的 DeepSeek 助手",
+    "summaryZh": "2026-09-16 摸摸鱼 · CSDN第 4 名。CSDN",
     "whyItMatters": "收录原因：进入CSDN前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -8567,47 +8506,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · CSDN。",
       "排名：CSDN第 4 名。",
-      "具体信息：AI 视频生成能不能真正跑通MoneyPrinterTurbo 本地制作远程访问与授权验证。CSDN",
+      "具体信息：QQ 机器人怎么接上 AI用 AstrBot + NapCat 搭一套可扩展的 DeepSeek 助手。CSDN",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · CSDN",
-        "title": "AI 视频生成能不能真正跑通MoneyPrinterTurbo 本地制作远程访问与授权验证",
-        "url": "https://blog.csdn.net/Rqaqedamancy/article/details/165236474",
+        "title": "QQ 机器人怎么接上 AI用 AstrBot + NapCat 搭一套可扩展的 DeepSeek 助手",
+        "url": "https://blog.csdn.net/Dovis5884/article/details/165329306",
         "description": "CSDN",
         "paragraphs": [
           "CSDN"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · CSDN",
-        "title": "AI 视频生成能不能真正跑通MoneyPrinterTurbo 本地制作远程访问与授权验证",
-        "url": "https://blog.csdn.net/Rqaqedamancy/article/details/165236474",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "QQ 机器人怎么接上 AI用 AstrBot + NapCat 搭一套可扩展的 DeepSeek 助手",
+        "url": "https://blog.csdn.net/Dovis5884/article/details/165329306",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · CSDN榜单页",
         "title": "CSDN",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-CSDN-5-QQ20E69CBAE599A8E4BABAE6808EE4B988E6",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-CSDN-5-AI20E4B88DE58FAAE59B9EE7AD94E997AEE9",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "CSDN",
-    "titleZh": "QQ 机器人怎么接上 AI用 AstrBot + NapCat 搭一套可扩展的 DeepSeek 助手",
-    "summaryZh": "2026-09-15 摸摸鱼 · CSDN第 5 名。CSDN",
+    "titleZh": "AI 不只回答问题：用 Hermes Agent 把微信指令接到 Windows 电脑上",
+    "summaryZh": "2026-09-16 摸摸鱼 · CSDN第 5 名。CSDN",
     "whyItMatters": "收录原因：进入CSDN前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -8628,47 +8567,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · CSDN。",
       "排名：CSDN第 5 名。",
-      "具体信息：QQ 机器人怎么接上 AI用 AstrBot + NapCat 搭一套可扩展的 DeepSeek 助手。CSDN",
+      "具体信息：AI 不只回答问题：用 Hermes Agent 把微信指令接到 Windows 电脑上。CSDN",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · CSDN",
-        "title": "QQ 机器人怎么接上 AI用 AstrBot + NapCat 搭一套可扩展的 DeepSeek 助手",
-        "url": "https://blog.csdn.net/Dovis5884/article/details/165329306",
+        "title": "AI 不只回答问题：用 Hermes Agent 把微信指令接到 Windows 电脑上",
+        "url": "https://blog.csdn.net/2301_81152266/article/details/165322197",
         "description": "CSDN",
         "paragraphs": [
           "CSDN"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · CSDN",
-        "title": "QQ 机器人怎么接上 AI用 AstrBot + NapCat 搭一套可扩展的 DeepSeek 助手",
-        "url": "https://blog.csdn.net/Dovis5884/article/details/165329306",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "AI 不只回答问题：用 Hermes Agent 把微信指令接到 Windows 电脑上",
+        "url": "https://blog.csdn.net/2301_81152266/article/details/165322197",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · CSDN榜单页",
         "title": "CSDN",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-CSDN-6-E68A8A20Jupyter20Notebook20E690ACE58",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-CSDN-6-AIE5A4A7E6A8A1E59E8BE68EA5E585A5SDKL",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "CSDN",
-    "titleZh": "把 Jupyter Notebook 搬到鸿蒙 PC：同栈双胞胎的 Notebook-first 移植实战",
-    "summaryZh": "2026-09-15 摸摸鱼 · CSDN第 6 名。CSDN",
+    "titleZh": "AI大模型接入SDKLLMManager类架构与智能指针选型",
+    "summaryZh": "2026-09-16 摸摸鱼 · CSDN第 6 名。CSDN",
     "whyItMatters": "收录原因：进入CSDN前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -8689,47 +8628,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · CSDN。",
       "排名：CSDN第 6 名。",
-      "具体信息：把 Jupyter Notebook 搬到鸿蒙 PC：同栈双胞胎的 Notebook-first 移植实战。CSDN",
+      "具体信息：AI大模型接入SDKLLMManager类架构与智能指针选型。CSDN",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · CSDN",
-        "title": "把 Jupyter Notebook 搬到鸿蒙 PC：同栈双胞胎的 Notebook-first 移植实战",
-        "url": "https://blog.csdn.net/weixin_52908342/article/details/165120645",
+        "title": "AI大模型接入SDKLLMManager类架构与智能指针选型",
+        "url": "https://blog.csdn.net/2401_89899187/article/details/164833261",
         "description": "CSDN",
         "paragraphs": [
           "CSDN"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · CSDN",
-        "title": "把 Jupyter Notebook 搬到鸿蒙 PC：同栈双胞胎的 Notebook-first 移植实战",
-        "url": "https://blog.csdn.net/weixin_52908342/article/details/165120645",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "AI大模型接入SDKLLMManager类架构与智能指针选型",
+        "url": "https://blog.csdn.net/2401_89899187/article/details/164833261",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · CSDN榜单页",
         "title": "CSDN",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-CSDN-7-GitHub20E783ADE6A69CE9A1B9E79BAE20-2",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-CSDN-7-E8AEA920AI20E79BB4E68EA5E69FA5E585AC",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "CSDN",
-    "titleZh": "GitHub 热榜项目 - 周榜(2026-09-12)",
-    "summaryZh": "2026-09-15 摸摸鱼 · CSDN第 7 名。CSDN",
+    "titleZh": "让 AI 直接查公司数据库先给 SQL 加三道闸：基于蓝耘 MaaS 的只读查询助手",
+    "summaryZh": "2026-09-16 摸摸鱼 · CSDN第 7 名。CSDN",
     "whyItMatters": "收录原因：进入CSDN前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -8750,47 +8689,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · CSDN。",
       "排名：CSDN第 7 名。",
-      "具体信息：GitHub 热榜项目 - 周榜(2026-09-12)。CSDN",
+      "具体信息：让 AI 直接查公司数据库先给 SQL 加三道闸：基于蓝耘 MaaS 的只读查询助手。CSDN",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · CSDN",
-        "title": "GitHub 热榜项目 - 周榜(2026-09-12)",
-        "url": "https://blog.csdn.net/u014390502/article/details/165126233",
+        "title": "让 AI 直接查公司数据库先给 SQL 加三道闸：基于蓝耘 MaaS 的只读查询助手",
+        "url": "https://blog.csdn.net/2302_78391795/article/details/165281958",
         "description": "CSDN",
         "paragraphs": [
           "CSDN"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · CSDN",
-        "title": "GitHub 热榜项目 - 周榜(2026-09-12)",
-        "url": "https://blog.csdn.net/u014390502/article/details/165126233",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "让 AI 直接查公司数据库先给 SQL 加三道闸：基于蓝耘 MaaS 的只读查询助手",
+        "url": "https://blog.csdn.net/2302_78391795/article/details/165281958",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · CSDN榜单页",
         "title": "CSDN",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-CSDN-8-AI20E4B88DE58FAAE59B9EE7AD94E997AEE9",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-CSDN-8-AGIE79A84E7BAB5E8BDB4E4B88EE6A8AAE8B",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "CSDN",
-    "titleZh": "AI 不只回答问题：用 Hermes Agent 把微信指令接到 Windows 电脑上",
-    "summaryZh": "2026-09-15 摸摸鱼 · CSDN第 8 名。CSDN",
+    "titleZh": "AGI的纵轴与横轴",
+    "summaryZh": "2026-09-16 摸摸鱼 · CSDN第 8 名。CSDN",
     "whyItMatters": "收录原因：进入CSDN前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -8811,47 +8750,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · CSDN。",
       "排名：CSDN第 8 名。",
-      "具体信息：AI 不只回答问题：用 Hermes Agent 把微信指令接到 Windows 电脑上。CSDN",
+      "具体信息：AGI的纵轴与横轴。CSDN",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · CSDN",
-        "title": "AI 不只回答问题：用 Hermes Agent 把微信指令接到 Windows 电脑上",
-        "url": "https://blog.csdn.net/2301_81152266/article/details/165322197",
+        "title": "AGI的纵轴与横轴",
+        "url": "https://blog.csdn.net/fitbit/article/details/165334536",
         "description": "CSDN",
         "paragraphs": [
           "CSDN"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · CSDN",
-        "title": "AI 不只回答问题：用 Hermes Agent 把微信指令接到 Windows 电脑上",
-        "url": "https://blog.csdn.net/2301_81152266/article/details/165322197",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "AGI的纵轴与横轴",
+        "url": "https://blog.csdn.net/fitbit/article/details/165334536",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · CSDN榜单页",
         "title": "CSDN",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎嗅-1-E2809CE8A381E588A4E2809DE4B88DE683B3",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎嗅-1-E5BD93E9BB84E4BB81E58B8BE68EA5E8B5B7",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎嗅",
-    "titleZh": "“裁判”不想给阿莫迪吹暂停",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎嗅第 1 名，热度 2。虎嗅 · 2分钟前",
+    "titleZh": "当黄仁勋接起特朗普电话，当奥特曼暂缓上市，AI安全讨论变味了吗",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎嗅第 1 名，热度 1。虎嗅 · 1分钟前",
     "whyItMatters": "收录原因：进入虎嗅前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -8872,47 +8811,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎嗅。",
-      "排名：虎嗅第 1 名，热度 2。",
-      "具体信息：“裁判”不想给阿莫迪吹暂停。虎嗅 · 2分钟前",
+      "排名：虎嗅第 1 名，热度 1。",
+      "具体信息：当黄仁勋接起特朗普电话，当奥特曼暂缓上市，AI安全讨论变味了吗。虎嗅 · 1分钟前",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "“裁判”不想给阿莫迪吹暂停",
-        "url": "https://www.huxiu.com/article/4891194.html",
-        "description": "虎嗅 · 2分钟前",
+        "title": "当黄仁勋接起特朗普电话，当奥特曼暂缓上市，AI安全讨论变味了吗",
+        "url": "https://www.huxiu.com/article/4891503.html",
+        "description": "虎嗅 · 1分钟前",
         "paragraphs": [
-          "虎嗅 · 2分钟前"
+          "虎嗅 · 1分钟前"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "“裁判”不想给阿莫迪吹暂停",
-        "url": "https://www.huxiu.com/article/4891194.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "当黄仁勋接起特朗普电话，当奥特曼暂缓上市，AI安全讨论变味了吗",
+        "url": "https://www.huxiu.com/article/4891503.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎嗅榜单页",
         "title": "虎嗅",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎嗅-2-E4B880E7BAA7E5B882E59CBAE79A84E58886",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎嗅-2-E9B8A1E89B8BE8BF87E6958FE79C9FE4B88D",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎嗅",
-    "titleZh": "一级市场的分化，比想象中更残酷",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎嗅第 2 名，热度 4。虎嗅 · 4分钟前",
+    "titleZh": "鸡蛋过敏真不是流感疫苗的接种禁忌",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎嗅第 2 名，热度 4。虎嗅 · 4分钟前",
     "whyItMatters": "收录原因：进入虎嗅前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -8933,47 +8872,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎嗅。",
       "排名：虎嗅第 2 名，热度 4。",
-      "具体信息：一级市场的分化，比想象中更残酷。虎嗅 · 4分钟前",
+      "具体信息：鸡蛋过敏真不是流感疫苗的接种禁忌。虎嗅 · 4分钟前",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "一级市场的分化，比想象中更残酷",
-        "url": "https://www.huxiu.com/article/4891197.html",
+        "title": "鸡蛋过敏真不是流感疫苗的接种禁忌",
+        "url": "https://www.huxiu.com/article/4891502.html",
         "description": "虎嗅 · 4分钟前",
         "paragraphs": [
           "虎嗅 · 4分钟前"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "一级市场的分化，比想象中更残酷",
-        "url": "https://www.huxiu.com/article/4891197.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "鸡蛋过敏真不是流感疫苗的接种禁忌",
+        "url": "https://www.huxiu.com/article/4891502.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎嗅榜单页",
         "title": "虎嗅",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎嗅-3-E58F82E8B59BE4BABAE695B0E69AB4E6B6A8",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎嗅-3-AGIE79A84E88386E5B08FE88085E6B8B8E68",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎嗅",
-    "titleZh": "参赛人数暴涨2000倍后，HYROX栽于一场“失禁”比赛",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎嗅第 3 名，热度 8。虎嗅 · 8分钟前",
+    "titleZh": "AGI的胆小者游戏",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎嗅第 3 名，热度 7。虎嗅 · 7分钟前",
     "whyItMatters": "收录原因：进入虎嗅前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -8994,47 +8933,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎嗅。",
-      "排名：虎嗅第 3 名，热度 8。",
-      "具体信息：参赛人数暴涨2000倍后，HYROX栽于一场“失禁”比赛。虎嗅 · 8分钟前",
+      "排名：虎嗅第 3 名，热度 7。",
+      "具体信息：AGI的胆小者游戏。虎嗅 · 7分钟前",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "参赛人数暴涨2000倍后，HYROX栽于一场“失禁”比赛",
-        "url": "https://www.huxiu.com/article/4891196.html",
-        "description": "虎嗅 · 8分钟前",
+        "title": "AGI的胆小者游戏",
+        "url": "https://www.huxiu.com/article/4891490.html",
+        "description": "虎嗅 · 7分钟前",
         "paragraphs": [
-          "虎嗅 · 8分钟前"
+          "虎嗅 · 7分钟前"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "参赛人数暴涨2000倍后，HYROX栽于一场“失禁”比赛",
-        "url": "https://www.huxiu.com/article/4891196.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "AGI的胆小者游戏",
+        "url": "https://www.huxiu.com/article/4891490.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎嗅榜单页",
         "title": "虎嗅",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎嗅-4-E7BD97E6B0B8E6B5A9E58FAFE883BDE698AF",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎嗅-4-E781ABE4BA86E58D81E5B9B4E79A84E783AD",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎嗅",
-    "titleZh": "罗永浩可能是所有品牌公关的“恩人”",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎嗅第 4 名，热度 40。虎嗅 · 40分钟前",
+    "titleZh": "火了十年的热门行业，现在最缺活人感",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎嗅第 4 名，热度 23。虎嗅 · 23分钟前",
     "whyItMatters": "收录原因：进入虎嗅前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9055,47 +8994,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎嗅。",
-      "排名：虎嗅第 4 名，热度 40。",
-      "具体信息：罗永浩可能是所有品牌公关的“恩人”。虎嗅 · 40分钟前",
+      "排名：虎嗅第 4 名，热度 23。",
+      "具体信息：火了十年的热门行业，现在最缺活人感。虎嗅 · 23分钟前",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "罗永浩可能是所有品牌公关的“恩人”",
-        "url": "https://www.huxiu.com/article/4891192.html",
-        "description": "虎嗅 · 40分钟前",
+        "title": "火了十年的热门行业，现在最缺活人感",
+        "url": "https://www.huxiu.com/article/4891496.html",
+        "description": "虎嗅 · 23分钟前",
         "paragraphs": [
-          "虎嗅 · 40分钟前"
+          "虎嗅 · 23分钟前"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "罗永浩可能是所有品牌公关的“恩人”",
-        "url": "https://www.huxiu.com/article/4891192.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "火了十年的热门行业，现在最缺活人感",
+        "url": "https://www.huxiu.com/article/4891496.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎嗅榜单页",
         "title": "虎嗅",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎嗅-5-E7919EE585B8E4BABAE88AB150E5B9B4E5BB",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎嗅-5-E9878DE590AFE4BABAE7949FE79A8410E4BB",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎嗅",
-    "titleZh": "瑞典人花50年建了一座\"硅谷\"，然后集体搬走了",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎嗅第 5 名，热度 44。虎嗅 · 44分钟前",
+    "titleZh": "重启人生的10件小事",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎嗅第 5 名，热度 31。虎嗅 · 31分钟前",
     "whyItMatters": "收录原因：进入虎嗅前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9116,47 +9055,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎嗅。",
-      "排名：虎嗅第 5 名，热度 44。",
-      "具体信息：瑞典人花50年建了一座\"硅谷\"，然后集体搬走了。虎嗅 · 44分钟前",
+      "排名：虎嗅第 5 名，热度 31。",
+      "具体信息：重启人生的10件小事。虎嗅 · 31分钟前",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "瑞典人花50年建了一座\"硅谷\"，然后集体搬走了",
-        "url": "https://www.huxiu.com/article/4891190.html",
-        "description": "虎嗅 · 44分钟前",
+        "title": "重启人生的10件小事",
+        "url": "https://www.huxiu.com/article/4891480.html",
+        "description": "虎嗅 · 31分钟前",
         "paragraphs": [
-          "虎嗅 · 44分钟前"
+          "虎嗅 · 31分钟前"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "瑞典人花50年建了一座\"硅谷\"，然后集体搬走了",
-        "url": "https://www.huxiu.com/article/4891190.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "重启人生的10件小事",
+        "url": "https://www.huxiu.com/article/4891480.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎嗅榜单页",
         "title": "虎嗅",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎嗅-6-E59D91E683A8E88081E4BABAE79A84E4BD8E",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎嗅-6-E696B0E997AEE7958CEFBC9AE58D8EE4B8BA",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎嗅",
-    "titleZh": "坑惨老人的低价旅游团，成了年轻人的“减肥天堂”",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎嗅第 6 名，热度 1。虎嗅 · 1小时前",
+    "titleZh": "新问界：华为后退，更像供应商了",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎嗅第 6 名，热度 42。虎嗅 · 42分钟前",
     "whyItMatters": "收录原因：进入虎嗅前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9177,47 +9116,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎嗅。",
-      "排名：虎嗅第 6 名，热度 1。",
-      "具体信息：坑惨老人的低价旅游团，成了年轻人的“减肥天堂”。虎嗅 · 1小时前",
+      "排名：虎嗅第 6 名，热度 42。",
+      "具体信息：新问界：华为后退，更像供应商了。虎嗅 · 42分钟前",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "坑惨老人的低价旅游团，成了年轻人的“减肥天堂”",
-        "url": "https://www.huxiu.com/article/4890321.html",
-        "description": "虎嗅 · 1小时前",
+        "title": "新问界：华为后退，更像供应商了",
+        "url": "https://www.huxiu.com/article/4891493.html",
+        "description": "虎嗅 · 42分钟前",
         "paragraphs": [
-          "虎嗅 · 1小时前"
+          "虎嗅 · 42分钟前"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "坑惨老人的低价旅游团，成了年轻人的“减肥天堂”",
-        "url": "https://www.huxiu.com/article/4890321.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "新问界：华为后退，更像供应商了",
+        "url": "https://www.huxiu.com/article/4891493.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎嗅榜单页",
         "title": "虎嗅",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎嗅-7-E4B8ADE7A78BE59BBDE5BA86EFBC8CE58F8D",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎嗅-7-E6B9BEE58CBA22E6B7B7E5AD90founder22E",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎嗅",
-    "titleZh": "中秋国庆，反向旅游的年轻人傻眼了",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎嗅第 7 名，热度 1。虎嗅 · 1小时前",
+    "titleZh": "湾区\"混子founder\"图鉴：6个物种，和17.5万个被AI挤出来的人",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎嗅第 7 名，热度 45。虎嗅 · 45分钟前",
     "whyItMatters": "收录原因：进入虎嗅前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9238,47 +9177,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎嗅。",
-      "排名：虎嗅第 7 名，热度 1。",
-      "具体信息：中秋国庆，反向旅游的年轻人傻眼了。虎嗅 · 1小时前",
+      "排名：虎嗅第 7 名，热度 45。",
+      "具体信息：湾区\"混子founder\"图鉴：6个物种，和17.5万个被AI挤出来的人。虎嗅 · 45分钟前",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "中秋国庆，反向旅游的年轻人傻眼了",
-        "url": "https://www.huxiu.com/article/4891185.html",
-        "description": "虎嗅 · 1小时前",
+        "title": "湾区\"混子founder\"图鉴：6个物种，和17.5万个被AI挤出来的人",
+        "url": "https://www.huxiu.com/article/4891492.html",
+        "description": "虎嗅 · 45分钟前",
         "paragraphs": [
-          "虎嗅 · 1小时前"
+          "虎嗅 · 45分钟前"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "中秋国庆，反向旅游的年轻人傻眼了",
-        "url": "https://www.huxiu.com/article/4891185.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "湾区\"混子founder\"图鉴：6个物种，和17.5万个被AI挤出来的人",
+        "url": "https://www.huxiu.com/article/4891492.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎嗅榜单页",
         "title": "虎嗅",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-虎嗅-8-E68891E4BBACE99C80E8A681E8ADA6E68395",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-虎嗅-8-E2809CE8AFB73E4BC9113E2809DE585A8E7B",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "虎嗅",
-    "titleZh": "我们需要警惕一种情形：美国AI巨头的“减速论”，可能会对开源模型构成实质性绞杀",
-    "summaryZh": "2026-09-15 摸摸鱼 · 虎嗅第 8 名，热度 1。虎嗅 · 1小时前",
+    "titleZh": "“请3休13”全网狂欢，景区却一点都笑不出来",
+    "summaryZh": "2026-09-16 摸摸鱼 · 虎嗅第 8 名，热度 46。虎嗅 · 46分钟前",
     "whyItMatters": "收录原因：进入虎嗅前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9299,47 +9238,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 虎嗅。",
-      "排名：虎嗅第 8 名，热度 1。",
-      "具体信息：我们需要警惕一种情形：美国AI巨头的“减速论”，可能会对开源模型构成实质性绞杀。虎嗅 · 1小时前",
+      "排名：虎嗅第 8 名，热度 46。",
+      "具体信息：“请3休13”全网狂欢，景区却一点都笑不出来。虎嗅 · 46分钟前",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "我们需要警惕一种情形：美国AI巨头的“减速论”，可能会对开源模型构成实质性绞杀",
-        "url": "https://www.huxiu.com/article/4891184.html",
-        "description": "虎嗅 · 1小时前",
+        "title": "“请3休13”全网狂欢，景区却一点都笑不出来",
+        "url": "https://www.huxiu.com/article/4891491.html",
+        "description": "虎嗅 · 46分钟前",
         "paragraphs": [
-          "虎嗅 · 1小时前"
+          "虎嗅 · 46分钟前"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 虎嗅",
-        "title": "我们需要警惕一种情形：美国AI巨头的“减速论”，可能会对开源模型构成实质性绞杀",
-        "url": "https://www.huxiu.com/article/4891184.html",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "“请3休13”全网狂欢，景区却一点都笑不出来",
+        "url": "https://www.huxiu.com/article/4891491.html",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 虎嗅榜单页",
         "title": "虎嗅",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-掘金-1-Cursor20E8BDAC20Codex20E5A4A7E58D8AE",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-掘金-1-Cursor20E8BDAC20Codex20E5A4A7E58D8AE",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "掘金",
     "titleZh": "Cursor 转 Codex 大半个月，聊聊我的真实感受",
-    "summaryZh": "2026-09-15 摸摸鱼 · 掘金第 1 名。掘金",
+    "summaryZh": "2026-09-16 摸摸鱼 · 掘金第 1 名。掘金",
     "whyItMatters": "收录原因：进入掘金前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9360,7 +9299,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 掘金。",
       "排名：掘金第 1 名。",
       "具体信息：Cursor 转 Codex 大半个月，聊聊我的真实感受。掘金",
@@ -9376,7 +9315,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "掘金"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -9384,23 +9323,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "摸摸鱼 · 掘金",
         "title": "Cursor 转 Codex 大半个月，聊聊我的真实感受",
         "url": "https://juejin.cn/post/7637856870833635343",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 掘金榜单页",
         "title": "掘金",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-掘金-2-E99DA2E8AF95E5AE98E997AEE4BDA0EFBC9A",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-掘金-2-E99DA2E8AF95E5AE98E997AEE4BDA0EFBC9A",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "掘金",
     "titleZh": "面试官问你：“AI 能写 80% 的代码了，公司为什么还需要你”",
-    "summaryZh": "2026-09-15 摸摸鱼 · 掘金第 2 名。掘金",
+    "summaryZh": "2026-09-16 摸摸鱼 · 掘金第 2 名。掘金",
     "whyItMatters": "收录原因：进入掘金前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9421,7 +9360,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 掘金。",
       "排名：掘金第 2 名。",
       "具体信息：面试官问你：“AI 能写 80% 的代码了，公司为什么还需要你”。掘金",
@@ -9437,7 +9376,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "掘金"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -9445,23 +9384,84 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "摸摸鱼 · 掘金",
         "title": "面试官问你：“AI 能写 80% 的代码了，公司为什么还需要你”",
         "url": "https://juejin.cn/post/7655245911811784750",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 掘金榜单页",
         "title": "掘金",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-掘金-4-2026E7BC96E7A88BE59C88E5BE88E781ABE7",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-掘金-3-Vibe20Coding20E697B6E4BBA3EFBC9AVue2",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "掘金",
-    "titleZh": "2026编程圈很火的10个Skills",
-    "summaryZh": "2026-09-15 摸摸鱼 · 掘金第 4 名。掘金",
+    "titleZh": "Vibe Coding 时代：Vue 消失了还是 React 太强",
+    "summaryZh": "2026-09-16 摸摸鱼 · 掘金第 3 名。掘金",
+    "whyItMatters": "收录原因：进入掘金前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "摸摸鱼 · 掘金",
+      "摸摸鱼",
+      "掘金"
+    ],
+    "rank": 3,
+    "heatScore": 94,
+    "importanceScore": 94,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "掘金",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：摸摸鱼 · 掘金。",
+      "排名：掘金第 3 名。",
+      "具体信息：Vibe Coding 时代：Vue 消失了还是 React 太强。掘金",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "摸摸鱼 · 掘金",
+        "title": "Vibe Coding 时代：Vue 消失了还是 React 太强",
+        "url": "https://juejin.cn/post/7623217419704909866",
+        "description": "掘金",
+        "paragraphs": [
+          "掘金"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "摸摸鱼 · 掘金",
+        "title": "Vibe Coding 时代：Vue 消失了还是 React 太强",
+        "url": "https://juejin.cn/post/7623217419704909866",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "摸摸鱼 · 掘金榜单页",
+        "title": "掘金",
+        "url": "https://momoyu.cc/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-掘金-4-E4BB8EcodexE8BDACE68898workbuddyE4BD",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "掘金",
+    "titleZh": "从codex转战workbuddy使用一周的感受",
+    "summaryZh": "2026-09-16 摸摸鱼 · 掘金第 4 名。掘金",
     "whyItMatters": "收录原因：进入掘金前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9482,108 +9482,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 掘金。",
       "排名：掘金第 4 名。",
-      "具体信息：2026编程圈很火的10个Skills。掘金",
+      "具体信息：从codex转战workbuddy使用一周的感受。掘金",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 掘金",
-        "title": "2026编程圈很火的10个Skills",
-        "url": "https://juejin.cn/post/7660712622825144374",
+        "title": "从codex转战workbuddy使用一周的感受",
+        "url": "https://juejin.cn/post/7684460980934049807",
         "description": "掘金",
         "paragraphs": [
           "掘金"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 掘金",
-        "title": "2026编程圈很火的10个Skills",
-        "url": "https://juejin.cn/post/7660712622825144374",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "从codex转战workbuddy使用一周的感受",
+        "url": "https://juejin.cn/post/7684460980934049807",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 掘金榜单页",
         "title": "掘金",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-掘金-5-Vibe20Coding20E697B6E4BBA3EFBC9AVue2",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-掘金-6-2026E7BC96E7A88BE59C88E5BE88E781ABE7",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "掘金",
-    "titleZh": "Vibe Coding 时代：Vue 消失了还是 React 太强",
-    "summaryZh": "2026-09-15 摸摸鱼 · 掘金第 5 名。掘金",
-    "whyItMatters": "收录原因：进入掘金前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "摸摸鱼 · 掘金",
-      "摸摸鱼",
-      "掘金"
-    ],
-    "rank": 5,
-    "heatScore": 88,
-    "importanceScore": 88,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "掘金",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：摸摸鱼 · 掘金。",
-      "排名：掘金第 5 名。",
-      "具体信息：Vibe Coding 时代：Vue 消失了还是 React 太强。掘金",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "摸摸鱼 · 掘金",
-        "title": "Vibe Coding 时代：Vue 消失了还是 React 太强",
-        "url": "https://juejin.cn/post/7623217419704909866",
-        "description": "掘金",
-        "paragraphs": [
-          "掘金"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "摸摸鱼 · 掘金",
-        "title": "Vibe Coding 时代：Vue 消失了还是 React 太强",
-        "url": "https://juejin.cn/post/7623217419704909866",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "摸摸鱼 · 掘金榜单页",
-        "title": "掘金",
-        "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-掘金-6-E4B889E5B9B4E4BA86EFBC8CE4B8BAE4BB80",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "掘金",
-    "titleZh": "三年了，为什么 AI 应用还没爆发",
-    "summaryZh": "2026-09-15 摸摸鱼 · 掘金第 6 名。掘金",
+    "titleZh": "2026编程圈很火的10个Skills",
+    "summaryZh": "2026-09-16 摸摸鱼 · 掘金第 6 名。掘金",
     "whyItMatters": "收录原因：进入掘金前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9604,47 +9543,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 掘金。",
       "排名：掘金第 6 名。",
-      "具体信息：三年了，为什么 AI 应用还没爆发。掘金",
+      "具体信息：2026编程圈很火的10个Skills。掘金",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 掘金",
-        "title": "三年了，为什么 AI 应用还没爆发",
-        "url": "https://juejin.cn/post/7659709059810705462",
+        "title": "2026编程圈很火的10个Skills",
+        "url": "https://juejin.cn/post/7660712622825144374",
         "description": "掘金",
         "paragraphs": [
           "掘金"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 掘金",
-        "title": "三年了，为什么 AI 应用还没爆发",
-        "url": "https://juejin.cn/post/7659709059810705462",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "2026编程圈很火的10个Skills",
+        "url": "https://juejin.cn/post/7660712622825144374",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 掘金榜单页",
         "title": "掘金",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-掘金-7-E4BB8EcodexE8BDACE68898workbuddyE4BD",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-掘金-7-E4B889E5B9B4E4BA86EFBC8CE4B8BAE4BB80",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "掘金",
-    "titleZh": "从codex转战workbuddy使用一周的感受",
-    "summaryZh": "2026-09-15 摸摸鱼 · 掘金第 7 名。掘金",
+    "titleZh": "三年了，为什么 AI 应用还没爆发",
+    "summaryZh": "2026-09-16 摸摸鱼 · 掘金第 7 名。掘金",
     "whyItMatters": "收录原因：进入掘金前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9665,47 +9604,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 掘金。",
       "排名：掘金第 7 名。",
-      "具体信息：从codex转战workbuddy使用一周的感受。掘金",
+      "具体信息：三年了，为什么 AI 应用还没爆发。掘金",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 掘金",
-        "title": "从codex转战workbuddy使用一周的感受",
-        "url": "https://juejin.cn/post/7684460980934049807",
+        "title": "三年了，为什么 AI 应用还没爆发",
+        "url": "https://juejin.cn/post/7659709059810705462",
         "description": "掘金",
         "paragraphs": [
           "掘金"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 掘金",
-        "title": "从codex转战workbuddy使用一周的感受",
-        "url": "https://juejin.cn/post/7684460980934049807",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "三年了，为什么 AI 应用还没爆发",
+        "url": "https://juejin.cn/post/7659709059810705462",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 掘金榜单页",
         "title": "掘金",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-掘金-8-AIE58699E995BFE7AF87E5B08FE8AFB4E4B8",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-掘金-8-2026E5B9B4E58FA4E6B395E7BC96E7A88BE7",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "掘金",
-    "titleZh": "AI写长篇小说为什么30章必崩",
-    "summaryZh": "2026-09-15 摸摸鱼 · 掘金第 8 名。掘金",
+    "titleZh": "2026年古法编程的末法时代，如何评估自己完成迅速转行",
+    "summaryZh": "2026-09-16 摸摸鱼 · 掘金第 8 名。掘金",
     "whyItMatters": "收录原因：进入掘金前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9726,47 +9665,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：摸摸鱼 · 掘金。",
       "排名：掘金第 8 名。",
-      "具体信息：AI写长篇小说为什么30章必崩。掘金",
+      "具体信息：2026年古法编程的末法时代，如何评估自己完成迅速转行。掘金",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "摸摸鱼 · 掘金",
-        "title": "AI写长篇小说为什么30章必崩",
-        "url": "https://juejin.cn/post/7674372498315460658",
+        "title": "2026年古法编程的末法时代，如何评估自己完成迅速转行",
+        "url": "https://juejin.cn/post/7684615074136801320",
         "description": "掘金",
         "paragraphs": [
           "掘金"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "摸摸鱼 · 掘金",
-        "title": "AI写长篇小说为什么30章必崩",
-        "url": "https://juejin.cn/post/7674372498315460658",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "2026年古法编程的末法时代，如何评估自己完成迅速转行",
+        "url": "https://juejin.cn/post/7684615074136801320",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "摸摸鱼 · 掘金榜单页",
         "title": "掘金",
         "url": "https://momoyu.cc/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-36氪-1-E8939DE6809DE7A791E68A80E79A84E58E8B",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-36氪-1-iOS202720E6ADA3E5BC8FE78988E4BD93E9A",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "36氪",
-    "titleZh": "蓝思科技的压力，不只是手机卖不动",
-    "summaryZh": "2026-09-15 Tophub · 36氪第 1 名。24小时热榜",
+    "titleZh": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
+    "summaryZh": "2026-09-16 Tophub · 36氪第 1 名。24小时热榜",
     "whyItMatters": "收录原因：进入36氪前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9787,47 +9726,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 36氪。",
       "排名：36氪第 1 名。",
-      "具体信息：蓝思科技的压力，不只是手机卖不动。24小时热榜",
+      "具体信息：iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西。24小时热榜",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 36氪",
-        "title": "蓝思科技的压力，不只是手机卖不动",
-        "url": "https://www.36kr.com/p/3982707524844544",
+        "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
+        "url": "https://www.36kr.com/p/3984193168784390",
         "description": "24小时热榜",
         "paragraphs": [
           "24小时热榜"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 36氪",
-        "title": "蓝思科技的压力，不只是手机卖不动",
-        "url": "https://www.36kr.com/p/3982707524844544",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
+        "url": "https://www.36kr.com/p/3984193168784390",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 36氪榜单页",
         "title": "36氪",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-36氪-2-E4B880E4B8AAE69C88E58780E8B59A5E4B88",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-36氪-2-E5889AE58699E5AE8CV4.1E4B8BBE7AE97E5",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "36氪",
-    "titleZh": "一个月净赚5万元，小红书上爆火的“避雷帖”养活一条暴利灰产",
-    "summaryZh": "2026-09-15 Tophub · 36氪第 2 名。24小时热榜",
+    "titleZh": "刚写完V4.1主算子就要“转业”？DeepSeek资深算子工程师深夜独白",
+    "summaryZh": "2026-09-16 Tophub · 36氪第 2 名。24小时热榜",
     "whyItMatters": "收录原因：进入36氪前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9848,47 +9787,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 36氪。",
       "排名：36氪第 2 名。",
-      "具体信息：一个月净赚5万元，小红书上爆火的“避雷帖”养活一条暴利灰产。24小时热榜",
+      "具体信息：刚写完V4.1主算子就要“转业”？DeepSeek资深算子工程师深夜独白。24小时热榜",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 36氪",
-        "title": "一个月净赚5万元，小红书上爆火的“避雷帖”养活一条暴利灰产",
-        "url": "https://www.36kr.com/p/3982855580416772",
+        "title": "刚写完V4.1主算子就要“转业”？DeepSeek资深算子工程师深夜独白",
+        "url": "https://www.36kr.com/p/3984147086768897",
         "description": "24小时热榜",
         "paragraphs": [
           "24小时热榜"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 36氪",
-        "title": "一个月净赚5万元，小红书上爆火的“避雷帖”养活一条暴利灰产",
-        "url": "https://www.36kr.com/p/3982855580416772",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "刚写完V4.1主算子就要“转业”？DeepSeek资深算子工程师深夜独白",
+        "url": "https://www.36kr.com/p/3984147086768897",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 36氪榜单页",
         "title": "36氪",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-36氪-3-E5A5A5E789B9E69BBCE6B7B1E5A49CE995BF",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-36氪-3-ClaudeE78BACE7AB8BE7A0B4E8AF91370E5B",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "36氪",
-    "titleZh": "奥特曼深夜长文警告：AI巨头必须集体“踩刹车”",
-    "summaryZh": "2026-09-15 Tophub · 36氪第 3 名。24小时热榜",
+    "titleZh": "Claude独立破译370年前密文，仅44分钟，密码学家破防了",
+    "summaryZh": "2026-09-16 Tophub · 36氪第 3 名。24小时热榜",
     "whyItMatters": "收录原因：进入36氪前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9909,47 +9848,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 36氪。",
       "排名：36氪第 3 名。",
-      "具体信息：奥特曼深夜长文警告：AI巨头必须集体“踩刹车”。24小时热榜",
+      "具体信息：Claude独立破译370年前密文，仅44分钟，密码学家破防了。24小时热榜",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 36氪",
-        "title": "奥特曼深夜长文警告：AI巨头必须集体“踩刹车”",
-        "url": "https://www.36kr.com/p/3983164706520068",
+        "title": "Claude独立破译370年前密文，仅44分钟，密码学家破防了",
+        "url": "https://www.36kr.com/p/3984219694856961",
         "description": "24小时热榜",
         "paragraphs": [
           "24小时热榜"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 36氪",
-        "title": "奥特曼深夜长文警告：AI巨头必须集体“踩刹车”",
-        "url": "https://www.36kr.com/p/3983164706520068",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "Claude独立破译370年前密文，仅44分钟，密码学家破防了",
+        "url": "https://www.36kr.com/p/3984219694856961",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 36氪榜单页",
         "title": "36氪",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-36氪-4-E99C87E692BCEFBC8CE69E9CE89D87E5A4A7",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-36氪-4-E58F82E8B59BE4BABAE695B0E69AB4E6B6A8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "36氪",
-    "titleZh": "震撼，果蝇大脑成功接上了ChatGPT",
-    "summaryZh": "2026-09-15 Tophub · 36氪第 4 名。24小时热榜",
+    "titleZh": "参赛人数暴涨2000倍后，HYROX栽于一场“失禁”比赛",
+    "summaryZh": "2026-09-16 Tophub · 36氪第 4 名。24小时热榜",
     "whyItMatters": "收录原因：进入36氪前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -9970,47 +9909,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 36氪。",
       "排名：36氪第 4 名。",
-      "具体信息：震撼，果蝇大脑成功接上了ChatGPT。24小时热榜",
+      "具体信息：参赛人数暴涨2000倍后，HYROX栽于一场“失禁”比赛。24小时热榜",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 36氪",
-        "title": "震撼，果蝇大脑成功接上了ChatGPT",
-        "url": "https://www.36kr.com/p/3982957231995910",
+        "title": "参赛人数暴涨2000倍后，HYROX栽于一场“失禁”比赛",
+        "url": "https://www.36kr.com/p/3983959733680899",
         "description": "24小时热榜",
         "paragraphs": [
           "24小时热榜"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 36氪",
-        "title": "震撼，果蝇大脑成功接上了ChatGPT",
-        "url": "https://www.36kr.com/p/3982957231995910",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "参赛人数暴涨2000倍后，HYROX栽于一场“失禁”比赛",
+        "url": "https://www.36kr.com/p/3983959733680899",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 36氪榜单页",
         "title": "36氪",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-36氪-5-iPhone20Duo20E5928C201820Pro20E6AF81",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-36氪-5-E699BAE8B0B1E38081MiniMaxEFBC8CE5A4A",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "36氪",
-    "titleZh": "iPhone Duo 和 18 Pro 毁誉参半？所有人都忽略了这些细节",
-    "summaryZh": "2026-09-15 Tophub · 36氪第 5 名。24小时热榜",
+    "titleZh": "智谱、MiniMax，大砍销售开支",
+    "summaryZh": "2026-09-16 Tophub · 36氪第 5 名。24小时热榜",
     "whyItMatters": "收录原因：进入36氪前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -10031,47 +9970,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 36氪。",
       "排名：36氪第 5 名。",
-      "具体信息：iPhone Duo 和 18 Pro 毁誉参半？所有人都忽略了这些细节。24小时热榜",
+      "具体信息：智谱、MiniMax，大砍销售开支。24小时热榜",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 36氪",
-        "title": "iPhone Duo 和 18 Pro 毁誉参半？所有人都忽略了这些细节",
-        "url": "https://www.36kr.com/p/3982673086675712",
+        "title": "智谱、MiniMax，大砍销售开支",
+        "url": "https://www.36kr.com/p/3984537991239556",
         "description": "24小时热榜",
         "paragraphs": [
           "24小时热榜"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 36氪",
-        "title": "iPhone Duo 和 18 Pro 毁誉参半？所有人都忽略了这些细节",
-        "url": "https://www.36kr.com/p/3982673086675712",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "智谱、MiniMax，大砍销售开支",
+        "url": "https://www.36kr.com/p/3984537991239556",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 36氪榜单页",
         "title": "36氪",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-36氪-6-8E782B91E6B0AAE4B8A8E98089E6898BE8B5",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-36氪-6-E2809CE99990E9AB98E2809DE79A84E5A4AA",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "36氪",
-    "titleZh": "8点1氪丨选手赛中失禁污染赛道，HYROX中国宣布整改；机构预计美股明年将暴跌21%；苹果推出Siri人工智能",
-    "summaryZh": "2026-09-15 Tophub · 36氪第 6 名。24小时热榜",
+    "titleZh": "“限高”的太乙，能否救哪吒？",
+    "summaryZh": "2026-09-16 Tophub · 36氪第 6 名。24小时热榜",
     "whyItMatters": "收录原因：进入36氪前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -10092,108 +10031,108 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 36氪。",
       "排名：36氪第 6 名。",
-      "具体信息：8点1氪丨选手赛中失禁污染赛道，HYROX中国宣布整改；机构预计美股明年将暴跌21%；苹果推出Siri人工智能。24小时热榜",
+      "具体信息：“限高”的太乙，能否救哪吒？。24小时热榜",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 36氪",
-        "title": "8点1氪丨选手赛中失禁污染赛道，HYROX中国宣布整改；机构预计美股明年将暴跌21%；苹果推出Siri人工智能",
-        "url": "https://www.36kr.com/p/3983906594257667",
+        "title": "“限高”的太乙，能否救哪吒？",
+        "url": "https://www.36kr.com/p/3983904878754567",
         "description": "24小时热榜",
         "paragraphs": [
           "24小时热榜"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 36氪",
-        "title": "8点1氪丨选手赛中失禁污染赛道，HYROX中国宣布整改；机构预计美股明年将暴跌21%；苹果推出Siri人工智能",
-        "url": "https://www.36kr.com/p/3983906594257667",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "“限高”的太乙，能否救哪吒？",
+        "url": "https://www.36kr.com/p/3983904878754567",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 36氪榜单页",
         "title": "36氪",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-抖音热榜-1-E5BF83E4BA8BE7BFBBE6B68CEFBC8CE6B3AA",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-抖音热榜-1-E9A5ADE5BA97E79A84E69A91E58187E5B7A5",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "抖音热榜",
+    "titleZh": "饭店的暑假工，后厨偷懒！",
+    "summaryZh": "2026-09-16 Tophub · 抖音第 1 名，热度 3977.9万。总榜 · 39779161次播放",
+    "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "Tophub · 抖音",
+      "Tophub",
+      "抖音"
+    ],
+    "rank": 1,
+    "heatScore": 100,
+    "importanceScore": 100,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "抖音热榜",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：Tophub · 抖音。",
+      "排名：抖音热榜第 1 名，热度 3977.9万。",
+      "具体信息：饭店的暑假工，后厨偷懒！。总榜 · 39779161次播放",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "Tophub · 抖音",
+        "title": "饭店的暑假工，后厨偷懒！",
+        "url": "https://www.douyin.com/video/7685383079192613859",
+        "description": "总榜 · 39779161次播放",
+        "paragraphs": [
+          "总榜 · 39779161次播放"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tophub · 抖音",
+        "title": "饭店的暑假工，后厨偷懒！",
+        "url": "https://www.douyin.com/video/7685383079192613859",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "Tophub · 抖音榜单页",
+        "title": "抖音热榜",
+        "url": "https://tophub.today/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-抖音热榜-2-E5BF83E4BA8BE7BFBBE6B68CEFBC8CE6B3AA",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "抖音热榜",
     "titleZh": "心事翻涌，泪落成海。#汽水音乐 #泪海 #翻唱 #许茹芸泪海",
-    "summaryZh": "2026-09-15 Tophub · 抖音第 1 名，热度 4700.3万。总榜 · 47002891次播放",
-    "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "Tophub · 抖音",
-      "Tophub",
-      "抖音"
-    ],
-    "rank": 1,
-    "heatScore": 100,
-    "importanceScore": 100,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "抖音热榜",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：Tophub · 抖音。",
-      "排名：抖音热榜第 1 名，热度 4700.3万。",
-      "具体信息：心事翻涌，泪落成海。#汽水音乐 #泪海 #翻唱 #许茹芸泪海。总榜 · 47002891次播放",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "Tophub · 抖音",
-        "title": "心事翻涌，泪落成海。#汽水音乐 #泪海 #翻唱 #许茹芸泪海",
-        "url": "https://www.douyin.com/video/7684952009695151354",
-        "description": "总榜 · 47002891次播放",
-        "paragraphs": [
-          "总榜 · 47002891次播放"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "Tophub · 抖音",
-        "title": "心事翻涌，泪落成海。#汽水音乐 #泪海 #翻唱 #许茹芸泪海",
-        "url": "https://www.douyin.com/video/7684952009695151354",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "Tophub · 抖音榜单页",
-        "title": "抖音热榜",
-        "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-抖音热榜-2-E9A5ADE5BA97E79A84E69A91E58187E5B7A5",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "抖音热榜",
-    "titleZh": "饭店的暑假工，饭店消杀！",
-    "summaryZh": "2026-09-15 Tophub · 抖音第 2 名，热度 4009.8万。总榜 · 40097583次播放",
+    "summaryZh": "2026-09-16 Tophub · 抖音第 2 名，热度 3748.7万。总榜 · 37486744次播放",
     "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -10214,230 +10153,230 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 抖音。",
-      "排名：抖音热榜第 2 名，热度 4009.8万。",
-      "具体信息：饭店的暑假工，饭店消杀！。总榜 · 40097583次播放",
+      "排名：抖音热榜第 2 名，热度 3748.7万。",
+      "具体信息：心事翻涌，泪落成海。#汽水音乐 #泪海 #翻唱 #许茹芸泪海。总榜 · 37486744次播放",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "饭店的暑假工，饭店消杀！",
-        "url": "https://www.douyin.com/video/7685183255457589416",
-        "description": "总榜 · 40097583次播放",
+        "title": "心事翻涌，泪落成海。#汽水音乐 #泪海 #翻唱 #许茹芸泪海",
+        "url": "https://www.douyin.com/video/7684952009695151354",
+        "description": "总榜 · 37486744次播放",
         "paragraphs": [
-          "总榜 · 40097583次播放"
+          "总榜 · 37486744次播放"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "饭店的暑假工，饭店消杀！",
-        "url": "https://www.douyin.com/video/7685183255457589416",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "心事翻涌，泪落成海。#汽水音乐 #泪海 #翻唱 #许茹芸泪海",
+        "url": "https://www.douyin.com/video/7684952009695151354",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 抖音榜单页",
         "title": "抖音热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-抖音热榜-3-E68181E8AFB4E8AEA9E68891E7BB99E788B8",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "抖音热榜",
-    "titleZh": "恁说让我给爸妈接城里住，你们看看 住不成，根本住不成！#百善孝为先 #父母",
-    "summaryZh": "2026-09-15 Tophub · 抖音第 3 名，热度 2305.9万。总榜 · 23059116次播放",
-    "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "Tophub · 抖音",
-      "Tophub",
-      "抖音"
-    ],
-    "rank": 3,
-    "heatScore": 94,
-    "importanceScore": 94,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "抖音热榜",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：Tophub · 抖音。",
-      "排名：抖音热榜第 3 名，热度 2305.9万。",
-      "具体信息：恁说让我给爸妈接城里住，你们看看 住不成，根本住不成！#百善孝为先 #父母。总榜 · 23059116次播放",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "Tophub · 抖音",
-        "title": "恁说让我给爸妈接城里住，你们看看 住不成，根本住不成！#百善孝为先 #父母",
-        "url": "https://www.douyin.com/video/7684231698608243377",
-        "description": "总榜 · 23059116次播放",
-        "paragraphs": [
-          "总榜 · 23059116次播放"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "Tophub · 抖音",
-        "title": "恁说让我给爸妈接城里住，你们看看 住不成，根本住不成！#百善孝为先 #父母",
-        "url": "https://www.douyin.com/video/7684231698608243377",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "Tophub · 抖音榜单页",
-        "title": "抖音热榜",
-        "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-抖音热榜-4-E5A5BDE5838FE5819AE4BA86E59CBAE6A2A6",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "抖音热榜",
-    "titleZh": "好像做了场梦#婚礼",
-    "summaryZh": "2026-09-15 Tophub · 抖音第 4 名，热度 2092.9万。总榜 · 20928802次播放",
-    "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "Tophub · 抖音",
-      "Tophub",
-      "抖音"
-    ],
-    "rank": 4,
-    "heatScore": 91,
-    "importanceScore": 91,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "抖音热榜",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：Tophub · 抖音。",
-      "排名：抖音热榜第 4 名，热度 2092.9万。",
-      "具体信息：好像做了场梦#婚礼。总榜 · 20928802次播放",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "Tophub · 抖音",
-        "title": "好像做了场梦#婚礼",
-        "url": "https://www.douyin.com/video/7684976991405409643",
-        "description": "总榜 · 20928802次播放",
-        "paragraphs": [
-          "总榜 · 20928802次播放"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "Tophub · 抖音",
-        "title": "好像做了场梦#婚礼",
-        "url": "https://www.douyin.com/video/7684976991405409643",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "Tophub · 抖音榜单页",
-        "title": "抖音热榜",
-        "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-抖音热榜-5-23E999AAE88081E4BABAE59083E9A5ADE698",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "抖音热榜",
-    "titleZh": "#陪老人吃饭是一种幸福 妈妈说 小时候姥姥就是这么喂她的😂",
-    "summaryZh": "2026-09-15 Tophub · 抖音第 5 名，热度 2030.3万。总榜 · 20302638次播放",
-    "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "Tophub · 抖音",
-      "Tophub",
-      "抖音"
-    ],
-    "rank": 5,
-    "heatScore": 88,
-    "importanceScore": 88,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "抖音热榜",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：Tophub · 抖音。",
-      "排名：抖音热榜第 5 名，热度 2030.3万。",
-      "具体信息：#陪老人吃饭是一种幸福 妈妈说 小时候姥姥就是这么喂她的😂。总榜 · 20302638次播放",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "Tophub · 抖音",
-        "title": "#陪老人吃饭是一种幸福 妈妈说 小时候姥姥就是这么喂她的😂",
-        "url": "https://www.douyin.com/video/7684118546994079202",
-        "description": "总榜 · 20302638次播放",
-        "paragraphs": [
-          "总榜 · 20302638次播放"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "Tophub · 抖音",
-        "title": "#陪老人吃饭是一种幸福 妈妈说 小时候姥姥就是这么喂她的😂",
-        "url": "https://www.douyin.com/video/7684118546994079202",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "Tophub · 抖音榜单页",
-        "title": "抖音热榜",
-        "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-抖音热榜-6-E593ADE38082E69C89E4BA9BE78B9720E4B8",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-抖音热榜-3-E593ADE38082E69C89E4BA9BE78B9720E4B8",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "抖音热榜",
     "titleZh": "哭。有些狗 一旦搓过就不在…… #万物可爱计划 #我的秋天是毛茸茸的#我的养宠备忘录",
-    "summaryZh": "2026-09-15 Tophub · 抖音第 6 名，热度 2010.9万。总榜 · 20108677次播放",
+    "summaryZh": "2026-09-16 Tophub · 抖音第 3 名，热度 2835.9万。总榜 · 28358638次播放",
+    "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "Tophub · 抖音",
+      "Tophub",
+      "抖音"
+    ],
+    "rank": 3,
+    "heatScore": 94,
+    "importanceScore": 94,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "抖音热榜",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：Tophub · 抖音。",
+      "排名：抖音热榜第 3 名，热度 2835.9万。",
+      "具体信息：哭。有些狗 一旦搓过就不在…… #万物可爱计划 #我的秋天是毛茸茸的#我的养宠备忘录。总榜 · 28358638次播放",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "Tophub · 抖音",
+        "title": "哭。有些狗 一旦搓过就不在…… #万物可爱计划 #我的秋天是毛茸茸的#我的养宠备忘录",
+        "url": "https://www.douyin.com/video/7684569713896525498",
+        "description": "总榜 · 28358638次播放",
+        "paragraphs": [
+          "总榜 · 28358638次播放"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tophub · 抖音",
+        "title": "哭。有些狗 一旦搓过就不在…… #万物可爱计划 #我的秋天是毛茸茸的#我的养宠备忘录",
+        "url": "https://www.douyin.com/video/7684569713896525498",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "Tophub · 抖音榜单页",
+        "title": "抖音热榜",
+        "url": "https://tophub.today/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-抖音热榜-4-E4BBA5E5A3B0E4B8BAE8AF81EFBC8CE6ADA4",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "抖音热榜",
+    "titleZh": "以声为证，此心有家 #陈翔六点半#未来导演扶持计划",
+    "summaryZh": "2026-09-16 Tophub · 抖音第 4 名，热度 2634.0万。总榜 · 26340280次播放",
+    "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "Tophub · 抖音",
+      "Tophub",
+      "抖音"
+    ],
+    "rank": 4,
+    "heatScore": 91,
+    "importanceScore": 91,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "抖音热榜",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：Tophub · 抖音。",
+      "排名：抖音热榜第 4 名，热度 2634.0万。",
+      "具体信息：以声为证，此心有家 #陈翔六点半#未来导演扶持计划。总榜 · 26340280次播放",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "Tophub · 抖音",
+        "title": "以声为证，此心有家 #陈翔六点半#未来导演扶持计划",
+        "url": "https://www.douyin.com/video/7684599248234499328",
+        "description": "总榜 · 26340280次播放",
+        "paragraphs": [
+          "总榜 · 26340280次播放"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tophub · 抖音",
+        "title": "以声为证，此心有家 #陈翔六点半#未来导演扶持计划",
+        "url": "https://www.douyin.com/video/7684599248234499328",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "Tophub · 抖音榜单页",
+        "title": "抖音热榜",
+        "url": "https://tophub.today/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-抖音热榜-5-23E5A4A7E8BF9EE88D89E88E93E99FB3E4B9",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "抖音热榜",
+    "titleZh": "#大连草莓音乐节 #李乃文 #胡军 #万妮达",
+    "summaryZh": "2026-09-16 Tophub · 抖音第 5 名，热度 2468.0万。总榜 · 24679590次播放",
+    "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "Tophub · 抖音",
+      "Tophub",
+      "抖音"
+    ],
+    "rank": 5,
+    "heatScore": 88,
+    "importanceScore": 88,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "抖音热榜",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：Tophub · 抖音。",
+      "排名：抖音热榜第 5 名，热度 2468.0万。",
+      "具体信息：#大连草莓音乐节 #李乃文 #胡军 #万妮达。总榜 · 24679590次播放",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "Tophub · 抖音",
+        "title": "#大连草莓音乐节 #李乃文 #胡军 #万妮达",
+        "url": "https://www.douyin.com/video/7685327387962207397",
+        "description": "总榜 · 24679590次播放",
+        "paragraphs": [
+          "总榜 · 24679590次播放"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tophub · 抖音",
+        "title": "#大连草莓音乐节 #李乃文 #胡军 #万妮达",
+        "url": "https://www.douyin.com/video/7685327387962207397",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "Tophub · 抖音榜单页",
+        "title": "抖音热榜",
+        "url": "https://tophub.today/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-抖音热榜-6-9E69C8812E697A5EFBC88E58F91E5B883EFB",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "抖音热榜",
+    "titleZh": "9月12日（发布），河南郑州。22岁侄子扛着行李送19岁叔叔上大学，“爸爸在家收玉米，让亲侄子送更放心！”记者：不知道为啥，听起来怪怪的......侄子拍拍叔叔的肩膀：加油！“好好读书，你可是咱家第一个大学生”#媒体原创 #媒体精选计划#河南公路水路 #河南公路",
+    "summaryZh": "2026-09-16 Tophub · 抖音第 6 名，热度 2134.9万。总榜 · 21348804次播放",
     "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -10458,47 +10397,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 抖音。",
-      "排名：抖音热榜第 6 名，热度 2010.9万。",
-      "具体信息：哭。有些狗 一旦搓过就不在…… #万物可爱计划 #我的秋天是毛茸茸的#我的养宠备忘录。总榜 · 20108677次播放",
+      "排名：抖音热榜第 6 名，热度 2134.9万。",
+      "具体信息：9月12日（发布），河南郑州。22岁侄子扛着行李送19岁叔叔上大学，“爸爸在家收玉米，让亲侄子送更放心！”记者：不知道为啥，听起来怪怪的......侄子拍拍叔叔的肩膀：加油！“好好读书，你可是咱家第一个大学生”#媒体原创 #媒体精选计划#河南公路水路 #河南公路。总榜 · 21348804次播放",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "哭。有些狗 一旦搓过就不在…… #万物可爱计划 #我的秋天是毛茸茸的#我的养宠备忘录",
-        "url": "https://www.douyin.com/video/7684569713896525498",
-        "description": "总榜 · 20108677次播放",
+        "title": "9月12日（发布），河南郑州。22岁侄子扛着行李送19岁叔叔上大学，“爸爸在家收玉米，让亲侄子送更放心！”记者：不知道为啥，听起来怪怪的......侄子拍拍叔叔的肩膀：加油！“好好读书，你可是咱家第一个大学生”#媒体原创 #媒体精选计划#河南公路水路 #河南公路",
+        "url": "https://www.douyin.com/video/7684583023307689268",
+        "description": "总榜 · 21348804次播放",
         "paragraphs": [
-          "总榜 · 20108677次播放"
+          "总榜 · 21348804次播放"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "哭。有些狗 一旦搓过就不在…… #万物可爱计划 #我的秋天是毛茸茸的#我的养宠备忘录",
-        "url": "https://www.douyin.com/video/7684569713896525498",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "9月12日（发布），河南郑州。22岁侄子扛着行李送19岁叔叔上大学，“爸爸在家收玉米，让亲侄子送更放心！”记者：不知道为啥，听起来怪怪的......侄子拍拍叔叔的肩膀：加油！“好好读书，你可是咱家第一个大学生”#媒体原创 #媒体精选计划#河南公路水路 #河南公路",
+        "url": "https://www.douyin.com/video/7684583023307689268",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 抖音榜单页",
         "title": "抖音热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-快手热榜-1-E59BBDE58AA1E999A2E5AFB9E99D92E5B29B",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-快手热榜-1-E5A5B3E5AD90E58692E58585E69D91E5B9B2",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "快手热榜",
-    "titleZh": "国务院对青岛船厂火灾提级调查",
-    "summaryZh": "2026-09-15 Tophub · 快手第 1 名，热度 1274.8万。实时热榜 · 1274.8万",
+    "titleZh": "女子冒充村干部带货被查",
+    "summaryZh": "2026-09-16 Tophub · 快手第 1 名，热度 1301.5万。实时热榜 · 1301.5万",
     "whyItMatters": "收录原因：进入快手热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -10519,47 +10458,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 快手。",
-      "排名：快手热榜第 1 名，热度 1274.8万。",
-      "具体信息：国务院对青岛船厂火灾提级调查。实时热榜 · 1274.8万",
+      "排名：快手热榜第 1 名，热度 1301.5万。",
+      "具体信息：女子冒充村干部带货被查。实时热榜 · 1301.5万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 快手",
-        "title": "国务院对青岛船厂火灾提级调查",
-        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AF%B9%E9%9D%92%E5%B2%9B%E8%88%B9%E5%8E%82%E7%81%AB%E7%81%BE%E6%8F%90%E7%BA%A7%E8%B0%83%E6%9F%A5&rankType=1",
-        "description": "实时热榜 · 1274.8万",
+        "title": "女子冒充村干部带货被查",
+        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%A5%B3%E5%AD%90%E5%86%92%E5%85%85%E6%9D%91%E5%B9%B2%E9%83%A8%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%9F%A5&rankType=1",
+        "description": "实时热榜 · 1301.5万",
         "paragraphs": [
-          "实时热榜 · 1274.8万"
+          "实时热榜 · 1301.5万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 快手",
-        "title": "国务院对青岛船厂火灾提级调查",
-        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AF%B9%E9%9D%92%E5%B2%9B%E8%88%B9%E5%8E%82%E7%81%AB%E7%81%BE%E6%8F%90%E7%BA%A7%E8%B0%83%E6%9F%A5&rankType=1",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "女子冒充村干部带货被查",
+        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%A5%B3%E5%AD%90%E5%86%92%E5%85%85%E6%9D%91%E5%B9%B2%E9%83%A8%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%9F%A5&rankType=1",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 快手榜单页",
         "title": "快手热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-快手热榜-2-E697A5E69CACE9A696E79BB8E9AB98E5B882",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-快手热榜-2-E4BB8AE5B9B4E4B8ADE7A78BE58D81E4BA94",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "快手热榜",
-    "titleZh": "日本首相高市将改组内阁",
-    "summaryZh": "2026-09-15 Tophub · 快手第 2 名，热度 1263.7万。实时热榜 · 1263.7万",
+    "titleZh": "今年中秋十五的月亮十七圆",
+    "summaryZh": "2026-09-16 Tophub · 快手第 2 名，热度 1226.5万。实时热榜 · 1226.5万",
     "whyItMatters": "收录原因：进入快手热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -10580,47 +10519,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 快手。",
-      "排名：快手热榜第 2 名，热度 1263.7万。",
-      "具体信息：日本首相高市将改组内阁。实时热榜 · 1263.7万",
+      "排名：快手热榜第 2 名，热度 1226.5万。",
+      "具体信息：今年中秋十五的月亮十七圆。实时热榜 · 1226.5万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 快手",
-        "title": "日本首相高市将改组内阁",
-        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E5%B0%86%E6%94%B9%E7%BB%84%E5%86%85%E9%98%81&rankType=1",
-        "description": "实时热榜 · 1263.7万",
+        "title": "今年中秋十五的月亮十七圆",
+        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E4%BB%8A%E5%B9%B4%E4%B8%AD%E7%A7%8B%E5%8D%81%E4%BA%94%E7%9A%84%E6%9C%88%E4%BA%AE%E5%8D%81%E4%B8%83%E5%9C%86&rankType=1",
+        "description": "实时热榜 · 1226.5万",
         "paragraphs": [
-          "实时热榜 · 1263.7万"
+          "实时热榜 · 1226.5万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 快手",
-        "title": "日本首相高市将改组内阁",
-        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E5%B0%86%E6%94%B9%E7%BB%84%E5%86%85%E9%98%81&rankType=1",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "今年中秋十五的月亮十七圆",
+        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E4%BB%8A%E5%B9%B4%E4%B8%AD%E7%A7%8B%E5%8D%81%E4%BA%94%E7%9A%84%E6%9C%88%E4%BA%AE%E5%8D%81%E4%B8%83%E5%9C%86&rankType=1",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 快手榜单页",
         "title": "快手热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-快手热榜-3-2026E5B9B4E59BBDE5AEB6E7BD91E7BB9CE5",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-快手热榜-3-8E69C88E59BBDE6B091E7BB8FE6B58EE8BF9",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "快手热榜",
-    "titleZh": "2026年国家网络安全宣传周开幕",
-    "summaryZh": "2026-09-15 Tophub · 快手第 3 名，热度 1257.4万。实时热榜 · 1257.4万",
+    "titleZh": "8月国民经济运行平稳",
+    "summaryZh": "2026-09-16 Tophub · 快手第 3 名，热度 1208.7万。实时热榜 · 1208.7万",
     "whyItMatters": "收录原因：进入快手热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -10641,47 +10580,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 快手。",
-      "排名：快手热榜第 3 名，热度 1257.4万。",
-      "具体信息：2026年国家网络安全宣传周开幕。实时热榜 · 1257.4万",
+      "排名：快手热榜第 3 名，热度 1208.7万。",
+      "具体信息：8月国民经济运行平稳。实时热榜 · 1208.7万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 快手",
-        "title": "2026年国家网络安全宣传周开幕",
-        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=2026%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E5%91%A8%E5%BC%80%E5%B9%95&rankType=1",
-        "description": "实时热榜 · 1257.4万",
+        "title": "8月国民经济运行平稳",
+        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=8%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E5%B9%B3%E7%A8%B3&rankType=1",
+        "description": "实时热榜 · 1208.7万",
         "paragraphs": [
-          "实时热榜 · 1257.4万"
+          "实时热榜 · 1208.7万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 快手",
-        "title": "2026年国家网络安全宣传周开幕",
-        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=2026%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E5%91%A8%E5%BC%80%E5%B9%95&rankType=1",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "8月国民经济运行平稳",
+        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=8%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E5%B9%B3%E7%A8%B3&rankType=1",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 快手榜单页",
         "title": "快手热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-快手热榜-4-Holy20MolyE58F98E8A385",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-快手热榜-4-E4B8A4E6ACA1E4BAB2E5AD90E989B4E5AE9A",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "快手热榜",
-    "titleZh": "Holy Moly变装",
-    "summaryZh": "2026-09-15 Tophub · 快手第 4 名，热度 1252.6万。实时热榜 · 1252.6万",
+    "titleZh": "两次亲子鉴定确认孙子非亡父亲生",
+    "summaryZh": "2026-09-16 Tophub · 快手第 4 名，热度 1207.8万。实时热榜 · 1207.8万",
     "whyItMatters": "收录原因：进入快手热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -10702,47 +10641,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 快手。",
-      "排名：快手热榜第 4 名，热度 1252.6万。",
-      "具体信息：Holy Moly变装。实时热榜 · 1252.6万",
+      "排名：快手热榜第 4 名，热度 1207.8万。",
+      "具体信息：两次亲子鉴定确认孙子非亡父亲生。实时热榜 · 1207.8万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 快手",
-        "title": "Holy Moly变装",
-        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=Holy+Moly%E5%8F%98%E8%A3%85&rankType=1",
-        "description": "实时热榜 · 1252.6万",
+        "title": "两次亲子鉴定确认孙子非亡父亲生",
+        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E4%B8%A4%E6%AC%A1%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E7%A1%AE%E8%AE%A4%E5%AD%99%E5%AD%90%E9%9D%9E%E4%BA%A1%E7%88%B6%E4%BA%B2%E7%94%9F&rankType=1",
+        "description": "实时热榜 · 1207.8万",
         "paragraphs": [
-          "实时热榜 · 1252.6万"
+          "实时热榜 · 1207.8万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 快手",
-        "title": "Holy Moly变装",
-        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=Holy+Moly%E5%8F%98%E8%A3%85&rankType=1",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "两次亲子鉴定确认孙子非亡父亲生",
+        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E4%B8%A4%E6%AC%A1%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E7%A1%AE%E8%AE%A4%E5%AD%99%E5%AD%90%E9%9D%9E%E4%BA%A1%E7%88%B6%E4%BA%B2%E7%94%9F&rankType=1",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 快手榜单页",
         "title": "快手热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-快手热榜-5-E88081E5B9B2E5A688E9878CE68C96E587BA",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-快手热榜-5-E58FB0E9A38EE69D9CE9B983E68896E8BEBE",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "快手热榜",
-    "titleZh": "老干妈里挖出70克黄金",
-    "summaryZh": "2026-09-15 Tophub · 快手第 5 名，热度 1191.0万。实时热榜 · 1191.0万",
+    "titleZh": "台风杜鹃或达超强级别",
+    "summaryZh": "2026-09-16 Tophub · 快手第 5 名，热度 1117.0万。实时热榜 · 1117.0万",
     "whyItMatters": "收录原因：进入快手热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -10763,47 +10702,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 快手。",
-      "排名：快手热榜第 5 名，热度 1191.0万。",
-      "具体信息：老干妈里挖出70克黄金。实时热榜 · 1191.0万",
+      "排名：快手热榜第 5 名，热度 1117.0万。",
+      "具体信息：台风杜鹃或达超强级别。实时热榜 · 1117.0万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 快手",
-        "title": "老干妈里挖出70克黄金",
-        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E8%80%81%E5%B9%B2%E5%A6%88%E9%87%8C%E6%8C%96%E5%87%BA70%E5%85%8B%E9%BB%84%E9%87%91&rankType=1",
-        "description": "实时热榜 · 1191.0万",
+        "title": "台风杜鹃或达超强级别",
+        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%8F%B0%E9%A3%8E%E6%9D%9C%E9%B9%83%E6%88%96%E8%BE%BE%E8%B6%85%E5%BC%BA%E7%BA%A7%E5%88%AB&rankType=1",
+        "description": "实时热榜 · 1117.0万",
         "paragraphs": [
-          "实时热榜 · 1191.0万"
+          "实时热榜 · 1117.0万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 快手",
-        "title": "老干妈里挖出70克黄金",
-        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E8%80%81%E5%B9%B2%E5%A6%88%E9%87%8C%E6%8C%96%E5%87%BA70%E5%85%8B%E9%BB%84%E9%87%91&rankType=1",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "台风杜鹃或达超强级别",
+        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%8F%B0%E9%A3%8E%E6%9D%9C%E9%B9%83%E6%88%96%E8%BE%BE%E8%B6%85%E5%BC%BA%E7%BA%A7%E5%88%AB&rankType=1",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 快手榜单页",
         "title": "快手热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-快手热榜-6-E9878DE6A188E585ADE7BB84E79FB3E699AF",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-快手热榜-6-E9878DE5BA86E58DB3E5B086E8BF9BE585A5",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "快手热榜",
-    "titleZh": "重案六组石景山惨案太窒息",
-    "summaryZh": "2026-09-15 Tophub · 快手第 6 名，热度 1168.9万。实时热榜 · 1168.9万",
+    "titleZh": "重庆即将进入一级吃鸡状态",
+    "summaryZh": "2026-09-16 Tophub · 快手第 6 名，热度 1100.6万。实时热榜 · 1100.6万",
     "whyItMatters": "收录原因：进入快手热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -10824,47 +10763,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 快手。",
-      "排名：快手热榜第 6 名，热度 1168.9万。",
-      "具体信息：重案六组石景山惨案太窒息。实时热榜 · 1168.9万",
+      "排名：快手热榜第 6 名，热度 1100.6万。",
+      "具体信息：重庆即将进入一级吃鸡状态。实时热榜 · 1100.6万",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 快手",
-        "title": "重案六组石景山惨案太窒息",
-        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%E7%9F%B3%E6%99%AF%E5%B1%B1%E6%83%A8%E6%A1%88%E5%A4%AA%E7%AA%92%E6%81%AF&rankType=1",
-        "description": "实时热榜 · 1168.9万",
+        "title": "重庆即将进入一级吃鸡状态",
+        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E9%87%8D%E5%BA%86%E5%8D%B3%E5%B0%86%E8%BF%9B%E5%85%A5%E4%B8%80%E7%BA%A7%E5%90%83%E9%B8%A1%E7%8A%B6%E6%80%81&rankType=1",
+        "description": "实时热榜 · 1100.6万",
         "paragraphs": [
-          "实时热榜 · 1168.9万"
+          "实时热榜 · 1100.6万"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 快手",
-        "title": "重案六组石景山惨案太窒息",
-        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%E7%9F%B3%E6%99%AF%E5%B1%B1%E6%83%A8%E6%A1%88%E5%A4%AA%E7%AA%92%E6%81%AF&rankType=1",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "重庆即将进入一级吃鸡状态",
+        "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E9%87%8D%E5%BA%86%E5%8D%B3%E5%B0%86%E8%BF%9B%E5%85%A5%E4%B8%80%E7%BA%A7%E5%90%83%E9%B8%A1%E7%8A%B6%E6%80%81&rankType=1",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 快手榜单页",
         "title": "快手热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-腾讯新闻-1-E88396E4B89CE69DA5E5868DE68B9BE696B0",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-腾讯新闻-1-E794B7E5A9B4E8A2ABE8AFAFE6938DE4BD9C",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "腾讯新闻",
-    "titleZh": "胖东来再招新员工合同四年，到期后不续签走向社会，“新人不续签”合理吗？会引发其他企业跟风吗？",
-    "summaryZh": "2026-09-15 Tophub · 腾讯新闻第 1 名。热问 · 拾光者",
+    "titleZh": "男婴被误操作注射10倍肾上腺素，这会给孩子健康带来多大伤害？医嘱到打针之间本该有几道防错关卡？",
+    "summaryZh": "2026-09-16 Tophub · 腾讯新闻第 1 名。热问 · 营养师Bruce",
     "whyItMatters": "收录原因：进入腾讯新闻前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -10885,47 +10824,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 腾讯新闻。",
       "排名：腾讯新闻第 1 名。",
-      "具体信息：胖东来再招新员工合同四年，到期后不续签走向社会，“新人不续签”合理吗？会引发其他企业跟风吗？。热问 · 拾光者",
+      "具体信息：男婴被误操作注射10倍肾上腺素，这会给孩子健康带来多大伤害？医嘱到打针之间本该有几道防错关卡？。热问 · 营养师Bruce",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 腾讯新闻",
-        "title": "胖东来再招新员工合同四年，到期后不续签走向社会，“新人不续签”合理吗？会引发其他企业跟风吗？",
-        "url": "https://new.qq.com/rain/a/20260913Q07O6S00",
-        "description": "热问 · 拾光者",
+        "title": "男婴被误操作注射10倍肾上腺素，这会给孩子健康带来多大伤害？医嘱到打针之间本该有几道防错关卡？",
+        "url": "https://new.qq.com/rain/a/20260915Q08Q2U00",
+        "description": "热问 · 营养师Bruce",
         "paragraphs": [
-          "热问 · 拾光者"
+          "热问 · 营养师Bruce"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 腾讯新闻",
-        "title": "胖东来再招新员工合同四年，到期后不续签走向社会，“新人不续签”合理吗？会引发其他企业跟风吗？",
-        "url": "https://new.qq.com/rain/a/20260913Q07O6S00",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "男婴被误操作注射10倍肾上腺素，这会给孩子健康带来多大伤害？医嘱到打针之间本该有几道防错关卡？",
+        "url": "https://new.qq.com/rain/a/20260915Q08Q2U00",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 腾讯新闻榜单页",
         "title": "腾讯新闻",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-腾讯新闻-2-E4B8ADE59BBDE8B6B3E79083E5B08FE5B086",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-腾讯新闻-2-E68AA5E98193E7A7B0E6B599E6B19FE4B880",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "腾讯新闻",
-    "titleZh": "中国足球小将9战全胜西班牙夺冠，这批孩子未来能走多远？ 董路的青训模式值得被推广复制吗？",
-    "summaryZh": "2026-09-15 Tophub · 腾讯新闻第 2 名。热问 · 之乎者也小鱼儿",
+    "titleZh": "报道称浙江一妈妈孕期吃无碘盐导致女儿2岁多不会说话，吃盐到底该不该“控碘”？哪些人群不该食用无碘盐？",
+    "summaryZh": "2026-09-16 Tophub · 腾讯新闻第 2 名。热问 · 营养师Bruce",
     "whyItMatters": "收录原因：进入腾讯新闻前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -10946,230 +10885,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 腾讯新闻。",
       "排名：腾讯新闻第 2 名。",
-      "具体信息：中国足球小将9战全胜西班牙夺冠，这批孩子未来能走多远？ 董路的青训模式值得被推广复制吗？。热问 · 之乎者也小鱼儿",
+      "具体信息：报道称浙江一妈妈孕期吃无碘盐导致女儿2岁多不会说话，吃盐到底该不该“控碘”？哪些人群不该食用无碘盐？。热问 · 营养师Bruce",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 腾讯新闻",
-        "title": "中国足球小将9战全胜西班牙夺冠，这批孩子未来能走多远？ 董路的青训模式值得被推广复制吗？",
-        "url": "https://new.qq.com/rain/a/20260914Q0CSEZ00",
-        "description": "热问 · 之乎者也小鱼儿",
+        "title": "报道称浙江一妈妈孕期吃无碘盐导致女儿2岁多不会说话，吃盐到底该不该“控碘”？哪些人群不该食用无碘盐？",
+        "url": "https://new.qq.com/rain/a/20260915Q035ZW00",
+        "description": "热问 · 营养师Bruce",
         "paragraphs": [
-          "热问 · 之乎者也小鱼儿"
+          "热问 · 营养师Bruce"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 腾讯新闻",
-        "title": "中国足球小将9战全胜西班牙夺冠，这批孩子未来能走多远？ 董路的青训模式值得被推广复制吗？",
-        "url": "https://new.qq.com/rain/a/20260914Q0CSEZ00",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "报道称浙江一妈妈孕期吃无碘盐导致女儿2岁多不会说话，吃盐到底该不该“控碘”？哪些人群不该食用无碘盐？",
+        "url": "https://new.qq.com/rain/a/20260915Q035ZW00",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 腾讯新闻榜单页",
         "title": "腾讯新闻",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-腾讯新闻-3-E59BBDE4B992E6BEB3E997A8E8B59B0E586A",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "腾讯新闻",
-    "titleZh": "国乒澳门赛0冠，张本美和三次击败中国选手实现三连冠，为何国乒会连败？张本美和已成头号威胁吗？",
-    "summaryZh": "2026-09-15 Tophub · 腾讯新闻第 3 名。热问 · 江神",
-    "whyItMatters": "收录原因：进入腾讯新闻前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "Tophub · 腾讯新闻",
-      "Tophub",
-      "腾讯新闻"
-    ],
-    "rank": 3,
-    "heatScore": 94,
-    "importanceScore": 94,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "腾讯新闻",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：Tophub · 腾讯新闻。",
-      "排名：腾讯新闻第 3 名。",
-      "具体信息：国乒澳门赛0冠，张本美和三次击败中国选手实现三连冠，为何国乒会连败？张本美和已成头号威胁吗？。热问 · 江神",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "Tophub · 腾讯新闻",
-        "title": "国乒澳门赛0冠，张本美和三次击败中国选手实现三连冠，为何国乒会连败？张本美和已成头号威胁吗？",
-        "url": "https://new.qq.com/rain/a/20260913Q08XAY00",
-        "description": "热问 · 江神",
-        "paragraphs": [
-          "热问 · 江神"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "Tophub · 腾讯新闻",
-        "title": "国乒澳门赛0冠，张本美和三次击败中国选手实现三连冠，为何国乒会连败？张本美和已成头号威胁吗？",
-        "url": "https://new.qq.com/rain/a/20260913Q08XAY00",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "Tophub · 腾讯新闻榜单页",
-        "title": "腾讯新闻",
-        "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-腾讯新闻-4-16E5B281E5B08FE5B086E5AD99E5BF83E784",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "腾讯新闻",
-    "titleZh": "16岁小将孙心然首夺美网青少年女单冠军，如何评价这个冠军的含金量？她未来的潜力如何？",
-    "summaryZh": "2026-09-15 Tophub · 腾讯新闻第 4 名。热问 · 之乎者也小鱼儿",
-    "whyItMatters": "收录原因：进入腾讯新闻前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "Tophub · 腾讯新闻",
-      "Tophub",
-      "腾讯新闻"
-    ],
-    "rank": 4,
-    "heatScore": 91,
-    "importanceScore": 91,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "腾讯新闻",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：Tophub · 腾讯新闻。",
-      "排名：腾讯新闻第 4 名。",
-      "具体信息：16岁小将孙心然首夺美网青少年女单冠军，如何评价这个冠军的含金量？她未来的潜力如何？。热问 · 之乎者也小鱼儿",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "Tophub · 腾讯新闻",
-        "title": "16岁小将孙心然首夺美网青少年女单冠军，如何评价这个冠军的含金量？她未来的潜力如何？",
-        "url": "https://new.qq.com/rain/a/20260913Q05RJP00",
-        "description": "热问 · 之乎者也小鱼儿",
-        "paragraphs": [
-          "热问 · 之乎者也小鱼儿"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "Tophub · 腾讯新闻",
-        "title": "16岁小将孙心然首夺美网青少年女单冠军，如何评价这个冠军的含金量？她未来的潜力如何？",
-        "url": "https://new.qq.com/rain/a/20260913Q05RJP00",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "Tophub · 腾讯新闻榜单页",
-        "title": "腾讯新闻",
-        "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-腾讯新闻-5-E4BC8AE69C97E882A1E5B882E58D95E697A5",
-    "date": "2026-09-15",
-    "channel": "hot_rankings",
-    "section": "腾讯新闻",
-    "titleZh": "伊朗股市单日涨超15万点，逼近750万点大关，这种涨幅是什么水平？为何伊朗股指会高达数百万点？",
-    "summaryZh": "2026-09-15 Tophub · 腾讯新闻第 5 名。热问 · 江神",
-    "whyItMatters": "收录原因：进入腾讯新闻前列，代表截止本次更新时该平台的高热度内容。",
-    "regions": [
-      "中国"
-    ],
-    "people": [],
-    "platforms": [
-      "Tophub · 腾讯新闻",
-      "Tophub",
-      "腾讯新闻"
-    ],
-    "rank": 5,
-    "heatScore": 88,
-    "importanceScore": 88,
-    "confidence": "confirmed",
-    "thumbnailUrl": "",
-    "preferenceTags": [
-      "腾讯新闻",
-      "平台热榜"
-    ],
-    "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
-      "平台：Tophub · 腾讯新闻。",
-      "排名：腾讯新闻第 5 名。",
-      "具体信息：伊朗股市单日涨超15万点，逼近750万点大关，这种涨幅是什么水平？为何伊朗股指会高达数百万点？。热问 · 江神",
-      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
-    ],
-    "sourceSnapshots": [
-      {
-        "publisher": "Tophub · 腾讯新闻",
-        "title": "伊朗股市单日涨超15万点，逼近750万点大关，这种涨幅是什么水平？为何伊朗股指会高达数百万点？",
-        "url": "https://new.qq.com/rain/a/20260913Q08N3100",
-        "description": "热问 · 江神",
-        "paragraphs": [
-          "热问 · 江神"
-        ],
-        "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
-      }
-    ],
-    "sources": [
-      {
-        "publisher": "Tophub · 腾讯新闻",
-        "title": "伊朗股市单日涨超15万点，逼近750万点大关，这种涨幅是什么水平？为何伊朗股指会高达数百万点？",
-        "url": "https://new.qq.com/rain/a/20260913Q08N3100",
-        "publishedAt": "2026-09-15 08:00"
-      },
-      {
-        "publisher": "Tophub · 腾讯新闻榜单页",
-        "title": "腾讯新闻",
-        "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-15-hot-腾讯新闻-6-E88B8FE6A0BCE585B0E38081E5A881E5B094",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-腾讯新闻-3-E88B8FE6A0BCE585B0E38081E5A881E5B094",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "腾讯新闻",
     "titleZh": "苏格兰、威尔士及北爱尔兰将联合要求获得举行独立公投的权利，英国真的可能解体吗？若英国解体会发生哪些连锁反应？",
-    "summaryZh": "2026-09-15 Tophub · 腾讯新闻第 6 名。热问 · 溯流Pi",
+    "summaryZh": "2026-09-16 Tophub · 腾讯新闻第 3 名。热问 · 溯流Pi",
     "whyItMatters": "收录原因：进入腾讯新闻前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -11180,9 +10936,9 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "Tophub",
       "腾讯新闻"
     ],
-    "rank": 6,
-    "heatScore": 85,
-    "importanceScore": 85,
+    "rank": 3,
+    "heatScore": 94,
+    "importanceScore": 94,
     "confidence": "confirmed",
     "thumbnailUrl": "",
     "preferenceTags": [
@@ -11190,9 +10946,9 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 腾讯新闻。",
-      "排名：腾讯新闻第 6 名。",
+      "排名：腾讯新闻第 3 名。",
       "具体信息：苏格兰、威尔士及北爱尔兰将联合要求获得举行独立公投的权利，英国真的可能解体吗？若英国解体会发生哪些连锁反应？。热问 · 溯流Pi",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
@@ -11206,7 +10962,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "热问 · 溯流Pi"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -11214,23 +10970,206 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 腾讯新闻",
         "title": "苏格兰、威尔士及北爱尔兰将联合要求获得举行独立公投的权利，英国真的可能解体吗？若英国解体会发生哪些连锁反应？",
         "url": "https://new.qq.com/rain/a/20260914Q05RWZ00",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 腾讯新闻榜单页",
         "title": "腾讯新闻",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站聚合热榜-1-E4B887E4BABAE8BFBDE69BB4E79A84E7BB88",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-腾讯新闻-4-E58D8EE4B8BAE38081E8B59BE58A9BE696AF",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "腾讯新闻",
+    "titleZh": "华为、赛力斯合作将调整为轻资产模式，为什么要这样调整？这会带来什么变化？",
+    "summaryZh": "2026-09-16 Tophub · 腾讯新闻第 4 名。热问 · 之乎者也小鱼儿",
+    "whyItMatters": "收录原因：进入腾讯新闻前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "Tophub · 腾讯新闻",
+      "Tophub",
+      "腾讯新闻"
+    ],
+    "rank": 4,
+    "heatScore": 91,
+    "importanceScore": 91,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "腾讯新闻",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：Tophub · 腾讯新闻。",
+      "排名：腾讯新闻第 4 名。",
+      "具体信息：华为、赛力斯合作将调整为轻资产模式，为什么要这样调整？这会带来什么变化？。热问 · 之乎者也小鱼儿",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "Tophub · 腾讯新闻",
+        "title": "华为、赛力斯合作将调整为轻资产模式，为什么要这样调整？这会带来什么变化？",
+        "url": "https://new.qq.com/rain/a/20260915Q06ADE00",
+        "description": "热问 · 之乎者也小鱼儿",
+        "paragraphs": [
+          "热问 · 之乎者也小鱼儿"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tophub · 腾讯新闻",
+        "title": "华为、赛力斯合作将调整为轻资产模式，为什么要这样调整？这会带来什么变化？",
+        "url": "https://new.qq.com/rain/a/20260915Q06ADE00",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "Tophub · 腾讯新闻榜单页",
+        "title": "腾讯新闻",
+        "url": "https://tophub.today/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-腾讯新闻-5-E8A5BFE78FADE78999E4BABAE9989FE5AEA3",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "腾讯新闻",
+    "titleZh": "西班牙人队宣布17岁中国球员吕孟洋加盟，将代表青年B队出战，他的潜力如何？未来能否登陆欧洲一线赛场？",
+    "summaryZh": "2026-09-16 Tophub · 腾讯新闻第 5 名。热问 · 江神",
+    "whyItMatters": "收录原因：进入腾讯新闻前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "Tophub · 腾讯新闻",
+      "Tophub",
+      "腾讯新闻"
+    ],
+    "rank": 5,
+    "heatScore": 88,
+    "importanceScore": 88,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "腾讯新闻",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：Tophub · 腾讯新闻。",
+      "排名：腾讯新闻第 5 名。",
+      "具体信息：西班牙人队宣布17岁中国球员吕孟洋加盟，将代表青年B队出战，他的潜力如何？未来能否登陆欧洲一线赛场？。热问 · 江神",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "Tophub · 腾讯新闻",
+        "title": "西班牙人队宣布17岁中国球员吕孟洋加盟，将代表青年B队出战，他的潜力如何？未来能否登陆欧洲一线赛场？",
+        "url": "https://new.qq.com/rain/a/20260914Q0CZ6F00",
+        "description": "热问 · 江神",
+        "paragraphs": [
+          "热问 · 江神"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tophub · 腾讯新闻",
+        "title": "西班牙人队宣布17岁中国球员吕孟洋加盟，将代表青年B队出战，他的潜力如何？未来能否登陆欧洲一线赛场？",
+        "url": "https://new.qq.com/rain/a/20260914Q0CZ6F00",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "Tophub · 腾讯新闻榜单页",
+        "title": "腾讯新闻",
+        "url": "https://tophub.today/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-腾讯新闻-6-E5AA92E4BD93E7A7B0E88EB1E69882E7BAB3",
+    "date": "2026-09-16",
+    "channel": "hot_rankings",
+    "section": "腾讯新闻",
+    "titleZh": "媒体称莱昂纳德放弃745万保证金重返猛龙，预计下赛季2年1.26亿续约，他还能带领球队冲冠吗？猛龙这笔交易值不值？",
+    "summaryZh": "2026-09-16 Tophub · 腾讯新闻第 6 名。热问 · 之乎者也小鱼儿",
+    "whyItMatters": "收录原因：进入腾讯新闻前列，代表截止本次更新时该平台的高热度内容。",
+    "regions": [
+      "中国"
+    ],
+    "people": [],
+    "platforms": [
+      "Tophub · 腾讯新闻",
+      "Tophub",
+      "腾讯新闻"
+    ],
+    "rank": 6,
+    "heatScore": 85,
+    "importanceScore": 85,
+    "confidence": "confirmed",
+    "thumbnailUrl": "",
+    "preferenceTags": [
+      "腾讯新闻",
+      "平台热榜"
+    ],
+    "detailBlocks": [
+      "时间：2026-09-16 本次自动更新。",
+      "平台：Tophub · 腾讯新闻。",
+      "排名：腾讯新闻第 6 名。",
+      "具体信息：媒体称莱昂纳德放弃745万保证金重返猛龙，预计下赛季2年1.26亿续约，他还能带领球队冲冠吗？猛龙这笔交易值不值？。热问 · 之乎者也小鱼儿",
+      "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
+    ],
+    "sourceSnapshots": [
+      {
+        "publisher": "Tophub · 腾讯新闻",
+        "title": "媒体称莱昂纳德放弃745万保证金重返猛龙，预计下赛季2年1.26亿续约，他还能带领球队冲冠吗？猛龙这笔交易值不值？",
+        "url": "https://new.qq.com/rain/a/20260915Q05L8P00",
+        "description": "热问 · 之乎者也小鱼儿",
+        "paragraphs": [
+          "热问 · 之乎者也小鱼儿"
+        ],
+        "imageUrl": "",
+        "capturedAt": "2026-09-16 08:00"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tophub · 腾讯新闻",
+        "title": "媒体称莱昂纳德放弃745万保证金重返猛龙，预计下赛季2年1.26亿续约，他还能带领球队冲冠吗？猛龙这笔交易值不值？",
+        "url": "https://new.qq.com/rain/a/20260915Q05L8P00",
+        "publishedAt": "2026-09-16 08:00"
+      },
+      {
+        "publisher": "Tophub · 腾讯新闻榜单页",
+        "title": "腾讯新闻",
+        "url": "https://tophub.today/",
+        "publishedAt": "2026-09-16 08:00"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-16-hot-B站聚合热榜-1-E4B887E4BABAE8BFBDE69BB4E79A84E7BB88",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站聚合热榜",
     "titleZh": "万人追更的终南山怪虫，只有我们拍到了真相！",
-    "summaryZh": "2026-09-15 Tophub · 哔哩哔哩第 1 名，热度 730.1万。每周必看 · 730.1万观看 · 9月4日",
+    "summaryZh": "2026-09-16 Tophub · 哔哩哔哩第 1 名，热度 739.2万。每周必看 · 739.2万观看 · 9月4日",
     "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -11251,10 +11190,10 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 哔哩哔哩。",
-      "排名：B站聚合热榜第 1 名，热度 730.1万。",
-      "具体信息：万人追更的终南山怪虫，只有我们拍到了真相！。每周必看 · 730.1万观看 · 9月4日",
+      "排名：B站聚合热榜第 1 名，热度 739.2万。",
+      "具体信息：万人追更的终南山怪虫，只有我们拍到了真相！。每周必看 · 739.2万观看 · 9月4日",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
@@ -11262,12 +11201,12 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 哔哩哔哩",
         "title": "万人追更的终南山怪虫，只有我们拍到了真相！",
         "url": "https://www.bilibili.com/video/av117207493249570/",
-        "description": "每周必看 · 730.1万观看 · 9月4日",
+        "description": "每周必看 · 739.2万观看 · 9月4日",
         "paragraphs": [
-          "每周必看 · 730.1万观看 · 9月4日"
+          "每周必看 · 739.2万观看 · 9月4日"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -11275,23 +11214,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 哔哩哔哩",
         "title": "万人追更的终南山怪虫，只有我们拍到了真相！",
         "url": "https://www.bilibili.com/video/av117207493249570/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 哔哩哔哩榜单页",
         "title": "B站聚合热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站聚合热榜-2-E29AA1E3808AE5889DE99FB3E5A4A7E68898",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站聚合热榜-2-E29AA1E3808AE5889DE99FB3E5A4A7E68898",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站聚合热榜",
     "titleZh": "⚡《初音大战奥特曼》传统戏曲⚡【bilibilionly同人扶持计划】",
-    "summaryZh": "2026-09-15 Tophub · 哔哩哔哩第 2 名，热度 313.0万。每周必看 · 313万观看 · 9月7日",
+    "summaryZh": "2026-09-16 Tophub · 哔哩哔哩第 2 名，热度 330.9万。每周必看 · 330.9万观看 · 9月7日",
     "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -11312,10 +11251,10 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 哔哩哔哩。",
-      "排名：B站聚合热榜第 2 名，热度 313.0万。",
-      "具体信息：⚡《初音大战奥特曼》传统戏曲⚡【bilibilionly同人扶持计划】。每周必看 · 313万观看 · 9月7日",
+      "排名：B站聚合热榜第 2 名，热度 330.9万。",
+      "具体信息：⚡《初音大战奥特曼》传统戏曲⚡【bilibilionly同人扶持计划】。每周必看 · 330.9万观看 · 9月7日",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
@@ -11323,12 +11262,12 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 哔哩哔哩",
         "title": "⚡《初音大战奥特曼》传统戏曲⚡【bilibilionly同人扶持计划】",
         "url": "https://www.bilibili.com/video/av117225193211487/",
-        "description": "每周必看 · 313万观看 · 9月7日",
+        "description": "每周必看 · 330.9万观看 · 9月7日",
         "paragraphs": [
-          "每周必看 · 313万观看 · 9月7日"
+          "每周必看 · 330.9万观看 · 9月7日"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -11336,23 +11275,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 哔哩哔哩",
         "title": "⚡《初音大战奥特曼》传统戏曲⚡【bilibilionly同人扶持计划】",
         "url": "https://www.bilibili.com/video/av117225193211487/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 哔哩哔哩榜单页",
         "title": "B站聚合热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站聚合热榜-3-E6AF8FE8AFB4E4B880E4B8AAE69DB0E5AD97",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站聚合热榜-3-E6AF8FE8AFB4E4B880E4B8AAE69DB0E5AD97",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站聚合热榜",
     "titleZh": "每说一个杰字，文明倒退一次",
-    "summaryZh": "2026-09-15 Tophub · 哔哩哔哩第 3 名，热度 601.8万。每周必看 · 601.8万观看 · 9月9日",
+    "summaryZh": "2026-09-16 Tophub · 哔哩哔哩第 3 名，热度 612.9万。每周必看 · 612.9万观看 · 9月9日",
     "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -11373,10 +11312,10 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 哔哩哔哩。",
-      "排名：B站聚合热榜第 3 名，热度 601.8万。",
-      "具体信息：每说一个杰字，文明倒退一次。每周必看 · 601.8万观看 · 9月9日",
+      "排名：B站聚合热榜第 3 名，热度 612.9万。",
+      "具体信息：每说一个杰字，文明倒退一次。每周必看 · 612.9万观看 · 9月9日",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
@@ -11384,12 +11323,12 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 哔哩哔哩",
         "title": "每说一个杰字，文明倒退一次",
         "url": "https://www.bilibili.com/video/av117236786268245/",
-        "description": "每周必看 · 601.8万观看 · 9月9日",
+        "description": "每周必看 · 612.9万观看 · 9月9日",
         "paragraphs": [
-          "每周必看 · 601.8万观看 · 9月9日"
+          "每周必看 · 612.9万观看 · 9月9日"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -11397,23 +11336,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 哔哩哔哩",
         "title": "每说一个杰字，文明倒退一次",
         "url": "https://www.bilibili.com/video/av117236786268245/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 哔哩哔哩榜单页",
         "title": "B站聚合热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站聚合热榜-4-E98293E4BA9AE8908DE5AFB9E8AF9DE8B5B5",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站聚合热榜-4-E98293E4BA9AE8908DE5AFB9E8AF9DE8B5B5",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站聚合热榜",
     "titleZh": "邓亚萍对话赵蕊蕊：从女排世界冠军到科幻作家 | 邓亚萍·冠军下半场EP1【视频播客】",
-    "summaryZh": "2026-09-15 Tophub · 哔哩哔哩第 4 名，热度 57.4万。每周必看 · 57.4万观看 · 9月7日",
+    "summaryZh": "2026-09-16 Tophub · 哔哩哔哩第 4 名，热度 57.7万。每周必看 · 57.7万观看 · 9月7日",
     "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -11434,10 +11373,10 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 哔哩哔哩。",
-      "排名：B站聚合热榜第 4 名，热度 57.4万。",
-      "具体信息：邓亚萍对话赵蕊蕊：从女排世界冠军到科幻作家 | 邓亚萍·冠军下半场EP1【视频播客】。每周必看 · 57.4万观看 · 9月7日",
+      "排名：B站聚合热榜第 4 名，热度 57.7万。",
+      "具体信息：邓亚萍对话赵蕊蕊：从女排世界冠军到科幻作家 | 邓亚萍·冠军下半场EP1【视频播客】。每周必看 · 57.7万观看 · 9月7日",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
@@ -11445,12 +11384,12 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 哔哩哔哩",
         "title": "邓亚萍对话赵蕊蕊：从女排世界冠军到科幻作家 | 邓亚萍·冠军下半场EP1【视频播客】",
         "url": "https://www.bilibili.com/video/av117211788218856/",
-        "description": "每周必看 · 57.4万观看 · 9月7日",
+        "description": "每周必看 · 57.7万观看 · 9月7日",
         "paragraphs": [
-          "每周必看 · 57.4万观看 · 9月7日"
+          "每周必看 · 57.7万观看 · 9月7日"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -11458,23 +11397,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 哔哩哔哩",
         "title": "邓亚萍对话赵蕊蕊：从女排世界冠军到科幻作家 | 邓亚萍·冠军下半场EP1【视频播客】",
         "url": "https://www.bilibili.com/video/av117211788218856/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 哔哩哔哩榜单页",
         "title": "B站聚合热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站聚合热榜-5-E4BB96E58FAAE794A8E4B880E9A696E6AD8C",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站聚合热榜-5-E4BB96E58FAAE794A8E4B880E9A696E6AD8C",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站聚合热榜",
     "titleZh": "他只用一首歌，就能让十四亿中国人乖乖回家",
-    "summaryZh": "2026-09-15 Tophub · 哔哩哔哩第 5 名，热度 464.0万。每周必看 · 464万观看 · 9月5日",
+    "summaryZh": "2026-09-16 Tophub · 哔哩哔哩第 5 名，热度 471.2万。每周必看 · 471.2万观看 · 9月5日",
     "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -11495,10 +11434,10 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 哔哩哔哩。",
-      "排名：B站聚合热榜第 5 名，热度 464.0万。",
-      "具体信息：他只用一首歌，就能让十四亿中国人乖乖回家。每周必看 · 464万观看 · 9月5日",
+      "排名：B站聚合热榜第 5 名，热度 471.2万。",
+      "具体信息：他只用一首歌，就能让十四亿中国人乖乖回家。每周必看 · 471.2万观看 · 9月5日",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
@@ -11506,12 +11445,12 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 哔哩哔哩",
         "title": "他只用一首歌，就能让十四亿中国人乖乖回家",
         "url": "https://www.bilibili.com/video/av117217962236871/",
-        "description": "每周必看 · 464万观看 · 9月5日",
+        "description": "每周必看 · 471.2万观看 · 9月5日",
         "paragraphs": [
-          "每周必看 · 464万观看 · 9月5日"
+          "每周必看 · 471.2万观看 · 9月5日"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -11519,23 +11458,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 哔哩哔哩",
         "title": "他只用一首歌，就能让十四亿中国人乖乖回家",
         "url": "https://www.bilibili.com/video/av117217962236871/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 哔哩哔哩榜单页",
         "title": "B站聚合热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-B站聚合热榜-6-E5AFB9E8AF9DE6B189E696AFC2B7E5ADA3E9",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-B站聚合热榜-6-E5AFB9E8AF9DE6B189E696AFC2B7E5ADA3E9",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "B站聚合热榜",
     "titleZh": "对话汉斯·季默！如何用一段旋律创造一个电影宇宙？",
-    "summaryZh": "2026-09-15 Tophub · 哔哩哔哩第 6 名，热度 151.4万。每周必看 · 151.4万观看 · 9月8日",
+    "summaryZh": "2026-09-16 Tophub · 哔哩哔哩第 6 名，热度 154.8万。每周必看 · 154.8万观看 · 9月8日",
     "whyItMatters": "收录原因：进入B站聚合热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -11556,10 +11495,10 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 哔哩哔哩。",
-      "排名：B站聚合热榜第 6 名，热度 151.4万。",
-      "具体信息：对话汉斯·季默！如何用一段旋律创造一个电影宇宙？。每周必看 · 151.4万观看 · 9月8日",
+      "排名：B站聚合热榜第 6 名，热度 154.8万。",
+      "具体信息：对话汉斯·季默！如何用一段旋律创造一个电影宇宙？。每周必看 · 154.8万观看 · 9月8日",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
@@ -11567,12 +11506,12 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 哔哩哔哩",
         "title": "对话汉斯·季默！如何用一段旋律创造一个电影宇宙？",
         "url": "https://www.bilibili.com/video/av117233128837493/",
-        "description": "每周必看 · 151.4万观看 · 9月8日",
+        "description": "每周必看 · 154.8万观看 · 9月8日",
         "paragraphs": [
-          "每周必看 · 151.4万观看 · 9月8日"
+          "每周必看 · 154.8万观看 · 9月8日"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -11580,23 +11519,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 哔哩哔哩",
         "title": "对话汉斯·季默！如何用一段旋律创造一个电影宇宙？",
         "url": "https://www.bilibili.com/video/av117233128837493/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 哔哩哔哩榜单页",
         "title": "B站聚合热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-抖音热榜-1-E4B88AE6B5B7E6B688E998B2E680BBE9989F",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-抖音热榜-1-E69DBFE587B3E4B99FE698AFE7AD9023E7AF",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "抖音热榜",
-    "titleZh": "上海消防总队十五米金属梯第一#消防比武竞赛 #消防员 #消防救援训练",
-    "summaryZh": "2026-09-15 Tophub · 抖音第 1 名，热度 1965.4万。体育榜 · 19653972次播放",
+    "titleZh": "板凳也是筐#篮球",
+    "summaryZh": "2026-09-16 Tophub · 抖音第 1 名，热度 1520.5万。体育榜 · 15205254次播放",
     "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -11617,47 +11556,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 抖音。",
-      "排名：抖音热榜第 1 名，热度 1965.4万。",
-      "具体信息：上海消防总队十五米金属梯第一#消防比武竞赛 #消防员 #消防救援训练。体育榜 · 19653972次播放",
+      "排名：抖音热榜第 1 名，热度 1520.5万。",
+      "具体信息：板凳也是筐#篮球。体育榜 · 15205254次播放",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "上海消防总队十五米金属梯第一#消防比武竞赛 #消防员 #消防救援训练",
-        "url": "https://www.douyin.com/video/7685216668318148537",
-        "description": "体育榜 · 19653972次播放",
+        "title": "板凳也是筐#篮球",
+        "url": "https://www.douyin.com/video/7684211281989028066",
+        "description": "体育榜 · 15205254次播放",
         "paragraphs": [
-          "体育榜 · 19653972次播放"
+          "体育榜 · 15205254次播放"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "上海消防总队十五米金属梯第一#消防比武竞赛 #消防员 #消防救援训练",
-        "url": "https://www.douyin.com/video/7685216668318148537",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "板凳也是筐#篮球",
+        "url": "https://www.douyin.com/video/7684211281989028066",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 抖音榜单页",
         "title": "抖音热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-抖音热榜-2-E69DBFE587B3E4B99FE698AFE7AD9023E7AF",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-抖音热榜-2-E69DBFE5A4B421E79C9FE4B88DE5A5BDE8BD",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "抖音热榜",
-    "titleZh": "板凳也是筐#篮球",
-    "summaryZh": "2026-09-15 Tophub · 抖音第 2 名，热度 1891.4万。体育榜 · 18914255次播放",
+    "titleZh": "板头21真不好转 😑难着了🙃#单板滑雪#单板滑雪",
+    "summaryZh": "2026-09-16 Tophub · 抖音第 2 名，热度 1143.3万。体育榜 · 11432590次播放",
     "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -11678,47 +11617,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 抖音。",
-      "排名：抖音热榜第 2 名，热度 1891.4万。",
-      "具体信息：板凳也是筐#篮球。体育榜 · 18914255次播放",
+      "排名：抖音热榜第 2 名，热度 1143.3万。",
+      "具体信息：板头21真不好转 😑难着了🙃#单板滑雪#单板滑雪。体育榜 · 11432590次播放",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "板凳也是筐#篮球",
-        "url": "https://www.douyin.com/video/7684211281989028066",
-        "description": "体育榜 · 18914255次播放",
+        "title": "板头21真不好转 😑难着了🙃#单板滑雪#单板滑雪",
+        "url": "https://www.douyin.com/video/7684991897652058341",
+        "description": "体育榜 · 11432590次播放",
         "paragraphs": [
-          "体育榜 · 18914255次播放"
+          "体育榜 · 11432590次播放"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "板凳也是筐#篮球",
-        "url": "https://www.douyin.com/video/7684211281989028066",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "板头21真不好转 😑难着了🙃#单板滑雪#单板滑雪",
+        "url": "https://www.douyin.com/video/7684991897652058341",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 抖音榜单页",
         "title": "抖音热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-抖音热榜-3-E2809CE4B8BBE69599E7BB83E5B7AEE782B9",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-抖音热榜-3-E4B88AE6B5B7E6B688E998B2E680BBE9989F",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "抖音热榜",
-    "titleZh": "“主教练差点进了一个3分”#篮球🏀 #篮球摄手虎 #广东宏远 #篮球搞笑",
-    "summaryZh": "2026-09-15 Tophub · 抖音第 3 名，热度 1105.8万。体育榜 · 11058106次播放",
+    "titleZh": "上海消防总队十五米金属梯第一#消防比武竞赛 #消防员 #消防救援训练",
+    "summaryZh": "2026-09-16 Tophub · 抖音第 3 名，热度 1125.4万。体育榜 · 11254061次播放",
     "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -11739,47 +11678,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 抖音。",
-      "排名：抖音热榜第 3 名，热度 1105.8万。",
-      "具体信息：“主教练差点进了一个3分”#篮球🏀 #篮球摄手虎 #广东宏远 #篮球搞笑。体育榜 · 11058106次播放",
+      "排名：抖音热榜第 3 名，热度 1125.4万。",
+      "具体信息：上海消防总队十五米金属梯第一#消防比武竞赛 #消防员 #消防救援训练。体育榜 · 11254061次播放",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "“主教练差点进了一个3分”#篮球🏀 #篮球摄手虎 #广东宏远 #篮球搞笑",
-        "url": "https://www.douyin.com/video/7684992764262820337",
-        "description": "体育榜 · 11058106次播放",
+        "title": "上海消防总队十五米金属梯第一#消防比武竞赛 #消防员 #消防救援训练",
+        "url": "https://www.douyin.com/video/7685216668318148537",
+        "description": "体育榜 · 11254061次播放",
         "paragraphs": [
-          "体育榜 · 11058106次播放"
+          "体育榜 · 11254061次播放"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "“主教练差点进了一个3分”#篮球🏀 #篮球摄手虎 #广东宏远 #篮球搞笑",
-        "url": "https://www.douyin.com/video/7684992764262820337",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "上海消防总队十五米金属梯第一#消防比武竞赛 #消防员 #消防救援训练",
+        "url": "https://www.douyin.com/video/7685216668318148537",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 抖音榜单页",
         "title": "抖音热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-抖音热榜-4-E69DBFE5A4B421E79C9FE4B88DE5A5BDE8BD",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-抖音热榜-4-E59B9BE5B79DE9AB98E5B1B1E6B996E6B38A",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "抖音热榜",
-    "titleZh": "板头21真不好转 😑难着了🙃#单板滑雪#单板滑雪",
-    "summaryZh": "2026-09-15 Tophub · 抖音第 4 名，热度 1010.7万。体育榜 · 10106535次播放",
+    "titleZh": "四川高山湖泊露营太安逸，方盒子相伴的垂钓生活 #传祺越7超舒适的悦野方盒子 #满配方盒子越7预售 #传祺越7",
+    "summaryZh": "2026-09-16 Tophub · 抖音第 4 名，热度 679.1万。体育榜 · 6791200次播放",
     "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -11800,47 +11739,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 抖音。",
-      "排名：抖音热榜第 4 名，热度 1010.7万。",
-      "具体信息：板头21真不好转 😑难着了🙃#单板滑雪#单板滑雪。体育榜 · 10106535次播放",
+      "排名：抖音热榜第 4 名，热度 679.1万。",
+      "具体信息：四川高山湖泊露营太安逸，方盒子相伴的垂钓生活 #传祺越7超舒适的悦野方盒子 #满配方盒子越7预售 #传祺越7。体育榜 · 6791200次播放",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "板头21真不好转 😑难着了🙃#单板滑雪#单板滑雪",
-        "url": "https://www.douyin.com/video/7684991897652058341",
-        "description": "体育榜 · 10106535次播放",
+        "title": "四川高山湖泊露营太安逸，方盒子相伴的垂钓生活 #传祺越7超舒适的悦野方盒子 #满配方盒子越7预售 #传祺越7",
+        "url": "https://www.douyin.com/video/7680885235822628150",
+        "description": "体育榜 · 6791200次播放",
         "paragraphs": [
-          "体育榜 · 10106535次播放"
+          "体育榜 · 6791200次播放"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "板头21真不好转 😑难着了🙃#单板滑雪#单板滑雪",
-        "url": "https://www.douyin.com/video/7684991897652058341",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "四川高山湖泊露营太安逸，方盒子相伴的垂钓生活 #传祺越7超舒适的悦野方盒子 #满配方盒子越7预售 #传祺越7",
+        "url": "https://www.douyin.com/video/7680885235822628150",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 抖音榜单页",
         "title": "抖音热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-抖音热榜-5-E5AE8CE4BA86EFBC8CE4B99DE5A6B9E5A5BD",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-抖音热榜-5-E6A5BCE587B3E7BB83E7908323E7AFAEE790",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "抖音热榜",
-    "titleZh": "完了，九妹好像一下午成熟了10岁#零跑C10#全新C10 #宝宝的搞笑行为 #好气又好笑的宝宝",
-    "summaryZh": "2026-09-15 Tophub · 抖音第 5 名，热度 818.2万。体育榜 · 8182067次播放",
+    "titleZh": "楼凳练球#篮球",
+    "summaryZh": "2026-09-16 Tophub · 抖音第 5 名，热度 614.6万。体育榜 · 6145508次播放",
     "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -11861,47 +11800,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 抖音。",
-      "排名：抖音热榜第 5 名，热度 818.2万。",
-      "具体信息：完了，九妹好像一下午成熟了10岁#零跑C10#全新C10 #宝宝的搞笑行为 #好气又好笑的宝宝。体育榜 · 8182067次播放",
+      "排名：抖音热榜第 5 名，热度 614.6万。",
+      "具体信息：楼凳练球#篮球。体育榜 · 6145508次播放",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "完了，九妹好像一下午成熟了10岁#零跑C10#全新C10 #宝宝的搞笑行为 #好气又好笑的宝宝",
-        "url": "https://www.douyin.com/video/7678604900159600347",
-        "description": "体育榜 · 8182067次播放",
+        "title": "楼凳练球#篮球",
+        "url": "https://www.douyin.com/video/7682002377763352936",
+        "description": "体育榜 · 6145508次播放",
         "paragraphs": [
-          "体育榜 · 8182067次播放"
+          "体育榜 · 6145508次播放"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "完了，九妹好像一下午成熟了10岁#零跑C10#全新C10 #宝宝的搞笑行为 #好气又好笑的宝宝",
-        "url": "https://www.douyin.com/video/7678604900159600347",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "楼凳练球#篮球",
+        "url": "https://www.douyin.com/video/7682002377763352936",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 抖音榜单页",
         "title": "抖音热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-抖音热榜-6-E68891E8A681E69D83E580BEE5A4A9E4B88B",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-抖音热榜-6-E4B880E59CBAE789B9E6AE8AE79A84E5809F",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "抖音热榜",
-    "titleZh": "我要权倾天下 我就是要一步一步的追到最高 #舞狮 #非遗",
-    "summaryZh": "2026-09-15 Tophub · 抖音第 6 名，热度 803.6万。体育榜 · 8036116次播放",
+    "titleZh": "一场特殊的借粮钓鱼之行，愿人间自有真情在！ #原来钓鱼才是抖音运动顶流#2026dou来钓鱼#dou是钓鱼人",
+    "summaryZh": "2026-09-16 Tophub · 抖音第 6 名，热度 613.6万。体育榜 · 6136117次播放",
     "whyItMatters": "收录原因：进入抖音热榜前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -11922,47 +11861,47 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 抖音。",
-      "排名：抖音热榜第 6 名，热度 803.6万。",
-      "具体信息：我要权倾天下 我就是要一步一步的追到最高 #舞狮 #非遗。体育榜 · 8036116次播放",
+      "排名：抖音热榜第 6 名，热度 613.6万。",
+      "具体信息：一场特殊的借粮钓鱼之行，愿人间自有真情在！ #原来钓鱼才是抖音运动顶流#2026dou来钓鱼#dou是钓鱼人。体育榜 · 6136117次播放",
       "后续观察：如果同一话题同时进入多个平台榜单，或被媒体/视频平台二次传播，可提升为正式事件条目。"
     ],
     "sourceSnapshots": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "我要权倾天下 我就是要一步一步的追到最高 #舞狮 #非遗",
-        "url": "https://www.douyin.com/video/7684054310582526899",
-        "description": "体育榜 · 8036116次播放",
+        "title": "一场特殊的借粮钓鱼之行，愿人间自有真情在！ #原来钓鱼才是抖音运动顶流#2026dou来钓鱼#dou是钓鱼人",
+        "url": "https://www.douyin.com/video/7685588367685291291",
+        "description": "体育榜 · 6136117次播放",
         "paragraphs": [
-          "体育榜 · 8036116次播放"
+          "体育榜 · 6136117次播放"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
       {
         "publisher": "Tophub · 抖音",
-        "title": "我要权倾天下 我就是要一步一步的追到最高 #舞狮 #非遗",
-        "url": "https://www.douyin.com/video/7684054310582526899",
-        "publishedAt": "2026-09-15 08:00"
+        "title": "一场特殊的借粮钓鱼之行，愿人间自有真情在！ #原来钓鱼才是抖音运动顶流#2026dou来钓鱼#dou是钓鱼人",
+        "url": "https://www.douyin.com/video/7685588367685291291",
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 抖音榜单页",
         "title": "抖音热榜",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-爱范儿-1-E5AE9EE6B58BE699BAE883BDE58AA9E6898B",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-爱范儿-1-E5AE9EE6B58BE699BAE883BDE58AA9E6898B",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "爱范儿",
     "titleZh": "实测智能助手「黑马」海螺 AI：人人上手即用的 AI 产品长这样子",
-    "summaryZh": "2026-09-15 Tophub · 爱范儿第 1 名，热度 11。AppSolution · 11",
+    "summaryZh": "2026-09-16 Tophub · 爱范儿第 1 名，热度 11。AppSolution · 11",
     "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -11983,7 +11922,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 爱范儿。",
       "排名：爱范儿第 1 名，热度 11。",
       "具体信息：实测智能助手「黑马」海螺 AI：人人上手即用的 AI 产品长这样子。AppSolution · 11",
@@ -11999,7 +11938,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "AppSolution · 11"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -12007,23 +11946,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 爱范儿",
         "title": "实测智能助手「黑马」海螺 AI：人人上手即用的 AI 产品长这样子",
         "url": "https://www.ifanr.com/app/1585191",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 爱范儿榜单页",
         "title": "爱范儿",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-爱范儿-2-619920E58583E4B9B020iPhone201420ProE",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-爱范儿-2-619920E58583E4B9B020iPhone201420ProE",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "爱范儿",
     "titleZh": "6199 元买 iPhone 14 Pro！618 省钱的秘密，都在这里了",
-    "summaryZh": "2026-09-15 Tophub · 爱范儿第 2 名，热度 124。AppSolution · 124",
+    "summaryZh": "2026-09-16 Tophub · 爱范儿第 2 名，热度 124。AppSolution · 124",
     "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -12044,7 +11983,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 爱范儿。",
       "排名：爱范儿第 2 名，热度 124。",
       "具体信息：6199 元买 iPhone 14 Pro！618 省钱的秘密，都在这里了。AppSolution · 124",
@@ -12060,7 +11999,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "AppSolution · 124"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -12068,23 +12007,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 爱范儿",
         "title": "6199 元买 iPhone 14 Pro！618 省钱的秘密，都在这里了",
         "url": "https://www.ifanr.com/app/1552606",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 爱范儿榜单页",
         "title": "爱范儿",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-爱范儿-3-E5BEAEE4BFA1E994AEE79B98E585A8E5B9B3",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-爱范儿-3-E5BEAEE4BFA1E994AEE79B98E585A8E5B9B3",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "爱范儿",
     "titleZh": "微信键盘全平台体验：最适合微信的输入法，但不适合所有人",
-    "summaryZh": "2026-09-15 Tophub · 爱范儿第 3 名，热度 68。AppSolution · 68",
+    "summaryZh": "2026-09-16 Tophub · 爱范儿第 3 名，热度 68。AppSolution · 68",
     "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -12105,7 +12044,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 爱范儿。",
       "排名：爱范儿第 3 名，热度 68。",
       "具体信息：微信键盘全平台体验：最适合微信的输入法，但不适合所有人。AppSolution · 68",
@@ -12121,7 +12060,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "AppSolution · 68"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -12129,23 +12068,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 爱范儿",
         "title": "微信键盘全平台体验：最适合微信的输入法，但不适合所有人",
         "url": "https://www.ifanr.com/app/1552354",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 爱范儿榜单页",
         "title": "爱范儿",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-爱范儿-4-E4B88E20watchOS201020E79BB8E5A484207",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-爱范儿-4-E4B88E20watchOS201020E79BB8E5A484207",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "爱范儿",
     "titleZh": "与 watchOS 10 相处 72 小时后，我发现了下一代 Apple Watch 的秘密",
-    "summaryZh": "2026-09-15 Tophub · 爱范儿第 4 名，热度 39。AppSolution · 39",
+    "summaryZh": "2026-09-16 Tophub · 爱范儿第 4 名，热度 39。AppSolution · 39",
     "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -12166,7 +12105,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 爱范儿。",
       "排名：爱范儿第 4 名，热度 39。",
       "具体信息：与 watchOS 10 相处 72 小时后，我发现了下一代 Apple Watch 的秘密。AppSolution · 39",
@@ -12182,7 +12121,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "AppSolution · 39"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -12190,23 +12129,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 爱范儿",
         "title": "与 watchOS 10 相处 72 小时后，我发现了下一代 Apple Watch 的秘密",
         "url": "https://www.ifanr.com/app/1551761",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 爱范儿榜单页",
         "title": "爱范儿",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-爱范儿-5-iOS201720E69DA5E4BA86EFBC81E68891E4B",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-爱范儿-5-iOS201720E69DA5E4BA86EFBC81E68891E4B",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "爱范儿",
     "titleZh": "iOS 17 来了！我们找到N个新变化，告诉你值不值得升（内含更新教程）",
-    "summaryZh": "2026-09-15 Tophub · 爱范儿第 5 名，热度 19。AppSolution · 19",
+    "summaryZh": "2026-09-16 Tophub · 爱范儿第 5 名，热度 19。AppSolution · 19",
     "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -12227,7 +12166,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 爱范儿。",
       "排名：爱范儿第 5 名，热度 19。",
       "具体信息：iOS 17 来了！我们找到N个新变化，告诉你值不值得升（内含更新教程）。AppSolution · 19",
@@ -12243,7 +12182,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "AppSolution · 19"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -12251,23 +12190,23 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 爱范儿",
         "title": "iOS 17 来了！我们找到N个新变化，告诉你值不值得升（内含更新教程）",
         "url": "https://www.ifanr.com/app/1551540",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 爱范儿榜单页",
         "title": "爱范儿",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   },
   {
-    "id": "2026-09-15-hot-爱范儿-6-E58092E8AEA1E697B620720E5B08FE697B6E",
-    "date": "2026-09-15",
+    "id": "2026-09-16-hot-爱范儿-6-E58092E8AEA1E697B620720E5B08FE697B6E",
+    "date": "2026-09-16",
     "channel": "hot_rankings",
     "section": "爱范儿",
     "titleZh": "倒计时 7 小时，苹果 WWDC 最全预测来了，除了头显，还有 5 大更新",
-    "summaryZh": "2026-09-15 Tophub · 爱范儿第 6 名，热度 1。AppSolution · 1",
+    "summaryZh": "2026-09-16 Tophub · 爱范儿第 6 名，热度 1。AppSolution · 1",
     "whyItMatters": "收录原因：进入爱范儿前列，代表截止本次更新时该平台的高热度内容。",
     "regions": [
       "中国"
@@ -12288,7 +12227,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
       "平台热榜"
     ],
     "detailBlocks": [
-      "时间：2026-09-15 本次自动更新。",
+      "时间：2026-09-16 本次自动更新。",
       "平台：Tophub · 爱范儿。",
       "排名：爱范儿第 6 名，热度 1。",
       "具体信息：倒计时 7 小时，苹果 WWDC 最全预测来了，除了头显，还有 5 大更新。AppSolution · 1",
@@ -12304,7 +12243,7 @@ window.HOT_INTELLIGENCE_ITEMS = [
           "AppSolution · 1"
         ],
         "imageUrl": "",
-        "capturedAt": "2026-09-15 08:00"
+        "capturedAt": "2026-09-16 08:00"
       }
     ],
     "sources": [
@@ -12312,13 +12251,13 @@ window.HOT_INTELLIGENCE_ITEMS = [
         "publisher": "Tophub · 爱范儿",
         "title": "倒计时 7 小时，苹果 WWDC 最全预测来了，除了头显，还有 5 大更新",
         "url": "https://www.ifanr.com/app/1550602",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       },
       {
         "publisher": "Tophub · 爱范儿榜单页",
         "title": "爱范儿",
         "url": "https://tophub.today/",
-        "publishedAt": "2026-09-15 08:00"
+        "publishedAt": "2026-09-16 08:00"
       }
     ]
   }
